@@ -1,27 +1,14 @@
 USE master;
 GO
 
--- Drop and recreate the 'DataWarehouse' database
-IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouseNovartis')
+IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DatabaseNovartis')
 BEGIN
-    ALTER DATABASE DataWarehouseNovartis SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-    DROP DATABASE DataWarehouseNovartis;
+    ALTER DATABASE DatabaseNovartis SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE DatabaseNovartis;
 END;
 GO
 
--- Create the 'DataWarehouse' database
-CREATE DATABASE DataWarehouseNovartis;
+CREATE DATABASE DatabaseNovartis;
 GO
 
-USE DataWarehouseNovartis;
-GO
-
--- Create Schemas
-CREATE SCHEMA bronze;
-GO
-
-CREATE SCHEMA silver;
-GO
-
-CREATE SCHEMA gold;
-GO
+USE DatabaseNovartis;
