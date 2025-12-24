@@ -1,14 +1,25 @@
 USE master;
 GO
 
-IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DatabaseNovartis')
+IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouseNovartis')
 BEGIN
-    ALTER DATABASE DatabaseNovartis SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-    DROP DATABASE DatabaseNovartis;
+    ALTER DATABASE DataWarehouseNovartis SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE DataWarehouseNovartis;
 END;
 GO
 
-CREATE DATABASE DatabaseNovartis;
+CREATE DATABASE DataWarehouseNovartis;
 GO
 
-USE DatabaseNovartis;
+USE DataWarehouseNovartis;
+GO
+
+-- Create Schemas
+CREATE SCHEMA bronze;
+GO
+
+CREATE SCHEMA silver;
+GO
+
+CREATE SCHEMA gold;
+GO
