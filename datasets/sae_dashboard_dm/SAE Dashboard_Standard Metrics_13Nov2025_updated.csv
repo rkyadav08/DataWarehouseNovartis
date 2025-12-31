@@ -1,0 +1,50 @@
+﻿Discrepancy ID,Study ID,Country,Site,Patient ID,Form Name,Discrepancy Created Timestamp in Dashboard,Review Status,Action Status
+552,Study 8,FRA,Site 372,Subject 2993,Form 1,30-Oct-2025 19:42:05,Pending for Review,-
+6279,Study 8,FRA,Site 372,Subject 2993,Form 1,30-Oct-2025 19:42:41,Pending for Review,-
+7199,Study 8,FRA,Site 365,Subject 2914,Form 1,17-Jun-2025 20:41:22,Review Completed,No action required
+2151,Study 8,FRA,Site 372,Subject 2993,Form 1,30-Oct-2025 19:43:53,Pending for Review,-
+2154,Study 8,ZAF,Site 317,Subject 2603,Form 1,11-Nov-2025 20:44:00,Pending for Review,-
+9443,Study 8,FRA,Site 372,Subject 2993,Form 1,30-Oct-2025 19:43:17,Pending for Review,-
+10868,Study 8,FRA,Site 365,Subject 2914,Form 1,17-Jun-2025 20:41:54,Review Completed,No action required
+10871,Study 8,FRA,Site 372,Subject 2993,Form 1,30-Oct-2025 19:44:29,Pending for Review,-
+10875,Study 8,ROU,Site 424,Subject 3249,Form 1,25-Sep-2025 20:42:38,Review Completed,No action required
+10878,Study 8,ZAF,Site 317,Subject 2603,Form 1,11-Nov-2025 20:44:36,Pending for Review,-
+63909,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:51:49,Pending for Review,-
+63910,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:51:13,Pending for Review,-
+63911,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:52:25,Pending for Review,-
+599784,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:56:25,Pending for Review,-
+599785,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:56:25,Pending for Review,-
+599786,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:56:25,Pending for Review,-
+599787,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:56:25,Pending for Review,-
+599788,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:56:25,Pending for Review,-
+685954,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:58:56,Pending for Review,-
+685955,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:58:56,Pending for Review,-
+685956,Study 8,ZAF,Site 317,Subject 2603,Form 2,11-Nov-2025 20:58:56,Pending for Review,-
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
