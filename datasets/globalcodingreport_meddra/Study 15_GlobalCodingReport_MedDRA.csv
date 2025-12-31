@@ -1,0 +1,4 @@
+﻿MedDRA Coding Report,Study,Dictionary,Dictionary Version number,Subject,Form OID,Logline,Field OID,Coding Status,Require Coding
+MedDRA Coding Report,Study 15,MedDRAMedHistory,28.1,Subject 4028,MHG001,1,MHTERM,Coded Term,No
+MedDRA Coding Report,Study 15,MedDRAMedHistory,,Subject 4028,MHG001,2,MHTERM,UnCoded Term,Yes
+MedDRA Coding Report,Study 15,MedDRAMedHistory,28.1,Subject 4,MHG001,1,MHTERM,Coded Term,No
