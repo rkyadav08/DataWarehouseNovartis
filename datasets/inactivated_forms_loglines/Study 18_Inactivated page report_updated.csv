@@ -1,0 +1,6 @@
+﻿Study,Country,Study Site Number,Subject,Folder,Form,"Data on Form/
+Record    ",RecordPosition,Audit Action
+Study 18,USA,Site 2,Subject 4760,Day 1,Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 18,USA,Site 3,Subject 775,Screening,Form 2,Y,1,Record inactivated with code reason code Not Applicable.
+Study 18,USA,Site 3,Subject 775,Screening,Form 2,Y,2,Record inactivated with code reason code Not Applicable.
+Study 18,USA,Site 3,Subject 4858,Screening,Form 3,Y,,DataPage inactivated with code reason code Not Done.

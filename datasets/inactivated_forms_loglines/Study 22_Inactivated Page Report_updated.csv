@@ -1,0 +1,229 @@
+﻿Study,Country,Study Site Number,Subject,Folder,Form,"Data on Form/
+Record    ",RecordPosition,Audit Action
+Study 22,ITA,Site 465,Subject 33218,End of Study (EOS),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ITA,Site 465,Subject 33218,End of Study (EOS),Form 2,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1869,Subject 35846,Unplanned visit (5),Form 3,N,,DataPage inactivated with code reason code Not Done.
+Study 22,ESP,Site 1869,Subject 35850,Visit 4 (Month 15),Form 4,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ESP,Site 1869,Subject 35850,Visit 4 (Month 15),Form 5,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ESP,Site 1869,Subject 35850,Visit 4 (Month 15),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,NLD,Site 1775,Subject 33760,Visit 4 (Month 15),Form 7,Y,,DataPage Inactivated.
+Study 22,GBR,Site 591,Subject 36753,Visit 2 (Month 3),Form 7,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,NLD,Site 1774,Subject 33695,Visit 5 (Month 21),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,NLD,Site 1774,Subject 33695,Visit 5 (Month 21),Form 2,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,NLD,Site 1774,Subject 33695,Visit 5 (Month 21),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,NLD,Site 1774,Subject 33695,Visit 5 (Month 21),Form 4,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,NLD,Site 1774,Subject 33695,Visit 5 (Month 21),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,NLD,Site 1774,Subject 33695,Visit 5 (Month 21),Form 7,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1878,Subject 35992,Visit 3 (Month 9),Form 4,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,  ,Site 1020,Subject 15982,Adverse Event,Form 10,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 1020,Subject 15986,Adverse Event,Form 10,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,MEX,Site 2005,Subject 40344,Non-drug therapies (1),Form 11,N,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 442,Subject 38186,Visit 5 (Month 21),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 442,Subject 38186,Visit 5 (Month 21),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 442,Subject 38186,Visit 5 (Month 21),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ARG,Site 442,Subject 38186,Visit 5 (Month 21),Form 4,N,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 442,Subject 38186,Visit 5 (Month 21),Form 5,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 442,Subject 38186,Visit 5 (Month 21),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ARG,Site 442,Subject 38186,Visit 5 (Month 21),Form 7,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,PRT,Site 876,Subject 8998,Visit 4 (Month 15),Form 4,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,MEX,Site 1982,Subject 39750,Visit 2 (Month 3),Form 9,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 8629,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 8629,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 8629,End of Study (EOS),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 8629,End of Study (EOS),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 8629,End of Study (EOS),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 8629,Visit 3 (Month 9),Form 4,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 8629,Visit 3 (Month 9),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 34216,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 34216,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 34216,End of Study (EOS),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 34216,End of Study (EOS),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 34216,End of Study (EOS),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 34216,Visit 2 (Month 3),Form 4,N,,DataPage inactivated with code reason code Not Done.
+Study 22,POL,Site 98,Subject 34216,Visit 2 (Month 3),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 22,FRA,Site 1717,Subject 32629,Visit 5 (Month 21),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,TWN,Site 473,Subject 3591,Visit 2 (Month 3),Form 7,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,TWN,Site 473,Subject 3591,Visit 3 (Month 9),Form 7,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,TWN,Site 474,Subject 31307,Visit 4 (Month 15),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,TWN,Site 474,Subject 31307,Visit 4 (Month 15),Form 9,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,TWN,Site 474,Subject 31307,Visit 4 (Month 15),Form 5,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,TWN,Site 474,Subject 31307,Visit 4 (Month 15),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,TWN,Site 474,Subject 31307,Visit 4 (Month 15),Form 7,Y,,DataPage Inactivated.
+Study 22,COL,Site 1974,Subject 39507,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39507,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39507,End of Study (EOS),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39507,End of Study (EOS),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39517,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39517,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39517,End of Study (EOS),Form 9,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39517,End of Study (EOS),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39518,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39518,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39518,End of Study (EOS),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 22,COL,Site 1974,Subject 39518,End of Study (EOS),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1937,Subject 37477,End of Study (EOS),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 1084,Subject 16517,Visit 3 (Month 9),Form 9,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 919,Subject 11355,Visit 2 (Month 3),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 919,Subject 11355,Visit 2 (Month 3),Form 9,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 919,Subject 11355,Visit 2 (Month 3),Form 7,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ROU,Site 526,Subject 34332,Visit 4 (Month 15),Form 7,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 1180,Subject 17850,End of Study (EOS),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 1155,Subject 43248,Visit 4 (Month 15),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 1155,Subject 43248,Visit 4 (Month 15),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2075,Subject 42798,Visit 3 (Month 9),Form 5,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2075,Subject 42798,Visit 3 (Month 9),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 168,Subject 37830,Visit 4 (Month 15),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 1112,Subject 17040,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 1112,Subject 17040,End of Study (EOS),Form 12,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,GBR,Site 1914,Subject 36969,Visit 4 (Month 15),Form 4,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,GBR,Site 1949,Subject 37757,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1949,Subject 37757,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1949,Subject 37757,End of Study (EOS),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1949,Subject 37757,End of Study (EOS),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 22,BGR,Site 126,Subject 1110,Visit 5 (Month 21),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BGR,Site 126,Subject 31857,Visit 2 (Month 3),Form 7,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BGR,Site 126,Subject 31864,Visit 4 (Month 15),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BGR,Site 126,Subject 31865,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 1121,Subject 42504,Visit 2 (Month 3),Form 4,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2085,Subject 43067,End of Study (EOS),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2085,Subject 43067,End of Study (EOS),Form 2,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2085,Subject 43067,End of Study (EOS),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2085,Subject 43067,End of Study (EOS),Form 12,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2085,Subject 43067,End of Study (EOS),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2085,Subject 43067,End of Study (EOS),Form 7,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,SVK,Site 1832,Subject 35086,End of Study (EOS),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,SVK,Site 1832,Subject 35086,End of Study (EOS),Form 2,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,SVK,Site 1832,Subject 35086,End of Study (EOS),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2097,Subject 43478,Visit 2 (Month 3),Form 4,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2097,Subject 43478,Visit 2 (Month 3),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ITA,Site 1752,Subject 33336,End of Study (EOS),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ITA,Site 1752,Subject 33336,End of Study (EOS),Form 7,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,GBR,Site 1930,Subject 37263,Visit 2 (Month 3),Form 4,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1930,Subject 37263,Visit 2 (Month 3),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1925,Subject 37193,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1925,Subject 37193,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2047,Subject 42141,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2047,Subject 42141,End of Study (EOS),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2047,Subject 42141,End of Study (EOS),Form 7,Y,,DataPage Inactivated.
+Study 22,USA,Site 2015,Subject 41306,Visit 5 (Month 21),Form 6,N,,DataPage Inactivated.
+Study 22,USA,Site 2015,Subject 41306,Visit 5 (Month 21),Form 7,Y,,DataPage Inactivated.
+Study 22,USA,Site 1113,Subject 42346,Visit 4 (Month 15),Form 4,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 1113,Subject 42348,Visit 4 (Month 15),Form 4,N,,DataPage inactivated with code reason code Not Done.
+Study 22,BRA,Site 929,Subject 12370,Visit 5 (Month 21),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 13,Y,,DataPage Inactivated.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 14,Y,,DataPage Inactivated.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 15,Y,,DataPage Inactivated.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 16,N,,DataPage Inactivated.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 17,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 18,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 19,Y,,DataPage Inactivated.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 20,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1883,Subject 36083,Adverse Event/eSAE - Study 22_3442021_0003,Form 21,Y,,DataPage Inactivated.
+Study 22,MYS,Site 469,Subject 3565,Unplanned visit (1),Form 22,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,MYS,Site 469,Subject 3565,Unplanned visit (2),Form 22,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1901,Subject 36429,Visit 4 (Month 15),Form 9,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ESP,Site 1901,Subject 36429,Visit 4 (Month 15),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1901,Subject 36429,Visit 4 (Month 15),Form 7,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1866,Subject 35821,Screening,Form 23,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BRA,Site 1957,Subject 38637,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1902,Subject 36436,Visit 3 (Month 9),Form 7,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ESP,Site 1902,Subject 36439,Visit 4 (Month 15),Form 4,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ESP,Site 1848,Subject 35457,Visit 4 (Month 15),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1879,Subject 36010,Concomitant Medication,Form 24,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ESP,Site 1851,Subject 35550,Visit 3 (Month 9),Form 4,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ESP,Site 1851,Subject 35550,Visit 3 (Month 9),Form 5,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ESP,Site 1851,Subject 35550,Visit 3 (Month 9),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,ZAF,Site 65,Subject 476,Unplanned visit (1),Form 3,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 332,Subject 40843,Visit 4 (Month 15),Form 4,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BRA,Site 939,Subject 13099,Unplanned visit (1),Form 3,N,,DataPage inactivated with code reason code Not Done.
+Study 22,BRA,Site 939,Subject 38789,Unplanned visit (1),Form 3,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BRA,Site 939,Subject 38789,Unplanned visit (1),Form 25,Y,,DataPage Inactivated.
+Study 22,MEX,Site 1986,Subject 39875,Visit 3 (Month 9),Form 4,N,,DataPage inactivated with code reason code Not Done.
+Study 22,ARG,Site 913,Subject 10997,Visit 3 (Month 9),Form 7,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,SVK,Site 1840,Subject 35278,Visit 3 (Month 9),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,SVK,Site 1840,Subject 35278,Visit 3 (Month 9),Form 6,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ITA,Site 1756,Subject 33426,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,TWN,Site 460,Subject 3511,Unplanned visit (2),Form 22,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,CZE,Site 824,Subject 6882,Concomitant Medication,Form 24,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2048,Subject 42186,Visit 3 (Month 9),Form 9,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2048,Subject 42186,Visit 4 (Month 15),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2048,Subject 42186,Visit 4 (Month 15),Form 2,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2048,Subject 42186,Visit 4 (Month 15),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CAN,Site 961,Subject 13809,Visit 4 (Month 15),Form 6,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CAN,Site 961,Subject 13809,Visit 5 (Month 21),Form 6,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CAN,Site 961,Subject 13809,Visit 6 (Month 27),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 22,CAN,Site 961,Subject 39005,Adverse Event,Form 10,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BRA,Site 946,Subject 13366,Unplanned visit (3),Form 25,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BRA,Site 946,Subject 13366,Unplanned visit (3),Form 22,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2035,Subject 43610,Adverse Event,Form 10,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CAN,Site 970,Subject 13882,Visit 5 (Month 21),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CAN,Site 970,Subject 13882,Visit 5 (Month 21),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,AUT,Site 359,Subject 31779,Unplanned visit (1),Form 7,Y,,DataPage Inactivated.
+Study 22,USA,Site 1175,Subject 17825,Visit 3 (Month 9),Form 4,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 1175,Subject 17825,Visit 3 (Month 9),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 343,Subject 41371,Visit 4 (Month 15),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2112,Subject 43630,End of Study (EOS),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2112,Subject 43630,End of Study (EOS),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2112,Subject 43630,End of Study (EOS),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,GBR,Site 1946,Subject 37605,Visit 5 (Month 21),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1946,Subject 37605,Visit 5 (Month 21),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1946,Subject 37605,Visit 5 (Month 21),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1946,Subject 37605,Visit 5 (Month 21),Form 4,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 1946,Subject 37605,Visit 5 (Month 21),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 22,HUN,Site 1735,Subject 33067,Visit 4 (Month 15),Form 4,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 1106,Subject 16827,Visit 5 (Month 21),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 1106,Subject 42244,Adverse Event,Form 10,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 1106,Subject 42246,Adverse Event/eSAE - Study 22_5213007_0002,Form 13,Y,,DataPage Inactivated.
+Study 22,USA,Site 1106,Subject 42246,Adverse Event/eSAE - Study 22_5213007_0002,Form 14,N,,DataPage Inactivated.
+Study 22,USA,Site 1106,Subject 42246,Adverse Event/eSAE - Study 22_5213007_0002,Form 15,Y,,DataPage Inactivated.
+Study 22,USA,Site 1106,Subject 42246,Adverse Event/eSAE - Study 22_5213007_0002,Form 16,N,,DataPage Inactivated.
+Study 22,USA,Site 1106,Subject 42246,Adverse Event/eSAE - Study 22_5213007_0002,Form 19,N,,DataPage Inactivated.
+Study 22,USA,Site 1106,Subject 42246,Adverse Event/eSAE - Study 22_5213007_0002,Form 21,Y,,DataPage Inactivated.
+Study 22,POL,Site 1790,Subject 34232,Visit 4 (Month 15),Form 4,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,POL,Site 1790,Subject 34232,Visit 4 (Month 15),Form 5,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,POL,Site 1790,Subject 34232,Visit 4 (Month 15),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CHN,Site 1297,Subject 19788,Visit 4 (Month 15),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2091,Subject 43231,End of Study (EOS),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 189,Subject 3830,Screening,Form 23,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,GBR,Site 1929,Subject 37244,Visit 4 (Month 15),Form 4,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ARG,Site 1952,Subject 38305,Visit 4 (Month 15),Form 1,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ARG,Site 1952,Subject 38305,Visit 4 (Month 15),Form 2,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,DNK,Site 1350,Subject 44792,Visit 3 (Month 9),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,HUN,Site 153,Subject 7193,Visit 5 (Month 21),Form 1,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,HUN,Site 153,Subject 7193,Visit 5 (Month 21),Form 2,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,HUN,Site 153,Subject 7193,Visit 5 (Month 21),Form 9,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,HUN,Site 153,Subject 7193,Visit 5 (Month 21),Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,HUN,Site 153,Subject 7193,Visit 5 (Month 21),Form 6,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,HUN,Site 153,Subject 7193,Visit 5 (Month 21),Form 7,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,DNK,Site 1347,Subject 20575,Visit 4 (Month 15),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CAN,Site 952,Subject 13640,End of Study (EOS),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CHN,Site 196,Subject 44072,Visit 4 (Month 15),Form 1,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,CHN,Site 196,Subject 44072,Visit 4 (Month 15),Form 2,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2089,Subject 43183,Adverse Event,Form 10,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ISR,Site 781,Subject 8252,Clinical Events (1),Form 26,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ISR,Site 781,Subject 8252,Clinical Events (1),Form 27,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ISR,Site 781,Subject 8252,Clinical Events (1),Form 28,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ISR,Site 781,Subject 8252,Clinical Events (1),Form 29,N,,DataPage inactivated with code reason code Not Done.
+Study 22,ISR,Site 781,Subject 8252,Clinical Events (1),Form 30,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ISR,Site 781,Subject 8252,Clinical Events (1),Form 31,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ISR,Site 781,Subject 8252,Clinical Events (1),Form 32,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,ISR,Site 861,Subject 8136,Visit 2 (Month 3),Form 7,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2066,Subject 42707,Visit 2 (Month 3),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2066,Subject 42707,Visit 2 (Month 3),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2066,Subject 42707,Visit 2 (Month 3),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2066,Subject 42707,Visit 2 (Month 3),Form 4,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2066,Subject 42707,Visit 2 (Month 3),Form 5,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2066,Subject 42707,Visit 2 (Month 3),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 22,USA,Site 2066,Subject 42707,Visit 2 (Month 3),Form 7,Y,,DataPage inactivated with code reason code Not Done.
+Study 22,CHN,Site 200,Subject 44092,Visit 5 (Month 21),Form 6,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BGR,Site 1699,Subject 32057,End of Study (EOS),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BGR,Site 1699,Subject 32057,End of Study (EOS),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,BGR,Site 1699,Subject 32057,End of Study (EOS),Form 7,Y,,DataPage Inactivated.
+Study 22,BGR,Site 1699,Subject 32057,Non-drug therapies (1),Form 11,N,,DataPage inactivated with code reason code Not Applicable.
+Study 22,MEX,Site 1990,Subject 39990,Visit 4 (Month 15),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,MEX,Site 1990,Subject 39990,Visit 4 (Month 15),Form 9,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,NLD,Site 1783,Subject 33959,Visit 2 (Month 3),Form 2,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,USA,Site 2120,Subject 43808,Adverse Event,Form 10,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 22,LTU,Site 546,Subject 21878,End of Study (EOS),Form 1,N,,DataPage inactivated with code reason code Not Done.
+Study 22,LTU,Site 546,Subject 21878,End of Study (EOS),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 22,GBR,Site 589,Subject 36674,Visit 3 (Month 9),Form 7,Y,,DataPage inactivated with code reason code Not Done.

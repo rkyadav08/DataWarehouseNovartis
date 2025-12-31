@@ -1,0 +1,14 @@
+﻿Study,Country,Study Site Number,Subject,Folder,Form ,"Data on Form/
+Record    ",RecordPosition,Audit Action
+Study 11,DNK,Site 476,Subject 3604,Week 68/F16 (1),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 11,DNK,Site 476,Subject 3604,Week 68/F16 (1),Form 2,N,,DataPage inactivated with code reason code Not Done.
+Study 11,DNK,Site 476,Subject 3604,Week 72/F20 (1),Form 1,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 11,DNK,Site 476,Subject 3604,Week 72/F20 (1),Form 2,N,,DataPage inactivated with code reason code Not Applicable.
+Study 11,FRA,Site 491,Subject 3666,Week 64/F12 (1),Form 3,Y,,DataPage inactivated with code reason code Not Done.
+Study 11,ZAF,Site 5,Subject 3568,Screening 1,Form 4,Y,,DataPage inactivated with code reason code Not Done.
+Study 11,ZAF,Site 5,Subject 3568,Screening 1,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 11,ZAF,Site 5,Subject 3568,Screening 1,Form 4,Y,2,Record inactivated with code reason code Not Done.
+Study 11,ZAF,Site 5,Subject 3568,Screening 1,Form 4,Y,3,Record inactivated with code reason code Not Done.
+Study 11,DEU,Site 499,Subject 3691,Medical History (1),Form 5,Y,11,Record inactivated with code reason code Not Done.
+Study 11,USA,Site 20,Subject 1602,Escape Treatment (1),Form 6,N,4,Record inactivated with code reason code Not Done.
+Study 11,DEU,Site 500,Subject 3696,Week 64/F12 (1),Form 2,Y,1,Record inactivated with code reason code Not Done.

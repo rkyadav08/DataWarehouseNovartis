@@ -1,0 +1,909 @@
+﻿Study,Country,Study Site Number,Subject,Folder,Form ,"Data on Form/
+Record    ",RecordPosition,Audit Action
+Study 17,USA,Site 19,Subject 77,68GA-NNS309 IMAGING (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 77,68GA-NNS309 IMAGING (1),Form 1,Y,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 77,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,68GA-NNS309 IMAGING (1),Form 3,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,68GA-NNS309 IMAGING (1),Form 3,Y,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,68GA-NNS309 IMAGING (1),Form 3,Y,3,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,ADVERSE EVENT,Form 4,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 78,ADVERSE EVENT,Form 4,Y,11,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 78,ADVERSE EVENT,Form 4,N,12,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,CONCOMITANT MEDICATION (1),Form 5,N,25,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,CYCLE 1 DAY 29 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 78,CYCLE 2 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 78,CYCLE 2 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,CYCLE 2 DAY 29 (1),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 7,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 8,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 10,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 10,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 3,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 11,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 13,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 14,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,END OF TREATMENT (1),Form 15,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,MEDICAL HISTORY (1),Form 16,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,PROCEDURES (1),Form 17,N,11,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,PROTOCOL DEVIATION,Form 18,Y,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,UNPLANNED VISIT (1),Form 19,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 78,UNPLANNED VISIT (1),Form 20,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 21,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 21,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 22,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 22,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 22,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 22,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 22,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 3,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 3,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 3,Y,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 3,Y,3,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 3,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 1,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,68GA-NNS309 IMAGING (1),Form 1,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,Y,3,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,Y,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,Y,7,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,Y,8,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,Y,9,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,Y,13,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,Y,23,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,ADVERSE EVENT,Form 4,N,27,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,CYCLE 1 DAY 1 (1),Form 3,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,CYCLE 1 DAY 1 (1),Form 3,Y,5,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,CYCLE 1 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,CYCLE 1 DAY 22 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,CYCLE 1 DAY 29 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,CYCLE 1 DAY 36 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,CYCLE 2 DAY 1 (1),Form 23,Y,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 79,CYCLE 2 DAY 1 (1),Form 23,Y,1,Record Inactivated.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 24,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 24,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 24,Y,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 3,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 3,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 25,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 25,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 26,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 26,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 26,Y,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 26,Y,3,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 27,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 1 (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 2 (1),Form 27,N,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 79,DISEASE PROGRESSION FU 2 (1),Form 1,N,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 79,END OF TREATMENT (1),Form 3,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,END OF TREATMENT (1),Form 3,N,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,END OF TREATMENT (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,MEDICAL HISTORY (1),Form 16,N,14,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,MEDICAL HISTORY (1),Form 16,N,15,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,MEDICAL HISTORY (1),Form 16,N,16,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,MEDICAL HISTORY (1),Form 16,N,17,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,PROCEDURES (1),Form 17,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 79,PROTOCOL DEVIATION,Form 18,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,PROTOCOL DEVIATION,Form 18,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 79,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 80,68GA-NNS309 IMAGING (1),Form 3,Y,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,68GA-NNS309 IMAGING (1),Form 3,Y,5,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,68GA-NNS309 IMAGING (1),Form 3,Y,6,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT,Form 4,Y,12,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT,Form 4,Y,13,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,1,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,2,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,3,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,4,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,5,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,6,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,7,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,8,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,9,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,10,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,11,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,12,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,13,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,14,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,15,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,16,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,17,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,18,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,19,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,20,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,21,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 28,Y,22,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 29,Y,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 29,Y,1,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 29,Y,2,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 29,Y,3,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 29,Y,4,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,1,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,2,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,3,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,4,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,5,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,6,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,7,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,8,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,9,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,10,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,11,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,12,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,13,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,14,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,15,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,16,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,17,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,18,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,19,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,20,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,21,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 30,Y,22,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 31,Y,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 31,Y,1,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 32,N,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 33,N,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 34,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 35,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 36,Y,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 36,Y,1,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 36,Y,2,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 36,Y,3,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 36,Y,4,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 36,Y,5,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 37,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 37,Y,1,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 38,Y,,DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 38,Y,1,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,ADVERSE EVENT/eSAE - Study 17_5004004_0001,Form 38,Y,2,Record Inactivated.
+Study 17,USA,Site 19,Subject 80,CYCLE 1 DAY 36 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 39,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 40,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 41,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 9,Y,,Amendment Manager: DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 10,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 11,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 13,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 14,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 25,N,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 42,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 43,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 1 (1),Form 44,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,CYCLE 2 DAY 15 (1),Form 1,N,,Amendment Manager: DataPage Inactivated.
+Study 17,USA,Site 19,Subject 80,END OF TREATMENT (1),Form 3,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,PROCEDURES (1),Form 17,N,3,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 80,SCREENING,Form 45,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 80,SCREENING,Form 45,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 80,SCREENING,Form 45,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 80,SCREENING,Form 1,N,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 81,68GA-NNS309 IMAGING (1),Form 3,N,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 81,MEDICAL HISTORY (1),Form 16,Y,7,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 81,MEDICAL HISTORY (1),Form 16,Y,9,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 81,MEDICAL HISTORY (1),Form 16,Y,11,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 81,MEDICAL HISTORY (1),Form 16,Y,13,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 81,MEDICAL HISTORY (1),Form 16,N,18,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 81,SCREENING,Form 46,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 81,SCREENING,Form 47,Y,,Amendment Manager: DataPage Inactivated.
+Study 17,USA,Site 19,Subject 4756,CYCLE 1 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 4756,CYCLE 1 DAY 8 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 4756,MEDICAL HISTORY (1),Form 16,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 4756,MEDICAL HISTORY (1),Form 16,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 19,Subject 4757,68GA-NNS309 IMAGING (1),Form 48,N,6,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 19,Subject 4757,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 16,Subject 55,68GA-NNS309 IMAGING (1),Form 21,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,68GA-NNS309 IMAGING (1),Form 48,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT,Form 4,Y,11,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT,Form 4,Y,16,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,,DataPage Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,1,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,2,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,3,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,4,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,5,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,6,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,7,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,8,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,9,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,10,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,11,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,12,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,13,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,14,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,15,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,16,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,17,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,18,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,19,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,20,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,21,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,22,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 28,Y,23,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 29,Y,,DataPage Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 29,Y,1,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 29,Y,2,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 29,Y,3,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 29,Y,4,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 29,Y,5,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 29,Y,6,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,,DataPage Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,1,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,2,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,3,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,4,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,5,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,6,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,7,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,8,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,9,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 30,Y,10,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 31,N,,DataPage Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 32,N,,DataPage Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 33,N,,DataPage Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 34,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 35,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 36,N,,DataPage Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 37,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 37,Y,1,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 38,Y,,DataPage Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 38,Y,1,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0002,Form 38,Y,2,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0003,Form 30,Y,11,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,ADVERSE EVENT/eSAE - Study 17_3003001_0003,Form 30,Y,15,Record Inactivated.
+Study 17,CAN,Site 16,Subject 55,CONCOMITANT MEDICATION (1),Form 5,Y,20,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,CONCOMITANT MEDICATION (1),Form 5,Y,24,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,CYCLE 1 DAY 1 (1),Form 1,N,6,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 55,UNPLANNED VISIT (4),Form 19,N,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 16,Subject 55,UNPLANNED VISIT (8),Form 19,N,2,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 16,Subject 56,68GA-NNS309 IMAGING (1),Form 21,N,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 16,Subject 56,68GA-NNS309 IMAGING (1),Form 22,N,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 16,Subject 56,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ESP,Site 775,Subject 4752,CYCLE 1 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CHE,Site 776,Subject 4753,ADVERSE EVENT,Form 4,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CHE,Site 776,Subject 4753,DISPOSITION,Form 50,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CHE,Site 776,Subject 4753,SCREENING,Form 51,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CHE,Site 776,Subject 4753,SCREENING,Form 52,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CHE,Site 776,Subject 4753,SCREENING,Form 53,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CHE,Site 776,Subject 4754,PROCEDURES (1),Form 17,Y,2,Record inactivated with code reason code Not Done.
+Study 17,CHE,Site 776,Subject 4754,PROCEDURES (1),Form 17,Y,3,Record inactivated with code reason code Not Done.
+Study 17,CHE,Site 776,Subject 4754,PROCEDURES (1),Form 17,Y,4,Record inactivated with code reason code Not Done.
+Study 17,CHE,Site 776,Subject 4754,PROCEDURES (1),Form 17,Y,5,Record inactivated with code reason code Not Done.
+Study 17,CHE,Site 776,Subject 4755,SCREENING,Form 2,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,ADVERSE EVENT,Form 4,Y,15,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 1 (1),Form 3,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 1 (1),Form 3,N,1,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 2 (1),Form 54,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 2 (1),Form 54,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 22 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 29 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 3 (1),Form 54,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 3 (1),Form 54,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 36 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 4 (1),Form 54,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 4 (1),Form 54,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 1 DAY 8 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,CYCLE 2 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3544,MEDICAL HISTORY (1),Form 16,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,SCREENING,Form 55,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,SCREENING,Form 45,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,SCREENING,Form 45,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3544,SCREENING,Form 45,Y,4,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3544,UNPLANNED VISIT (1),Form 19,N,4,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3545,68GA-NNS309 IMAGING (1),Form 22,N,4,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3545,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3545,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,CYCLE 1 DAY 22 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,CYCLE 1 DAY 29 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,CYCLE 1 DAY 36 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,CYCLE 1 DAY 8 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,CYCLE 2 DAY 1 (1),Form 24,N,4,Record Inactivated.
+Study 17,FRA,Site 466,Subject 3545,CYCLE 2 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,CYCLE 2 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 55,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,5,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,6,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,7,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,10,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 45,Y,12,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 56,Y,,DataPage Inactivated.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 56,N,1,Record Inactivated.
+Study 17,FRA,Site 466,Subject 3545,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3546,68GA-NNS309 IMAGING (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3546,ADVERSE EVENT,Form 4,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,ADVERSE EVENT,Form 4,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,ADVERSE EVENT/eSAE - Study 17_1102003_0001,Form 28,Y,11,Record Inactivated.
+Study 17,FRA,Site 466,Subject 3546,ADVERSE EVENT/eSAE - Study 17_1102003_0001,Form 30,Y,8,Record Inactivated.
+Study 17,FRA,Site 466,Subject 3546,CONCOMITANT MEDICATION (1),Form 5,Y,15,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,CYCLE 1 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,CYCLE 1 DAY 22 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,CYCLE 1 DAY 29 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3546,CYCLE 1 DAY 36 (1),Form 14,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3546,CYCLE 1 DAY 36 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,CYCLE 1 DAY 8 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,CYCLE 2 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,MEDICAL HISTORY (1),Form 16,Y,11,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3546,PROCEDURES (1),Form 17,N,2,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 55,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,5,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,6,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,7,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,8,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,9,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,SCREENING,Form 45,Y,11,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED RECIST (1),Form 24,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED RECIST (1),Form 24,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED RECIST (1),Form 24,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED RECIST (1),Form 24,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED RECIST (1),Form 24,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED RECIST (1),Form 24,Y,5,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED RECIST (1),Form 25,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED RECIST (1),Form 26,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3546,UNPLANNED VISIT (1),Form 19,N,5,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3547,68GA-NNS309 IMAGING (1),Form 1,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3547,68GA-NNS309 IMAGING (1),Form 1,Y,2,Record inactivated with code reason code Not Done.
+Study 17,FRA,Site 466,Subject 3547,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3547,SCREENING,Form 55,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3547,SCREENING,Form 57,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,FRA,Site 466,Subject 3547,SCREENING,Form 57,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ESP,Site 7,Subject 14,68GA-NNS309 IMAGING (1),Form 3,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ESP,Site 7,Subject 14,ADVERSE EVENT/eSAE - Study 17_1601001_0001,Form 32,Y,14,Record Inactivated.
+Study 17,ESP,Site 7,Subject 14,ADVERSE EVENT/eSAE - Study 17_1601001_0001,Form 32,Y,15,Record Inactivated.
+Study 17,ESP,Site 7,Subject 14,ADVERSE EVENT/eSAE - Study 17_1601001_0001,Form 32,Y,16,Record Inactivated.
+Study 17,ESP,Site 7,Subject 14,ADVERSE EVENT/eSAE - Study 17_1601001_0001,Form 32,Y,17,Record Inactivated.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 29 (1),Form 7,N,,DataPage Inactivated.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 29 (1),Form 8,N,,DataPage Inactivated.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 29 (1),Form 11,N,,DataPage Inactivated.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 29 (1),Form 13,N,,DataPage Inactivated.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 29 (1),Form 14,N,,DataPage Inactivated.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 29 (1),Form 6,N,,DataPage Inactivated.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 29 (1),Form 58,N,,DataPage Inactivated.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 36 (1),Form 14,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 36 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 36 (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 1 DAY 36 (1),Form 1,N,2,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 2 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 2 DAY 1 (1),Form 43,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 2 DAY 1 (1),Form 43,N,1,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 2 DAY 1 (1),Form 43,N,2,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 2 DAY 1 (1),Form 43,N,3,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,CYCLE 2 DAY 1 (1),Form 43,N,4,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 14,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ESP,Site 7,Subject 14,UNPLANNED VISIT (5),Form 19,N,3,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 594,68GA-NNS309 IMAGING (1),Form 22,N,4,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 594,END OF TREATMENT (1),Form 24,N,4,Record Inactivated.
+Study 17,ESP,Site 7,Subject 594,END OF TREATMENT (1),Form 3,N,5,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 594,SCREENING,Form 45,Y,3,Record inactivated with code reason code Not Done.
+Study 17,ESP,Site 7,Subject 594,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT,Form 4,Y,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT,Form 4,Y,7,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT,Form 4,N,26,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,4,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,7,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,8,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,9,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,13,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,15,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,16,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,22,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 29,Y,23,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 38,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0001,Form 38,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,4,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,7,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,8,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,9,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,13,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,15,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,16,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,22,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 29,Y,23,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 30,Y,28,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 30,Y,37,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 30,Y,43,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 30,Y,57,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,ADVERSE EVENT/eSAE - Study 17_3001001_0002,Form 30,Y,60,Record Inactivated.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,27,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,31,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,36,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,49,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,51,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,63,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,65,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,98,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CONCOMITANT MEDICATION (1),Form 5,Y,101,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CYCLE 1 DAY 1 (1),Form 12,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CYCLE 1 DAY 22 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,CYCLE 1 DAY 36 (1),Form 59,N,,Amendment Manager: DataPage Inactivated.
+Study 17,CAN,Site 14,Subject 25,CYCLE 1 DAY 36 (1),Form 1,N,,Amendment Manager: DataPage Inactivated.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 45,Y,3,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 60,Y,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 60,Y,3,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 61,Y,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 56,Y,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 56,Y,3,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 2,Y,4,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 2,Y,6,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 2,Y,7,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 62,Y,1,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,SCREENING,Form 62,Y,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,UNPLANNED VISIT (5),Form 19,Y,1,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 14,Subject 25,UNPLANNED VISIT (5),Form 63,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,CYCLE 1 DAY 1 (1),Form 1,N,3,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 64,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 64,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 64,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 64,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 24,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 24,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 24,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 3,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 3,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 3,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 25,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 25,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 26,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 26,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 26,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 14,Subject 26,UNPLANNED RECIST (1),Form 26,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,68GA-NNS309 IMAGING (1),Form 21,N,4,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,68GA-NNS309 IMAGING (1),Form 22,N,6,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,68GA-NNS309 IMAGING (1),Form 3,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,68GA-NNS309 IMAGING (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,68GA-NNS309 IMAGING (1),Form 1,N,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,ADVERSE EVENT,Form 4,Y,16,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,ANTINEOPLASTIC THERAPIES (1),Form 65,Y,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2664,ANTINEOPLASTIC THERAPIES (1),Form 65,N,1,Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 1 DAY 22 (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,CYCLE 1 DAY 29 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,CYCLE 1 DAY 36 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,CYCLE 2 DAY 1 (1),Form 64,N,4,Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 2 DAY 1 (1),Form 24,N,6,Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 2 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,CYCLE 2 DAY 29 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 1 (1),Form 64,N,4,Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 1 (1),Form 24,N,6,Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 1 (1),Form 23,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 1 (1),Form 23,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 2 (1),Form 66,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 2 (1),Form 66,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 2 (1),Form 67,Y,,Amendment Manager: DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 2 (1),Form 67,Y,1,Amendment Manager: Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 3 (1),Form 66,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 3 (1),Form 66,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 3 (1),Form 67,Y,,Amendment Manager: DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 3 (1),Form 67,Y,1,Amendment Manager: Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 4 (1),Form 66,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 4 (1),Form 66,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 8 (1),Form 66,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 8 (1),Form 66,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 8 (1),Form 67,Y,,Amendment Manager: DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2664,CYCLE 3 DAY 8 (1),Form 67,Y,1,Amendment Manager: Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,END OF TREATMENT (1),Form 64,N,4,Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,END OF TREATMENT (1),Form 24,N,6,Record Inactivated.
+Study 17,USA,Site 327,Subject 2664,MEDICAL HISTORY (1),Form 16,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,MEDICAL HISTORY (1),Form 16,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,PROCEDURES (1),Form 17,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,PROCEDURES (1),Form 17,Y,3,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,PROCEDURES (1),Form 17,Y,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,PROCEDURES (1),Form 17,Y,5,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,PROCEDURES (1),Form 17,Y,6,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,PROCEDURES (1),Form 17,Y,7,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2664,SCREENING,Form 68,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,SCREENING,Form 69,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2664,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,68GA-NNS309 IMAGING (1),Form 3,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,90 DAYS SAFETY FUP (1),Form 11,N,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,90 DAYS SAFETY FUP (1),Form 13,N,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT,Form 4,Y,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT,Form 4,Y,5,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT,Form 4,Y,8,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT,Form 4,Y,9,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT,Form 4,Y,10,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 70,Y,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 28,Y,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 28,Y,1,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 28,Y,2,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 28,Y,3,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 28,Y,4,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 28,Y,5,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 28,Y,6,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 29,Y,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 29,Y,1,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 29,Y,2,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 29,Y,3,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 29,Y,4,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 29,Y,5,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 29,Y,6,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 29,Y,7,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 30,Y,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 30,Y,1,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 30,Y,2,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 30,Y,3,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 30,Y,4,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 30,Y,5,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 31,N,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 32,N,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 33,N,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 34,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 35,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 36,N,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 37,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 37,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 38,Y,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 38,Y,1,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,ADVERSE EVENT/eSAE - Study 17_5009002_0001,Form 38,Y,2,Record Inactivated.
+Study 17,USA,Site 327,Subject 2665,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,CONCOMITANT MEDICATION (1),Form 5,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 1 (1),Form 3,N,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 22 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 29 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 36 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 36 (1),Form 1,N,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 8 (1),Form 11,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 8 (1),Form 13,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 8 (1),Form 14,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 8 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 1 DAY 8 (1),Form 58,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,CYCLE 2 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,CYCLE 2 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 7,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 8,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 10,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 3,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 11,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 13,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 14,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,END OF TREATMENT (1),Form 15,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,MEDICAL HISTORY (1),Form 16,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,PROCEDURES (1),Form 17,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,"PROTOCOL AMENDMENT LOG	 (1)",Form 71,N,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,SCREENING,Form 68,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2665,SCREENING,Form 45,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,SCREENING,Form 45,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2665,UNPLANNED VISIT (1),Form 19,N,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,68GA-NNS309 IMAGING (1),Form 22,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,ADVERSE EVENT,Form 4,Y,9,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,ADVERSE EVENT,Form 4,Y,12,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 15 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 22 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 4 (1),Form 66,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 4 (1),Form 66,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 4 (1),Form 67,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 4 (1),Form 67,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 4 (1),Form 59,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 4 (1),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 4 (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,CYCLE 1 DAY 8 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 2 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 2 DAY 8 (1),Form 6,Y,,Amendment Manager: DataPage Inactivated.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,4,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,5,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,6,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,7,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 66,Y,8,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 1 (1),Form 24,Y,2,Record Inactivated.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 2 (1),Form 66,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,CYCLE 3 DAY 2 (1),Form 66,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,MEDICAL HISTORY (1),Form 16,Y,6,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 2666,MEDICAL HISTORY (1),Form 16,N,9,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2666,SCREENING,Form 2,N,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 2667,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3395,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,68GA-NNS309 IMAGING (1),Form 48,N,6,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,CONCOMITANT MEDICATION (1),Form 5,Y,16,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 15 (1),Form 58,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 15 (1),Form 58,N,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 15 (1),Form 58,N,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 15 (1),Form 58,N,3,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 15 (1),Form 58,N,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 22 (1),Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 22 (1),Form 58,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 22 (1),Form 58,N,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 22 (1),Form 58,N,2,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 22 (1),Form 58,N,3,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 22 (1),Form 58,N,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 4 (1),Form 66,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 4 (1),Form 66,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 4 (1),Form 67,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 4 (1),Form 67,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 4 (1),Form 59,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 4 (1),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 4 (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,CYCLE 1 DAY 8 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 7,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 8,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 9,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 10,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 3,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 11,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 12,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 13,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 72,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 14,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 6,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,END OF TREATMENT (1),Form 15,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 3396,PROCEDURES (1),Form 17,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 3396,SCREENING,Form 73,Y,,DataPage Inactivated.
+Study 17,USA,Site 327,Subject 3396,SCREENING,Form 73,N,1,Record Inactivated.
+Study 17,USA,Site 327,Subject 3396,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 4758,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 4759,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 4759,MEDICAL HISTORY (1),Form 16,Y,6,Record inactivated with code reason code Not Applicable.
+Study 17,USA,Site 327,Subject 4759,SCREENING,Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,USA,Site 327,Subject 4759,SCREENING,Form 45,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 74,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 74,N,1,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 74,N,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 74,N,3,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 74,N,4,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 75,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 75,N,1,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 75,N,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 75,N,3,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,68GA-NNS309 IMAGING (1),Form 75,N,4,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 28,Y,,DataPage Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 28,Y,1,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,,DataPage Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,1,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,2,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,3,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,4,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,5,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,6,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,7,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,8,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,9,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,10,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,11,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,12,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,13,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,14,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,15,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,16,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,17,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,18,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,19,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,20,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,21,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,22,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,23,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 29,Y,24,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 30,Y,,DataPage Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 30,Y,1,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 30,Y,2,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 30,Y,3,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 31,N,,DataPage Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 32,N,,DataPage Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 33,N,,DataPage Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 34,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 35,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 36,N,,DataPage Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 37,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 37,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 38,Y,,DataPage Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 38,Y,1,Record Inactivated.
+Study 17,CAN,Site 15,Subject 39,ADVERSE EVENT/eSAE - Study 17_3002001_0001,Form 38,Y,2,Record Inactivated.
+Study 17,CAN,Site 15,Subject 40,68GA-NNS309 IMAGING (1),Form 75,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 40,68GA-NNS309 IMAGING (1),Form 75,Y,1,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 40,68GA-NNS309 IMAGING (1),Form 75,Y,2,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 40,68GA-NNS309 IMAGING (1),Form 75,Y,3,Record inactivated with code reason code Not Done.
+Study 17,CAN,Site 15,Subject 40,68GA-NNS309 IMAGING (1),Form 75,Y,4,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 3565,68GA-NNS309 IMAGING (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 3565,68GA-NNS309 IMAGING (1),Form 1,N,2,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 3565,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 3565,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 3565,CONCOMITANT MEDICATION (1),Form 5,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 3565,MEDICAL HISTORY (1),Form 16,N,5,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 3565,PROTOCOL DEVIATION,Form 18,Y,3,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4744,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4744,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4744,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,180 DAYS SAFETY FUP (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,90 DAYS SAFETY FUP (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT,Form 4,Y,9,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,3,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,4,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,5,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,6,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,7,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,8,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 28,Y,9,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,3,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,4,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,5,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,6,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,7,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,8,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,9,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,10,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,11,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,12,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,13,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,14,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,15,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,16,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 29,Y,17,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 30,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 30,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 30,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 30,Y,3,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 30,Y,4,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 30,Y,5,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 30,Y,6,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 30,Y,7,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 31,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 32,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 33,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 34,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 35,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 36,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 36,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 36,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 37,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 37,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 38,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 38,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0002,Form 38,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4745,ADVERSE EVENT/eSAE - Study 17_1301003_0004,Form 36,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,ANTINEOPLASTIC THERAPIES (1),Form 76,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,ANTINEOPLASTIC THERAPIES (1),Form 77,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,ANTINEOPLASTIC THERAPIES (1),Form 78,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,ANTINEOPLASTIC THERAPIES (1),Form 79,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,CYCLE 2 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,CYCLE 3 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,CYCLE 3 DAY 1 (1),Form 1,N,4,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4745,DISEASE PROGRESSION FU 1 (1),Form 27,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,DISEASE PROGRESSION FU 1 (1),Form 1,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,DISEASE PROGRESSION FU 1 (1),Form 1,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,DISEASE PROGRESSION FU 2 (1),Form 27,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,DISEASE PROGRESSION FU 2 (1),Form 1,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 9,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 3,N,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 12,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 14,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 15,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 15,N,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 15,N,2,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 15,N,3,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 15,N,4,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,END OF TREATMENT (1),Form 15,N,5,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,PROCEDURES (1),Form 17,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4745,UNPLANNED RECIST (1),Form 3,Y,3,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4745,UNPLANNED VISIT (1),Form 19,N,6,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4746,68GA-NNS309 IMAGING (1),Form 21,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4746,68GA-NNS309 IMAGING (1),Form 22,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4746,68GA-NNS309 IMAGING (1),Form 22,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4746,68GA-NNS309 IMAGING (1),Form 48,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4746,68GA-NNS309 IMAGING (1),Form 3,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4746,68GA-NNS309 IMAGING (1),Form 3,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4746,ADVERSE EVENT,Form 4,N,2,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4746,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4746,POST 68GA-NNS309 IMAGING (1),Form 1,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4746,PROCEDURES (1),Form 17,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4746,SCREENING,Form 9,Y,,Amendment Manager: DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4746,SCREENING,Form 68,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4746,SCREENING,Form 61,N,3,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4747,68GA-NNS309 IMAGING (1),Form 74,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4747,68GA-NNS309 IMAGING (1),Form 74,N,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4747,68GA-NNS309 IMAGING (1),Form 74,N,2,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4747,68GA-NNS309 IMAGING (1),Form 74,N,3,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4747,68GA-NNS309 IMAGING (1),Form 74,N,4,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT,Form 4,Y,6,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0001,Form 38,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0001,Form 38,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 70,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,3,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,4,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,5,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,6,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,7,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,8,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 28,Y,9,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 29,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 29,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 29,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 29,Y,3,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 29,Y,4,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 29,Y,5,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 29,Y,6,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,3,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,4,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,5,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,6,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,7,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,8,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 30,Y,9,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 31,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 32,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 33,N,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 34,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 35,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 36,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 36,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 37,Y,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 37,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 38,Y,,DataPage Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 38,Y,1,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,ADVERSE EVENT/eSAE - Study 17_1301005_0003,Form 38,Y,2,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4747,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4747,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4747,CYCLE 1 DAY 1 (1),Form 1,Y,2,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4747,SCREENING,Form 2,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4748,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4748,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4748,PROCEDURES (1),Form 17,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4749,68GA-NNS309 IMAGING (1),Form 80,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4749,ADVERSE EVENT/eSAE - Study 17_1301007_0001,Form 30,Y,14,Record Inactivated.
+Study 17,ISR,Site 469,Subject 4749,ANTINEOPLASTIC THERAPIES (1),Form 76,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4749,ANTINEOPLASTIC THERAPIES (1),Form 77,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4749,CYCLE 1 DAY 1 (1),Form 14,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4749,CYCLE 1 DAY 1 (1),Form 6,Y,,DataPage inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4749,POST 68GA-NNS309 IMAGING (1),Form 1,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4749,SCREENING,Form 52,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4749,SCREENING,Form 69,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4749,SCREENING,Form 62,Y,1,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4749,UNPLANNED VISIT (1),Form 19,N,2,Record inactivated with code reason code Not Applicable.
+Study 17,ISR,Site 469,Subject 4750,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,ISR,Site 469,Subject 4751,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 177,Subject 1594,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 177,Subject 1595,BLOOD COMPONENT TRANSFUSION (1),Form 49,N,,DataPage inactivated with code reason code Not Applicable.
+Study 17,USA,Site 177,Subject 1595,CYCLE 1 DAY 1 (1),Form 1,N,7,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 177,Subject 1595,SCREENING,Form 73,N,4,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 18,Subject 63,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 18,Subject 64,ADVERSE EVENT,Form 4,Y,1,Record inactivated with code reason code Not Done.
+Study 17,USA,Site 325,Subject 2649,ADVERSE EVENT/eSAE - Study 17_5005002_0001,Form 30,Y,14,Record Inactivated.
+Study 17,USA,Site 325,Subject 2649,ADVERSE EVENT/eSAE - Study 17_5005002_0001,Form 30,Y,17,Record Inactivated.
