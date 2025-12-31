@@ -1,0 +1,495 @@
+﻿Project Name,Region,Country,Site ID,Subject ID,Latest Visit (SV) (Source: Rave EDC: BO4),Subject Status (Source: PRIMARY Form),Input files,,,,,,,,,CPMD,,,,,,,,,,,,,,,,,,,,,,SSM,,,,,
+,,,,,,,Missing Visits,Missing Page,# Coded terms,# Uncoded Terms,# Open issues in LNR,# Open Issues reported for 3rd party reconciliation in EDRR,Inactivated forms and folders,# eSAE dashboard review for DM,# eSAE dashboard review for safety,Visit status,Page status (Source: (Rave EDC : BO4)),,,,,Queries status (Source:(Rave EDC : BO4)),,,,,,,,Page Action Status (Source: (Rave EDC : BO4)),,,,,,Protocol Deviations (Source:(Rave EDC : BO4)),,PI Signatures (Source: (Rave EDC : BO4)),,,,,
+,,,,,,,,,,,,,,,,# Expected Visits (Rave EDC : BO4),# Pages Entered,# Pages with Non-Conformant data,# Total CRFs with queries & Non-Conformant data,# Total CRFs without queries & Non-Conformant data,% Clean Entered CRF,# DM Queries,# Clinical Queries,# Medical Queries,# Site Queries,# Field Monitor Queries,# Coding Queries,# Safety Queries,#Total Queries,# CRFs Require Verification (SDV),# Forms Verified,# CRFs Frozen,# CRFs Not Frozen,# CRFs Locked,# CRFs Unlocked,# PDs Confirmed,# PDs Proposed,# CRFs Signed,CRFs overdue for signs within 45 days of Data entry,CRFs overdue for signs between 45 to 90 days of Data entry,CRFs overdue for signs beyond 90 days of Data entry,Broken Signatures,CRFs Never Signed
+Responsible LF for action,,,,,,,,,,,,,,,,,,Site/CRA,,,,DM,CSE/CDD,CDMD/Medical Lead,Site/CRA,CRA,Coder,Safety Team,,CRA,,,DM,,,CD LF,,Investigator,,,,,
+Study 11,ASIA,JPN,Site 2,Subject 2,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,224,0,,,,0,0,0,0,0,0,0,0,1,209,2,4,0,0,0,0,211,0,0,0,0,0
+Study 11,ASIA,JPN,Site 2,Subject 3,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,216,0,,,,0,0,0,0,0,0,0,0,19,82,0,0,0,0,0,0,200,0,0,0,0,0
+Study 11,ASIA,JPN,Site 2,Subject 4,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,218,0,,,,0,0,0,0,0,0,0,0,19,186,0,0,0,0,0,0,205,0,0,0,0,0
+Study 11,ASIA,JPN,Site 4,Subject 9,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,202,0,,,,0,0,0,0,0,0,0,0,1,188,0,0,0,0,0,0,187,0,0,0,0,0
+Study 11,ASIA,JPN,Site 4,Subject 10,Week 52/EOT (1),Discontinued,,,,,,,,,,16,162,0,,,,0,0,0,0,0,0,0,0,1,66,0,0,0,0,0,0,145,0,0,0,0,0
+Study 11,ASIA,JPN,Site 4,Subject 105,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,227,0,,,,0,0,0,0,0,0,0,0,1,121,0,0,0,0,0,0,214,0,0,0,0,0
+Study 11,ASIA,JPN,Site 4,Subject 106,Screening 2 (1),Screen Failure,,,,,,,,,,2,13,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,12,0,0,0,0,0
+Study 11,ASIA,JPN,Site 4,Subject 787,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,221,0,,,,0,0,0,0,0,0,0,0,19,107,0,0,0,0,0,0,199,0,0,0,0,0
+Study 11,ASIA,JPN,Site 4,Subject 788,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,240,0,,,,0,0,0,0,0,0,0,0,10,127,0,0,0,0,0,0,227,0,0,0,0,0
+Study 11,ASIA,JPN,Site 28,Subject 107,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,232,0,,,,0,0,0,0,0,0,0,0,1,218,0,3,0,0,0,0,211,0,0,0,0,0
+Study 11,ASIA,JPN,Site 28,Subject 108,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,221,0,,,,0,0,0,0,0,0,0,0,19,81,0,3,0,0,1,0,205,0,0,0,0,0
+Study 11,ASIA,JPN,Site 28,Subject 2233,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,211,0,,,,0,0,0,0,0,0,0,0,19,86,0,0,0,0,0,0,198,0,0,0,0,0
+Study 11,ASIA,JPN,Site 29,Subject 109,Week 52/EOT (1),Discontinued,,,,,,,,,,15,166,0,,,,0,0,0,0,0,0,0,0,1,156,0,0,0,0,0,0,157,0,0,0,0,0
+Study 11,ASIA,JPN,Site 31,Subject 118,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,206,0,,,,0,0,0,0,0,0,0,0,1,194,0,0,0,0,0,0,193,0,0,0,0,0
+Study 11,ASIA,JPN,Site 357,Subject 2860,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,190,0,,,,0,0,0,0,0,0,0,0,1,178,0,0,0,0,0,0,179,0,0,0,0,0
+Study 11,ASIA,JPN,Site 357,Subject 2861,Week 52/EOT (1),Discontinued,,,,,,,,,,22,191,0,,,,0,0,0,0,0,0,0,0,19,72,0,0,0,0,0,0,183,0,0,0,0,0
+Study 11,ASIA,JPN,Site 357,Subject 3527,Week 72/F20 (1),On Trial,,,,,,,,,,27,252,0,,,,0,0,0,0,0,0,0,0,25,99,0,0,0,0,2,0,224,5,0,0,0,5
+Study 11,ASIA,JPN,Site 34,Subject 133,UNPLANNED (2),Discontinued,,,,,,,,,,8,97,0,,,,0,0,0,0,0,0,0,0,1,90,0,0,0,0,2,0,91,0,0,0,0,0
+Study 11,ASIA,JPN,Site 34,Subject 134,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,200,0,,,,0,0,0,0,0,0,0,0,19,84,0,0,0,0,0,0,190,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 135,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,13,240,0,,,,0,0,0,0,0,0,0,0,1,213,0,0,0,0,1,0,199,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 136,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,204,0,,,,0,0,0,0,0,0,0,0,1,87,0,0,0,0,0,0,194,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 3528,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 3529,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,216,0,,,,0,0,0,0,0,0,0,0,1,102,0,0,0,0,0,0,205,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 3530,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,12,120,0,,,,0,0,0,0,0,0,0,0,1,56,0,0,0,0,0,0,113,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 3531,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,217,0,,,,0,0,0,0,0,0,0,0,1,116,0,0,0,0,1,0,204,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 3532,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,250,0,,,,0,0,0,0,0,0,0,0,1,131,0,0,0,0,0,0,226,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 3533,Week 52/EOT (1),Discontinued,,,,,,,,,,10,161,0,,,,0,0,0,0,0,0,0,0,1,89,0,0,0,0,2,0,141,0,0,0,0,0
+Study 11,ASIA,JPN,Site 35,Subject 3534,Week 72/F20 (1),On Trial,,,,,,,,,,27,205,0,,,,0,0,0,0,0,0,0,0,8,108,0,0,0,0,0,0,185,9,0,0,2,7
+Study 11,ASIA,JPN,Site 36,Subject 137,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,285,0,,,,0,0,0,0,0,0,0,0,1,258,0,0,0,0,2,0,254,0,0,0,0,0
+Study 11,ASIA,JPN,Site 452,Subject 3487,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,202,0,,,,0,0,0,0,0,0,0,0,1,190,0,0,0,0,1,0,191,0,0,0,0,0
+Study 11,ASIA,JPN,Site 452,Subject 3535,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,208,0,,,,0,0,0,0,0,0,0,0,1,100,0,0,0,0,0,0,195,0,0,0,0,0
+Study 11,ASIA,JPN,Site 37,Subject 140,Week 68/F16 (1),On Trial,,,,,,,,,,26,218,0,,,,0,0,0,0,0,0,0,0,14,191,0,0,0,0,0,0,192,14,0,0,2,12
+Study 11,ASIA,JPN,Site 453,Subject 3488,Week 56/F4 (1),Discontinued,,,,,,,,,,23,208,0,,,,0,0,0,0,0,0,0,0,1,194,0,0,0,0,0,0,193,0,0,0,0,0
+Study 11,ASIA,JPN,Site 39,Subject 155,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,13,171,0,,,,0,0,0,0,0,0,0,0,1,160,0,0,0,0,1,0,147,0,0,0,0,0
+Study 11,ASIA,JPN,Site 41,Subject 162,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,261,0,,,,0,0,0,0,0,0,0,0,1,244,0,28,0,0,1,0,233,0,0,0,0,0
+Study 11,ASIA,JPN,Site 41,Subject 163,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,203,0,,,,0,0,0,0,0,0,0,0,1,75,0,12,0,0,0,0,191,0,0,0,0,0
+Study 11,ASIA,JPN,Site 41,Subject 3536,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,223,0,,,,0,0,0,0,0,0,0,0,1,92,0,16,0,0,0,0,208,0,0,0,0,0
+Study 11,ASIA,JPN,Site 41,Subject 3537,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,211,0,,,,0,0,0,0,0,0,0,0,1,107,0,11,0,0,1,0,198,0,0,0,0,0
+Study 11,ASIA,JPN,Site 41,Subject 3538,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,218,0,,,,0,0,0,0,0,0,0,0,1,94,0,20,0,0,0,0,199,0,0,0,0,0
+Study 11,ASIA,JPN,Site 41,Subject 3539,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,256,0,,,,0,0,0,0,0,0,0,0,8,124,0,13,0,0,0,0,230,0,0,0,0,0
+Study 11,ASIA,JPN,Site 41,Subject 3540,Week 64/F12 (1),On Trial,,,,,,,,,,25,284,0,,,,0,0,0,0,0,0,0,0,25,140,0,21,0,0,2,0,248,0,0,0,0,0
+Study 11,ASIA,JPN,Site 41,Subject 3541,Week 64/F12 (1),On Trial,,,,,,,,,,25,217,0,,,,0,0,0,0,0,0,0,0,5,115,0,0,0,0,1,0,200,0,0,0,0,0
+Study 11,ASIA,JPN,Site 454,Subject 3494,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,238,0,,,,0,0,0,0,0,0,0,0,1,223,0,0,0,0,0,0,221,0,0,0,0,0
+Study 11,ASIA,JPN,Site 454,Subject 3495,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,259,0,,,,0,0,0,0,0,0,0,0,19,118,0,0,0,0,0,0,236,0,0,0,0,0
+Study 11,ASIA,JPN,Site 454,Subject 3542,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,225,0,,,,0,0,0,0,0,0,0,0,19,71,0,0,0,0,0,0,212,0,0,0,0,0
+Study 11,ASIA,JPN,Site 454,Subject 3543,Week 68/F16 (1),On Trial,,,,,,,,,,26,231,0,,,,0,0,0,0,0,0,0,0,23,77,0,0,0,0,0,0,210,8,0,0,4,4
+Study 11,ASIA,JPN,Site 455,Subject 3496,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,205,0,,,,0,0,0,0,0,0,0,0,1,193,0,0,0,0,0,0,194,0,0,0,0,0
+Study 11,ASIA,JPN,Site 455,Subject 3497,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,219,0,,,,0,0,0,0,0,0,0,0,1,122,0,0,0,0,0,0,208,0,0,0,0,0
+Study 11,ASIA,JPN,Site 42,Subject 164,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,206,0,,,,0,0,0,0,0,0,0,0,19,172,0,0,0,0,0,0,192,0,0,0,0,0
+Study 11,ASIA,JPN,Site 42,Subject 165,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,215,0,,,,0,0,0,0,0,0,0,0,1,123,0,0,0,0,1,0,195,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3544,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,230,0,,,,0,0,0,0,0,0,0,0,1,215,0,4,0,0,0,0,216,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3545,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,200,0,,,,0,0,0,0,0,0,0,0,1,78,0,4,0,0,0,0,186,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3546,Screening 1,Screen Failure,,,,,,,,,,1,16,0,,,,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3547,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,16,157,0,,,,0,0,0,0,0,0,0,0,1,67,0,0,0,0,0,0,147,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3548,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,219,0,,,,0,0,0,0,0,0,0,0,2,107,0,0,0,0,0,0,201,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3549,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,199,0,,,,0,0,0,0,0,0,0,0,1,89,0,0,0,0,0,0,187,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3550,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,195,0,,,,0,0,0,0,0,0,0,0,1,77,0,0,0,0,0,0,183,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3551,Week 76/F24/EOS (1),Completed,,,,,,,,,,26,228,0,,,,0,0,0,0,0,0,0,0,6,109,0,0,0,0,1,0,208,0,0,0,0,0
+Study 11,ASIA,AUS,Site 466,Subject 3552,Week 72/F20 (1),On Trial,,,,,,,,,,26,217,0,,,,0,0,0,0,0,0,0,0,3,114,0,0,0,0,0,0,200,0,0,0,0,0
+Study 11,ASIA,AUS,Site 467,Subject 3553,Week 52/EOT (1),Discontinued,,,,,,,,,,10,136,0,,,,0,0,0,0,0,0,0,0,1,124,0,0,0,0,1,0,120,0,0,0,0,0
+Study 11,ASIA,AUS,Site 467,Subject 3554,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,245,0,,,,0,0,0,0,0,0,0,0,1,108,0,0,0,0,0,0,219,0,0,0,0,0
+Study 11,ASIA,AUS,Site 467,Subject 3555,Week 52/EOT (1),Discontinued,,,,,,,,,,11,139,0,,,,0,0,0,0,0,0,0,0,1,70,0,0,0,0,0,0,123,0,0,0,0,0
+Study 11,ASIA,AUS,Site 467,Subject 3556,Week 52/EOT (1),Discontinued,,,,,,,,,,19,189,0,,,,0,0,0,0,0,0,0,0,2,72,0,0,0,0,0,0,175,0,0,0,0,0
+Study 11,ASIA,AUS,Site 467,Subject 3557,Week 76/F24/EOS (1),Completed,,,,,,,,,,27,258,0,,,,0,0,0,0,0,0,0,0,1,126,0,0,0,0,0,0,227,0,0,0,0,0
+Study 11,ASIA,AUS,Site 467,Subject 3558,Week 72/F20 (1),On Trial,,,,,,,,,,26,218,0,,,,0,0,0,0,0,0,0,0,10,86,0,0,0,0,0,0,200,2,0,0,0,2
+Study 11,ASIA,AUS,Site 467,Subject 3559,Week 68/F16 (1),On Trial,,,,,,,,,,26,196,0,,,,0,0,0,0,0,0,0,0,3,75,0,0,0,0,0,0,176,9,0,0,1,8
+Study 11,ASIA,AUS,Site 468,Subject 3560,Week 52/EOT (1),Discontinued,,,,,,,,,,18,199,0,,,,0,0,0,0,0,0,0,0,1,186,0,3,0,0,0,0,179,0,0,0,0,0
+Study 11,ASIA,AUS,Site 468,Subject 3561,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,234,0,,,,0,0,0,0,0,0,0,0,1,104,0,3,0,0,0,0,214,0,0,0,0,0
+Study 11,ASIA,AUS,Site 468,Subject 3562,Week 76/F24/EOS (1),Completed,,,,,,,,,,27,219,0,,,,0,0,0,0,0,0,0,0,1,89,0,0,0,0,0,0,202,0,0,0,0,0
+Study 11,ASIA,AUS,Site 468,Subject 3563,Week 76/F24/EOS (1),Completed,,,,,,,,,,27,273,0,,,,0,0,0,1,0,0,0,1,14,128,0,0,0,0,2,0,224,13,0,0,2,11
+Study 11,ASIA,AUS,Site 468,Subject 3564,Screening 2 (1),Screen Failure,,,,,,,,,,2,21,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,EMEA,TUR,Site 50,Subject 271,Screening 2 (1),Screen Failure,,,,,,,,,,2,13,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,12,0,0,0,0,0
+Study 11,EMEA,LBN,Site 469,Subject 3565,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,216,0,,,,0,0,0,0,0,0,0,0,1,201,0,0,0,0,2,0,202,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 5,Subject 11,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,216,0,,,,0,0,0,0,0,0,0,0,3,199,0,0,0,0,1,0,202,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 5,Subject 3566,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 5,Subject 3567,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,195,0,,,,0,0,0,0,0,0,0,0,6,85,0,0,0,0,2,0,183,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 5,Subject 3568,Week 52/EOT (1),Discontinued,,,,,,,,,,12,130,0,,,,0,0,0,0,0,0,0,0,3,55,0,0,0,0,0,0,116,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 5,Subject 3569,Week 52/EOT (1),Discontinued,,,,,,,,,,16,179,0,,,,0,0,0,0,0,0,0,0,3,82,0,0,0,0,2,0,164,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 6,Subject 12,Week 76/F24/EOS (1),Completed,,,,,,,,,,20,179,0,,,,0,0,0,0,0,0,0,0,24,68,0,0,0,0,0,0,168,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 6,Subject 13,Screening 1,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 470,Subject 3570,Week 52/EOT (1),Discontinued,,,,,,,,,,5,68,0,,,,0,0,0,0,0,0,0,0,1,62,0,0,0,0,0,0,59,0,0,0,0,0
+Study 11,EMEA,ZAF,Site 470,Subject 3571,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,221,0,,,,0,0,0,0,0,0,0,0,2,94,0,0,0,0,1,0,209,0,0,0,0,0
+Study 11,EMEA,BEL,Site 62,Subject 380,Week 76/F24/EOS (1),Completed,,,,,,,,,,20,207,0,,,,0,0,0,0,0,0,0,0,21,174,0,0,0,0,1,0,185,0,0,0,0,0
+Study 11,EMEA,BEL,Site 62,Subject 381,Week 76/F24/EOS (1),Completed,,,,,,,,,,27,249,0,,,,0,0,0,1,0,0,0,1,27,119,0,0,0,0,2,0,219,0,0,0,0,0
+Study 11,EMEA,BEL,Site 62,Subject 382,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,BEL,Site 63,Subject 391,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,221,0,,,,0,0,0,0,0,0,0,0,5,202,0,0,0,0,1,0,199,0,0,0,0,0
+Study 11,EMEA,BEL,Site 63,Subject 392,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,245,0,,,,0,0,0,0,0,0,0,0,22,133,0,0,0,0,1,0,219,0,0,0,0,0
+Study 11,EMEA,BEL,Site 63,Subject 393,Week 68/F16 (1),On Trial,,,,,,,,,,26,227,0,,,,0,0,0,0,0,0,0,0,22,106,0,0,0,0,1,0,214,0,0,0,0,0
+Study 11,EMEA,CZE,Site 7,Subject 14,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,208,0,,,,0,0,0,0,0,0,0,0,2,193,0,0,0,0,1,0,195,0,0,0,0,0
+Study 11,EMEA,CZE,Site 7,Subject 594,Week 52/EOT (1),Discontinued,,,,,,,,,,8,105,0,,,,0,0,0,0,0,0,0,0,11,36,0,0,0,0,0,0,93,0,0,0,0,0
+Study 11,EMEA,CZE,Site 7,Subject 595,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,213,0,,,,0,0,0,0,0,0,0,0,13,105,0,0,0,0,1,0,198,0,0,0,0,0
+Study 11,EMEA,CZE,Site 8,Subject 15,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,246,0,,,,0,0,0,0,0,0,0,0,1,231,0,0,0,0,0,0,229,0,0,0,0,0
+Study 11,EMEA,CZE,Site 8,Subject 598,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,231,0,,,,0,0,0,0,0,0,0,0,1,119,0,0,0,0,1,0,216,0,0,0,0,0
+Study 11,EMEA,CZE,Site 8,Subject 3506,Week 76/F24/EOS (1),On Trial,,,,,,,,,,28,234,0,,,,0,0,0,0,0,0,0,0,1,124,0,0,0,0,1,0,214,7,0,0,0,7
+Study 11,EMEA,CZE,Site 8,Subject 3572,Week 72/F20 (1),On Trial,,,,,,,,,,26,220,0,,,,0,0,0,0,0,0,0,0,1,119,0,0,0,0,0,0,193,10,0,0,0,10
+Study 11,EMEA,CZE,Site 8,Subject 3573,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,223,0,,,,0,0,0,0,0,0,0,0,1,136,0,0,0,0,0,0,195,17,0,0,2,15
+Study 11,EMEA,CZE,Site 459,Subject 3507,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,227,0,,,,0,0,0,0,0,0,0,0,1,210,0,0,0,0,1,0,211,0,0,0,0,0
+Study 11,EMEA,CZE,Site 459,Subject 3508,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,218,0,,,,0,0,0,0,0,0,0,0,1,100,0,0,0,0,1,0,205,0,0,0,0,0
+Study 11,EMEA,CZE,Site 459,Subject 3574,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,10,119,0,,,,0,0,0,0,0,0,0,0,1,46,0,0,0,0,1,0,105,0,0,0,0,0
+Study 11,EMEA,CZE,Site 459,Subject 3575,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,218,0,,,,0,0,0,0,0,0,0,0,1,105,0,0,0,0,0,0,206,0,0,0,0,0
+Study 11,EMEA,CZE,Site 459,Subject 3576,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,212,0,,,,0,0,0,0,0,0,0,0,1,103,0,0,0,0,0,0,200,0,0,0,0,0
+Study 11,EMEA,CZE,Site 459,Subject 3577,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,212,0,,,,0,0,0,0,0,0,0,0,1,108,0,0,0,0,0,0,200,0,0,0,0,0
+Study 11,EMEA,CZE,Site 471,Subject 3578,Screening 1,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 11,EMEA,CZE,Site 471,Subject 3579,Week 76/F24/EOS (1),On Trial,,,,,,,,,,28,216,0,,,,0,0,0,0,0,0,0,0,12,191,0,0,0,0,1,0,203,0,0,0,0,0
+Study 11,EMEA,CZE,Site 472,Subject 3580,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,220,0,,,,0,0,0,1,0,0,0,1,15,192,0,0,0,0,0,0,205,3,0,0,3,0
+Study 11,EMEA,CZE,Site 472,Subject 3581,Screening 2 (1),Screen Failure,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,22,0,0,0,0,0
+Study 11,EMEA,CZE,Site 472,Subject 3582,Screening 2 (1),Screen Failure,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,22,0,0,0,0,0
+Study 11,EMEA,CZE,Site 472,Subject 3583,Week 68/F16 (1),On Trial,,,,,,,,,,26,205,0,,,,0,0,0,0,0,0,0,0,4,110,0,0,0,0,0,0,189,5,0,0,0,5
+Study 11,EMEA,CZE,Site 472,Subject 3584,Week 68/F16 (1),On Trial,,,,,,,,,,26,220,0,,,,0,0,0,0,0,0,0,0,8,114,0,0,0,0,0,0,200,6,0,0,0,6
+Study 11,EMEA,CZE,Site 472,Subject 3585,Week 68/F16 (1),On Trial,,,,,,,,,,26,232,0,,,,0,0,0,0,0,0,0,0,23,105,0,0,0,0,1,0,211,5,0,0,0,5
+Study 11,EMEA,CZE,Site 472,Subject 3586,Week 68/F16 (1),On Trial,,,,,,,,,,26,207,0,,,,0,0,0,0,0,0,0,0,6,108,0,0,0,0,1,0,190,5,0,0,0,5
+Study 11,EMEA,CZE,Site 472,Subject 3587,Week 64/F12 (1),On Trial,,,,,,,,,,25,201,0,,,,0,0,0,0,0,0,0,0,9,104,0,0,0,0,1,0,179,11,0,0,0,11
+Study 11,EMEA,CZE,Site 473,Subject 3588,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,206,0,,,,0,0,0,0,0,0,0,0,1,193,0,0,0,0,0,0,195,0,0,0,0,0
+Study 11,EMEA,CZE,Site 473,Subject 3589,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,195,0,,,,0,0,0,0,0,0,0,0,1,96,0,0,0,0,0,0,184,0,0,0,0,0
+Study 11,EMEA,CZE,Site 473,Subject 3590,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,215,0,,,,0,0,0,0,0,0,0,0,1,112,0,0,0,0,0,0,203,0,0,0,0,0
+Study 11,EMEA,CZE,Site 473,Subject 3591,Week 76/F24/EOS (1),Completed,,,,,,,,,,27,223,0,,,,0,0,0,0,0,0,0,0,4,111,0,0,0,0,0,0,209,1,0,0,1,0
+Study 11,EMEA,CZE,Site 474,Subject 3592,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,217,0,,,,0,0,0,0,0,0,0,0,1,204,0,0,0,0,0,0,206,0,0,0,0,0
+Study 11,EMEA,CZE,Site 474,Subject 3593,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,210,0,,,,0,0,0,0,0,0,0,0,1,118,0,0,0,0,0,0,199,0,0,0,0,0
+Study 11,EMEA,CZE,Site 474,Subject 3594,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,204,0,,,,0,0,0,0,0,0,0,0,1,109,0,0,0,0,0,0,193,0,0,0,0,0
+Study 11,EMEA,CZE,Site 474,Subject 3595,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,212,0,,,,0,0,0,0,0,0,0,0,1,121,0,0,0,0,0,0,201,0,0,0,0,0
+Study 11,EMEA,CZE,Site 474,Subject 3596,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,204,0,,,,0,0,0,0,0,0,0,0,1,119,0,0,0,0,0,0,193,0,0,0,0,0
+Study 11,EMEA,CZE,Site 474,Subject 3597,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,206,0,,,,0,0,0,0,0,0,0,0,1,124,0,0,0,0,0,0,196,0,0,0,0,0
+Study 11,EMEA,CZE,Site 474,Subject 3598,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,199,0,,,,0,0,0,0,0,0,0,0,2,116,0,0,0,0,0,0,189,0,0,0,0,0
+Study 11,EMEA,CZE,Site 474,Subject 3599,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,207,0,,,,0,0,0,0,0,0,0,0,2,117,0,0,0,0,0,0,195,0,0,0,0,0
+Study 11,EMEA,DNK,Site 475,Subject 3600,Week 60/F8 (1),On Trial,,,,,,,,,,24,205,0,,,,0,0,0,0,0,0,0,0,10,181,0,0,0,0,1,0,180,7,0,0,2,5
+Study 11,EMEA,DNK,Site 475,Subject 3601,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,196,0,,,,0,0,0,0,0,0,0,0,22,60,0,0,0,0,1,0,176,7,0,0,1,6
+Study 11,EMEA,DNK,Site 475,Subject 3602,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,197,0,,,,0,0,0,0,0,0,0,0,20,89,0,0,0,0,2,0,184,1,0,0,1,0
+Study 11,EMEA,DNK,Site 476,Subject 3603,Week 76/F24/EOS (1),Completed,,,,,,,,,,21,197,0,,,,0,0,0,0,0,0,0,0,1,182,0,0,0,0,2,0,178,0,0,0,0,0
+Study 11,EMEA,DNK,Site 476,Subject 3604,Week 76/F24/EOS (1),Completed,,,,,,,,,,26,201,0,,,,0,0,0,0,0,0,0,0,20,103,0,0,0,0,1,0,180,7,0,0,1,6
+Study 11,EMEA,DNK,Site 477,Subject 3605,Week 76/F24/EOS (1),Completed,,,,,,,,,,27,220,0,,,,0,0,0,0,0,0,0,0,1,204,0,0,0,0,4,0,201,0,0,0,0,0
+Study 11,EMEA,DNK,Site 477,Subject 3606,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,243,0,,,,0,0,0,0,0,0,0,0,1,133,0,0,0,0,1,0,216,0,0,0,0,0
+Study 11,EMEA,DNK,Site 477,Subject 3607,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,202,0,,,,0,0,0,0,0,0,0,0,1,93,0,0,0,0,2,0,189,0,0,0,0,0
+Study 11,EMEA,DNK,Site 477,Subject 3608,Screening 2 (1),Screen Failure,,,,,,,,,,2,15,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,14,0,0,0,0,0
+Study 11,EMEA,DNK,Site 477,Subject 3609,Week 68/F16 (1),On Trial,,,,,,,,,,25,198,0,,,,0,0,0,0,0,0,0,0,20,97,0,0,0,0,1,0,182,0,0,0,0,0
+Study 11,EMEA,DNK,Site 477,Subject 3610,Week 64/F12 (1),On Trial,,,,,,,,,,23,193,0,,,,0,0,0,0,0,0,0,0,3,107,0,0,0,0,0,0,178,0,0,0,0,0
+Study 11,EMEA,DNK,Site 478,Subject 3611,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,205,0,,,,0,0,0,0,0,0,0,0,1,193,0,0,0,0,1,0,191,0,0,0,0,0
+Study 11,EMEA,DNK,Site 478,Subject 3612,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,212,0,,,,0,0,0,0,0,0,0,0,20,99,0,0,0,0,1,0,196,0,0,0,0,0
+Study 11,EMEA,DNK,Site 478,Subject 3613,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,238,0,,,,0,0,0,0,0,0,0,0,22,112,0,0,0,0,3,0,220,0,0,0,0,0
+Study 11,EMEA,FRA,Site 479,Subject 3614,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,19,0,0,0,0,0
+Study 11,EMEA,FRA,Site 479,Subject 3615,Week 68/F16 (1),On Trial,,,,,,,,,,26,208,0,,,,0,0,0,0,0,0,0,0,11,184,0,0,0,0,2,0,191,1,0,0,1,0
+Study 11,EMEA,FRA,Site 479,Subject 3616,Week 16 (1),Discontinued,,,,,,,,,,10,115,0,,,,0,0,0,0,0,0,0,0,2,60,0,0,0,0,1,0,101,0,0,0,0,0
+Study 11,EMEA,FRA,Site 479,Subject 3617,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,221,0,,,,0,0,0,0,0,0,0,0,3,126,0,0,0,0,2,0,199,0,0,0,0,0
+Study 11,EMEA,FRA,Site 480,Subject 3618,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,14,157,0,,,,0,0,0,0,0,0,0,0,7,139,0,0,0,0,2,0,142,0,0,0,0,0
+Study 11,EMEA,FRA,Site 480,Subject 3619,Screening 2 (1),Screen Failure,,,,,,,,,,2,21,0,,,,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,EMEA,FRA,Site 480,Subject 3620,Week 76/F24/EOS (1),Completed,,,,,,,,,,20,189,0,,,,0,0,0,0,0,0,0,0,3,101,0,0,0,0,2,0,173,0,0,0,0,0
+Study 11,EMEA,FRA,Site 480,Subject 3621,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,209,0,,,,1,0,0,0,0,0,0,1,1,115,0,0,0,0,0,0,198,1,0,0,1,0
+Study 11,EMEA,FRA,Site 480,Subject 3622,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,208,0,,,,0,0,0,0,0,0,0,0,6,109,0,0,0,0,0,0,195,1,0,0,1,0
+Study 11,EMEA,FRA,Site 480,Subject 3623,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,19,0,0,0,0,0
+Study 11,EMEA,FRA,Site 480,Subject 3624,Week 76/F24/EOS (1),Completed,,,,,,,,,,20,201,0,,,,0,0,0,0,0,0,0,0,1,120,0,0,0,0,0,0,183,0,0,0,0,0
+Study 11,EMEA,FRA,Site 480,Subject 3625,UNPLANNED (1),Screen Failure,,,,,,,,,,2,25,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,23,0,0,0,0,0
+Study 11,EMEA,FRA,Site 481,Subject 3626,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,1,16,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,FRA,Site 482,Subject 3627,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,230,0,,,,0,0,0,0,0,0,0,0,19,190,0,0,0,0,1,0,215,0,0,0,0,0
+Study 11,EMEA,FRA,Site 482,Subject 3628,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,227,0,,,,0,0,0,0,0,0,0,0,2,212,0,0,0,0,0,0,212,0,0,0,0,0
+Study 11,EMEA,FRA,Site 482,Subject 3629,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,236,0,,,,0,0,0,0,0,0,0,0,19,96,0,0,0,0,0,0,221,0,0,0,0,0
+Study 11,EMEA,FRA,Site 482,Subject 3630,Week 52/EOT (1),Discontinued,,,,,,,,,,22,187,0,,,,0,0,0,0,0,0,0,0,19,81,0,0,0,0,0,0,178,0,0,0,0,0
+Study 11,EMEA,FRA,Site 483,Subject 3631,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,218,0,,,,0,0,0,0,0,0,0,0,1,205,0,0,0,0,0,0,206,0,0,0,0,0
+Study 11,EMEA,FRA,Site 483,Subject 3632,Week 76/F24/EOS (1),Completed,,,,,,,,,,25,231,0,,,,0,0,0,0,0,0,0,0,1,132,0,0,0,0,0,0,214,0,0,0,0,0
+Study 11,EMEA,FRA,Site 483,Subject 3633,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,217,0,,,,0,0,0,0,0,0,0,0,1,113,0,0,0,0,0,0,205,0,0,0,0,0
+Study 11,EMEA,FRA,Site 483,Subject 3634,Week 76/F24/EOS (1),Completed,,,,,,,,,,25,212,0,,,,0,0,0,0,0,0,0,0,1,114,0,0,0,0,1,0,199,0,0,0,0,0
+Study 11,EMEA,FRA,Site 483,Subject 3635,Week 72/F20 (1),Discontinued,,,,,,,,,,27,210,0,,,,0,0,0,0,0,0,0,0,1,107,0,0,0,0,0,0,198,0,0,0,0,0
+Study 11,EMEA,FRA,Site 483,Subject 3636,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,21,207,0,,,,0,0,0,0,0,0,0,0,1,127,0,0,0,0,2,0,192,0,0,0,0,0
+Study 11,EMEA,FRA,Site 483,Subject 3637,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,212,0,,,,0,0,0,0,0,0,0,0,1,130,0,0,0,0,0,0,198,0,0,0,0,0
+Study 11,EMEA,FRA,Site 484,Subject 3638,Screening 2 (1),Screen Failure,,,,,,,,,,2,18,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,17,0,0,0,0,0
+Study 11,EMEA,FRA,Site 484,Subject 3639,Week 76/F24/EOS (1),On Trial,,,,,,,,,,28,231,0,,,,0,0,0,0,0,0,0,0,31,186,0,0,0,0,1,0,206,6,0,0,0,6
+Study 11,EMEA,FRA,Site 485,Subject 3640,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,13,134,0,,,,0,0,0,0,0,0,0,0,1,123,0,0,0,0,1,0,124,0,0,0,0,0
+Study 11,EMEA,FRA,Site 485,Subject 3641,Screening 1,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,9,0,0,0,0,0
+Study 11,EMEA,FRA,Site 485,Subject 3642,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,17,166,0,,,,0,0,0,0,0,0,0,0,1,67,0,0,0,0,0,0,156,0,0,0,0,0
+Study 11,EMEA,FRA,Site 485,Subject 3643,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,17,177,0,,,,0,0,0,0,0,0,0,0,1,101,0,0,0,0,1,0,161,0,0,0,0,0
+Study 11,EMEA,FRA,Site 485,Subject 3644,Screening 2 (1),Screen Failure,,,,,,,,,,2,24,0,,,,0,0,0,0,0,0,0,0,1,9,0,0,0,0,0,0,23,0,0,0,0,0
+Study 11,EMEA,FRA,Site 485,Subject 3645,Week 52/EOT (1),Discontinued,,,,,,,,,,13,127,0,,,,0,0,0,0,0,0,0,0,1,78,0,0,0,0,0,0,119,0,0,0,0,0
+Study 11,EMEA,FRA,Site 486,Subject 3646,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,246,0,,,,0,0,0,0,0,0,0,0,7,226,0,0,0,0,0,0,223,0,0,0,0,0
+Study 11,EMEA,FRA,Site 486,Subject 3647,Week 76/F24/EOS (1),On Trial,,,,,,,,,,28,273,0,,,,0,0,0,0,0,0,0,0,17,153,0,0,0,0,0,0,240,0,0,0,0,0
+Study 11,EMEA,FRA,Site 487,Subject 3648,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,239,0,,,,0,0,0,0,0,0,0,0,11,215,0,0,0,0,2,0,216,0,0,0,0,0
+Study 11,EMEA,FRA,Site 487,Subject 3649,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,272,0,,,,0,0,0,0,0,0,0,0,10,162,0,0,0,0,3,0,244,0,0,0,0,0
+Study 11,EMEA,FRA,Site 487,Subject 3650,Screening 2 (1),Screen Failure,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,22,0,0,0,0,0
+Study 11,EMEA,FRA,Site 487,Subject 3651,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,201,0,,,,0,0,0,0,0,0,0,0,2,81,0,0,0,0,1,0,189,0,0,0,0,0
+Study 11,EMEA,FRA,Site 487,Subject 3652,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,218,0,,,,0,0,0,0,0,0,0,0,7,89,0,0,0,0,0,0,201,0,0,0,0,0
+Study 11,EMEA,FRA,Site 488,Subject 3653,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,216,0,,,,0,0,0,0,0,0,0,0,3,200,0,0,0,0,0,0,204,0,0,0,0,0
+Study 11,EMEA,FRA,Site 488,Subject 3654,Week 76/F24/EOS (1),Completed,,,,,,,,,,20,196,0,,,,0,0,0,0,0,0,0,0,1,109,0,0,0,0,0,0,181,0,0,0,0,0
+Study 11,EMEA,FRA,Site 488,Subject 3655,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,213,0,,,,0,0,0,0,0,0,0,0,1,113,0,0,0,0,0,0,200,0,0,0,0,0
+Study 11,EMEA,FRA,Site 488,Subject 3656,Week 68/F16 (1),On Trial,,,,,,,,,,26,198,0,,,,1,0,0,0,0,0,0,1,3,97,0,0,0,0,0,0,181,5,0,0,0,5
+Study 11,EMEA,FRA,Site 489,Subject 3657,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,191,0,,,,0,0,0,0,0,0,0,0,12,168,0,0,0,0,0,0,181,0,0,0,0,0
+Study 11,EMEA,FRA,Site 489,Subject 3658,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,211,0,,,,0,0,0,0,0,0,0,0,16,84,0,0,0,0,0,0,196,0,0,0,0,0
+Study 11,EMEA,FRA,Site 489,Subject 3659,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,199,0,,,,0,0,0,0,0,0,0,0,17,82,0,0,0,0,0,0,190,0,0,0,0,0
+Study 11,EMEA,FRA,Site 489,Subject 3660,Week 72/F20 (1),On Trial,,,,,,,,,,27,207,0,,,,0,0,0,0,0,0,0,0,17,66,0,0,0,0,0,0,195,2,0,0,0,2
+Study 11,EMEA,FRA,Site 489,Subject 3661,UNPLANNED (1),Discontinued,,,,,,,,,,2,30,0,,,,0,0,0,0,0,0,0,0,1,10,0,0,0,0,0,0,27,0,0,0,0,0
+Study 11,EMEA,FRA,Site 490,Subject 3662,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,21,191,0,,,,0,0,0,0,0,0,0,0,11,169,0,0,0,0,3,0,180,0,0,0,0,0
+Study 11,EMEA,FRA,Site 490,Subject 3663,Week 76/F24/EOS (1),Completed,,,,,,,,,,25,215,0,,,,0,0,0,0,0,0,0,0,7,107,0,0,0,0,2,0,203,0,0,0,0,0
+Study 11,EMEA,FRA,Site 491,Subject 3664,Screening 2 (1),Discontinued,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,EMEA,FRA,Site 491,Subject 3665,Week 28 (1),Discontinued,,,,,,,,,,16,166,0,,,,0,0,0,0,0,0,0,0,6,152,0,0,0,0,3,0,151,0,0,0,0,0
+Study 11,EMEA,FRA,Site 491,Subject 3666,Week 68/F16 (1),On Trial,,,,,,,,,,26,206,0,,,,0,0,0,0,0,0,0,0,3,100,0,0,0,0,1,0,186,7,0,0,0,7
+Study 11,EMEA,FRA,Site 492,Subject 3667,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,233,0,,,,0,0,0,0,0,0,0,0,14,205,0,0,0,0,0,0,216,0,0,0,0,0
+Study 11,EMEA,FRA,Site 492,Subject 3668,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,207,0,,,,0,0,0,0,0,0,0,0,21,98,0,0,0,0,0,0,194,0,0,0,0,0
+Study 11,EMEA,FRA,Site 492,Subject 3669,Week 52/EOT (1),Completed,,,,,,,,,,19,176,0,,,,0,0,0,0,0,0,0,0,25,79,0,0,0,0,0,0,165,0,0,0,0,0
+Study 11,EMEA,DEU,Site 493,Subject 3670,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,233,0,,,,0,0,0,0,0,0,0,0,5,213,0,0,0,0,1,0,214,0,0,0,0,0
+Study 11,EMEA,DEU,Site 493,Subject 3671,Week 16 (1),Discontinued,,,,,,,,,,10,104,0,,,,0,0,0,0,0,0,0,0,3,46,0,0,0,0,0,0,95,0,0,0,0,0
+Study 11,EMEA,DEU,Site 493,Subject 3672,Week 27 (1),Discontinued,,,,,,,,,,15,124,0,,,,0,0,0,0,0,0,0,0,1,50,0,0,0,0,0,0,119,0,0,0,0,0
+Study 11,EMEA,DEU,Site 493,Subject 3673,Week 68/F16 (1),On Trial,,,,,,,,,,25,210,0,,,,0,0,0,0,0,0,0,0,6,114,0,0,0,0,0,0,184,7,0,0,2,5
+Study 11,EMEA,DEU,Site 493,Subject 3674,Week 64/F12 (1),On Trial,,,,,,,,,,25,191,0,,,,0,0,0,0,0,0,0,0,5,105,0,0,0,0,0,0,175,6,0,0,0,6
+Study 11,EMEA,DEU,Site 494,Subject 3675,Week 52/EOT (1),Discontinued,,,,,,,,,,21,184,0,,,,0,0,0,0,0,0,0,0,1,174,0,0,0,0,1,0,175,0,0,0,0,0
+Study 11,EMEA,DEU,Site 494,Subject 3676,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,193,0,,,,0,0,0,0,0,0,0,0,76,107,0,0,0,0,0,0,183,0,0,0,0,0
+Study 11,EMEA,DEU,Site 495,Subject 3677,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,13,158,0,,,,0,0,0,0,0,0,0,0,1,147,0,0,0,0,0,0,139,0,0,0,0,0
+Study 11,EMEA,DEU,Site 495,Subject 3678,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,223,0,,,,0,0,0,1,0,0,0,1,12,198,0,0,0,0,0,0,201,0,0,0,0,0
+Study 11,EMEA,DEU,Site 496,Subject 3679,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,228,0,,,,0,0,0,0,0,0,0,0,8,205,0,0,0,0,1,0,206,0,0,0,0,0
+Study 11,EMEA,DEU,Site 496,Subject 3680,Week 76/F24/EOS (1),On Trial,,,,,,,,,,28,212,0,,,,0,0,0,0,0,0,0,0,21,86,0,0,0,0,0,0,190,8,0,0,0,8
+Study 11,EMEA,DEU,Site 496,Subject 3681,Week 64/F12 (1),On Trial,,,,,,,,,,25,214,0,,,,0,0,0,1,0,0,0,1,19,99,0,0,0,0,0,0,196,0,0,0,0,0
+Study 11,EMEA,DEU,Site 497,Subject 3682,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,200,0,,,,0,0,0,0,0,0,0,0,1,186,0,0,0,0,1,0,184,0,0,0,0,0
+Study 11,EMEA,DEU,Site 497,Subject 3683,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,182,0,,,,0,0,0,0,0,0,0,0,1,86,0,0,0,0,2,0,172,0,0,0,0,0
+Study 11,EMEA,DEU,Site 497,Subject 3684,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,232,0,,,,0,0,0,0,0,0,0,0,1,130,0,0,0,0,0,0,212,0,0,0,0,0
+Study 11,EMEA,DEU,Site 498,Subject 3685,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,212,0,,,,0,0,0,0,0,0,0,0,1,200,0,0,0,0,0,0,197,0,0,0,0,0
+Study 11,EMEA,DEU,Site 498,Subject 3686,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,211,0,,,,0,0,0,0,0,0,0,0,1,95,0,0,0,0,1,0,195,0,0,0,0,0
+Study 11,EMEA,DEU,Site 498,Subject 3687,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,199,0,,,,0,0,0,0,0,0,0,0,1,107,0,0,0,0,0,0,187,0,0,0,0,0
+Study 11,EMEA,DEU,Site 498,Subject 3688,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,17,183,0,,,,0,0,0,0,0,0,0,0,1,118,0,0,0,0,0,0,166,0,0,0,0,0
+Study 11,EMEA,DEU,Site 498,Subject 3689,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,216,0,,,,0,0,0,0,0,0,0,0,1,137,0,0,0,0,0,0,200,0,0,0,0,0
+Study 11,EMEA,DEU,Site 499,Subject 3690,Screening 2 (1),Screen Failure,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,22,0,0,0,0,0
+Study 11,EMEA,DEU,Site 499,Subject 3691,Week 64/F12 (1),On Trial,,,,,,,,,,24,217,0,,,,0,0,0,0,0,0,0,0,27,175,0,0,0,0,1,0,198,0,0,0,0,0
+Study 11,EMEA,DEU,Site 499,Subject 3692,Screening 1,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 11,EMEA,DEU,Site 500,Subject 3693,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,244,0,,,,0,0,0,0,0,0,0,0,1,230,0,0,0,0,0,0,227,0,0,0,0,0
+Study 11,EMEA,DEU,Site 500,Subject 3694,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,225,0,,,,0,0,0,0,0,0,0,0,19,87,0,0,0,0,0,0,211,0,0,0,0,0
+Study 11,EMEA,DEU,Site 500,Subject 3695,UNPLANNED (1),Discontinued,,,,,,,,,,10,96,0,,,,0,0,0,0,0,0,0,0,10,31,0,0,0,0,0,0,89,0,0,0,0,0
+Study 11,EMEA,DEU,Site 500,Subject 3696,Week 68/F16 (1),On Trial,,,,,,,,,,26,219,0,,,,0,0,0,0,0,0,0,0,25,106,0,0,0,0,1,0,207,1,0,0,1,0
+Study 11,EMEA,DEU,Site 501,Subject 3697,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,190,0,,,,0,0,0,0,0,0,0,0,1,157,0,0,0,0,3,0,174,0,0,0,0,0
+Study 11,EMEA,DEU,Site 501,Subject 3698,Screening 1,Discontinued,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 11,EMEA,DEU,Site 501,Subject 3699,Week 64/F12 (1),On Trial,,,,,,,,,,25,200,0,,,,0,0,0,0,0,0,0,0,7,179,0,0,0,0,1,0,186,0,0,0,0,0
+Study 11,EMEA,DEU,Site 501,Subject 3700,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,DEU,Site 501,Subject 3701,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,19,0,0,0,0,0
+Study 11,EMEA,HUN,Site 87,Subject 627,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,186,0,,,,0,0,0,0,0,0,0,0,1,175,0,0,0,0,1,0,176,0,0,0,0,0
+Study 11,EMEA,HUN,Site 87,Subject 628,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,188,0,,,,0,0,0,0,0,0,0,0,19,75,0,0,0,0,0,0,178,0,0,0,0,0
+Study 11,EMEA,HUN,Site 87,Subject 629,Week 60/F8 (1),On Trial,,,,,,,,,,24,189,0,,,,0,0,0,0,0,0,0,0,23,84,0,0,0,0,0,0,179,0,0,0,0,0
+Study 11,EMEA,HUN,Site 88,Subject 632,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,189,0,,,,0,0,0,0,0,0,0,0,1,177,0,0,0,0,1,0,178,0,0,0,0,0
+Study 11,EMEA,HUN,Site 88,Subject 633,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,216,0,,,,0,0,0,0,0,0,0,0,1,120,0,0,0,0,3,0,202,0,0,0,0,0
+Study 11,EMEA,HUN,Site 88,Subject 634,Screening 2 (1),Screen Failure,,,,,,,,,,2,16,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,EMEA,HUN,Site 88,Subject 635,Week 60/F8 (1),On Trial,,,,,,,,,,24,194,0,,,,0,0,0,0,0,0,0,0,3,112,0,0,0,0,1,0,178,5,0,0,0,5
+Study 11,EMEA,HUN,Site 358,Subject 2862,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,209,0,,,,0,0,0,0,0,0,0,0,1,197,0,0,0,0,3,0,198,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 2863,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,205,0,,,,0,0,0,0,0,0,0,0,1,96,0,0,0,0,3,0,194,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 2864,Week 60/F8 (1),Discontinued,,,,,,,,,,23,197,0,,,,0,0,0,0,0,0,0,0,1,84,0,0,0,0,2,0,187,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 2865,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,207,0,,,,0,0,0,0,0,0,0,0,1,104,0,0,0,0,2,0,196,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 2866,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,206,0,,,,0,0,0,0,0,0,0,0,1,106,0,0,0,0,4,0,194,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 2867,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,203,0,,,,0,0,0,0,0,0,0,0,1,96,0,0,0,0,2,0,190,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 2868,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,212,0,,,,0,0,0,0,0,0,0,0,1,97,0,0,0,0,2,0,199,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 2869,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,201,0,,,,0,0,0,0,0,0,0,0,1,107,0,0,0,0,3,0,190,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 3702,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,211,0,,,,0,0,0,0,0,0,0,0,1,111,0,0,0,0,3,0,199,0,0,0,0,0
+Study 11,EMEA,HUN,Site 358,Subject 3703,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,210,0,,,,0,0,0,0,0,0,0,0,1,109,0,0,0,0,2,0,198,0,0,0,0,0
+Study 11,EMEA,HUN,Site 359,Subject 2870,Screening 2 (1),Discontinued,,,,,,,,,,2,16,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,EMEA,ITA,Site 417,Subject 3227,Week 64/F12 (1),On Trial,,,,,,,,,,25,248,0,,,,0,0,0,0,0,0,0,0,19,212,0,0,0,0,2,0,212,8,0,0,2,6
+Study 11,EMEA,ITA,Site 502,Subject 3704,Week 32 (1),Discontinued,,,,,,,,,,15,138,0,,,,0,0,0,0,0,0,0,0,8,123,0,0,0,0,1,0,131,0,0,0,0,0
+Study 11,EMEA,ITA,Site 502,Subject 3705,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,225,0,,,,0,0,0,0,0,0,0,0,2,119,0,0,0,0,0,0,213,0,0,0,0,0
+Study 11,EMEA,ITA,Site 503,Subject 3706,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,231,0,,,,0,0,0,0,0,0,0,0,14,202,0,0,0,0,5,0,216,0,0,0,0,0
+Study 11,EMEA,ITA,Site 503,Subject 3707,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,1,0,18,0,0,0,0,0
+Study 11,EMEA,ITA,Site 503,Subject 3708,Screening 1,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,10,0,0,0,0,0
+Study 11,EMEA,ITA,Site 503,Subject 3709,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,195,0,,,,0,0,0,0,0,0,0,0,3,85,1,0,0,0,2,0,181,0,0,0,0,0
+Study 11,EMEA,ITA,Site 503,Subject 3710,Screening 2 (1),Screen Failure,,,,,,,,,,2,21,0,,,,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,EMEA,ITA,Site 503,Subject 3711,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,189,0,,,,0,0,0,0,0,0,0,0,1,100,0,0,0,0,2,0,174,0,0,0,0,0
+Study 11,EMEA,ITA,Site 503,Subject 3712,Week 76/F24/EOS (1),On Trial,,,,,,,,,,28,229,0,,,,0,0,0,0,0,0,0,0,4,114,0,0,0,0,0,0,201,7,0,0,1,6
+Study 11,EMEA,ITA,Site 503,Subject 3713,Week 64/F12 (1),On Trial,,,,,,,,,,25,212,0,,,,0,0,0,0,0,0,0,0,3,123,0,0,0,0,1,0,185,9,0,0,3,6
+Study 11,EMEA,ITA,Site 504,Subject 3714,Screening 2 (1),Discontinued,,,,,,,,,,2,26,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,22,0,0,0,0,0
+Study 11,EMEA,ITA,Site 504,Subject 3715,Screening 2 (1),Discontinued,,,,,,,,,,2,24,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,22,0,0,0,0,0
+Study 11,EMEA,ITA,Site 505,Subject 3716,Screening 2 (1),Screen Failure,,,,,,,,,,2,21,0,,,,0,0,0,0,0,0,0,0,1,15,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,EMEA,ITA,Site 505,Subject 3717,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,202,0,,,,0,0,0,0,0,0,0,0,6,183,0,0,0,0,1,0,186,0,0,0,0,0
+Study 11,EMEA,ITA,Site 505,Subject 3718,Week 60/F8 (1),Discontinued,,,,,,,,,,24,209,0,,,,0,0,0,0,0,0,0,0,2,84,0,0,0,0,2,0,192,0,0,0,0,0
+Study 11,EMEA,ITA,Site 505,Subject 3719,Week 72/F20 (1),On Trial,,,,,,,,,,27,200,0,,,,0,0,0,0,0,0,0,0,3,71,0,0,0,0,0,0,190,0,0,0,0,0
+Study 11,EMEA,ITA,Site 505,Subject 3720,Week 60/F8 (1),Discontinued,,,,,,,,,,24,203,0,,,,0,2,0,0,0,0,0,2,12,110,0,0,0,0,1,0,187,0,0,0,0,0
+Study 11,EMEA,ITA,Site 505,Subject 3721,Week 16 (1),Discontinued,,,,,,,,,,10,106,0,,,,0,0,0,0,0,0,0,0,1,46,0,0,0,0,0,0,100,0,0,0,0,0
+Study 11,EMEA,ITA,Site 506,Subject 3722,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,12,115,0,,,,0,0,0,0,0,0,0,0,1,106,0,0,0,0,2,0,107,0,0,0,0,0
+Study 11,EMEA,ITA,Site 506,Subject 3723,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,214,0,,,,0,0,0,0,0,0,0,0,1,100,0,0,0,0,0,0,201,0,0,0,0,0
+Study 11,EMEA,ITA,Site 506,Subject 3724,Week 72/F20 (1),On Trial,,,,,,,,,,27,217,0,,,,0,0,0,0,0,0,0,0,9,95,0,0,0,0,1,0,200,5,0,0,0,5
+Study 11,EMEA,ITA,Site 506,Subject 3725,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,21,183,0,,,,0,0,0,0,0,0,0,0,1,99,0,0,0,0,0,0,173,0,0,0,0,0
+Study 11,EMEA,ITA,Site 506,Subject 3726,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,12,114,0,,,,0,0,0,0,0,0,0,0,2,48,0,0,0,0,0,0,106,0,0,0,0,0
+Study 11,EMEA,ITA,Site 507,Subject 3727,Week 72/F20 (1),On Trial,,,,,,,,,,24,195,0,,,,0,0,0,2,0,0,0,2,2,179,0,0,0,0,0,0,178,0,0,0,0,0
+Study 11,EMEA,ITA,Site 507,Subject 3728,Week 64/F12 (1),On Trial,,,,,,,,,,21,189,0,,,,0,0,0,1,0,0,0,1,1,89,0,0,0,0,0,0,176,0,0,0,0,0
+Study 11,EMEA,ITA,Site 508,Subject 3729,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,19,174,0,,,,0,0,0,0,0,0,0,0,8,157,0,0,0,0,1,0,161,0,0,0,0,0
+Study 11,EMEA,NLD,Site 125,Subject 1072,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,213,0,,,,0,0,0,0,0,0,0,0,1,200,0,0,0,0,3,0,201,0,0,0,0,0
+Study 11,EMEA,NLD,Site 127,Subject 1117,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,228,0,,,,0,0,0,0,0,0,0,0,1,215,0,0,0,0,1,0,205,0,0,0,0,0
+Study 11,EMEA,NLD,Site 128,Subject 1121,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,208,0,,,,0,0,0,0,0,0,0,0,1,194,0,0,0,0,4,0,195,0,0,0,0,0
+Study 11,EMEA,NLD,Site 128,Subject 1122,Week 68/F16 (1),On Trial,,,,,,,,,,24,194,0,,,,0,0,0,1,0,0,0,1,1,102,0,0,0,0,1,0,183,0,0,0,0,0
+Study 11,EMEA,NLD,Site 128,Subject 1123,Screening 2 (1),Screen Failure,,,,,,,,,,2,25,0,,,,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,24,0,0,0,0,0
+Study 11,EMEA,POL,Site 130,Subject 1137,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,194,0,,,,0,0,0,0,0,0,0,0,1,183,0,0,0,0,0,0,184,0,0,0,0,0
+Study 11,EMEA,POL,Site 130,Subject 1138,Week 52/EOT (1),Discontinued,,,,,,,,,,13,132,0,,,,0,0,0,0,0,0,0,0,13,48,0,0,0,0,0,0,124,0,0,0,0,0
+Study 11,EMEA,POL,Site 131,Subject 1145,Week 68/F16 (1),On Trial,,,,,,,,,,26,218,0,,,,0,0,0,0,0,0,0,0,9,195,0,0,0,0,0,0,198,2,0,0,0,2
+Study 11,EMEA,POL,Site 131,Subject 1146,Week 52/EOT (1),Discontinued,,,,,,,,,,11,119,0,,,,0,0,0,0,0,0,0,0,1,59,0,0,0,0,0,0,110,0,0,0,0,0
+Study 11,EMEA,POL,Site 131,Subject 1147,Week 64/F12 (1),On Trial,,,,,,,,,,25,196,0,,,,0,0,0,0,0,0,0,0,3,106,0,0,0,0,0,0,180,6,0,0,0,6
+Study 11,EMEA,POL,Site 509,Subject 3730,Week 52/EOT (1),Discontinued,,,,,,,,,,20,204,0,,,,0,0,0,0,0,0,0,0,1,190,0,0,0,0,2,0,187,0,0,0,0,0
+Study 11,EMEA,POL,Site 510,Subject 3731,Week 72/F20 (1),On Trial,,,,,,,,,,27,241,0,,,,0,0,0,0,0,0,0,0,14,213,0,0,0,0,0,0,218,6,0,0,0,6
+Study 11,EMEA,POL,Site 510,Subject 3732,Screening 2 (1),Discontinued,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,22,0,0,0,0,0
+Study 11,EMEA,POL,Site 511,Subject 3733,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,205,0,,,,0,0,0,0,0,0,0,0,1,190,0,0,0,0,0,0,191,0,0,0,0,0
+Study 11,EMEA,POL,Site 511,Subject 3734,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,200,0,,,,0,0,0,0,0,0,0,0,18,101,0,0,0,0,0,0,189,0,0,0,0,0
+Study 11,EMEA,ESP,Site 353,Subject 2844,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,219,0,,,,0,0,0,0,0,0,0,0,1,205,0,0,0,0,0,0,206,0,0,0,0,0
+Study 11,EMEA,ESP,Site 353,Subject 2845,Week 52/EOT (1),Discontinued,,,,,,,,,,4,79,0,,,,0,0,0,0,0,0,0,0,4,34,0,0,0,0,1,0,63,0,0,0,0,0
+Study 11,EMEA,ESP,Site 353,Subject 3735,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,20,192,0,,,,0,0,0,0,0,0,0,0,19,72,0,0,0,0,2,0,174,1,0,0,1,0
+Study 11,EMEA,ESP,Site 353,Subject 3736,UNPLANNED (1),Screen Failure,,,,,,,,,,2,27,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,23,0,0,0,0,0
+Study 11,EMEA,ESP,Site 353,Subject 3737,Week 68/F16 (1),On Trial,,,,,,,,,,26,220,0,,,,0,0,0,0,0,0,0,0,28,77,0,0,0,0,0,0,188,13,0,0,2,11
+Study 11,EMEA,ESP,Site 12,Subject 22,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,205,0,,,,0,0,0,0,0,0,0,0,1,192,0,0,0,0,0,0,193,0,0,0,0,0
+Study 11,EMEA,ESP,Site 12,Subject 2846,Screening 2 (1),Screen Failure,,,,,,,,,,2,12,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,12,0,0,0,0,0
+Study 11,EMEA,ESP,Site 512,Subject 3738,Screening 2 (1),Screen Failure,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,1,9,0,0,0,0,2,0,21,0,0,0,0,0
+Study 11,EMEA,ESP,Site 512,Subject 3739,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,7,107,0,,,,0,0,0,0,0,0,0,0,1,97,0,0,0,0,1,0,83,0,0,0,0,0
+Study 11,EMEA,ESP,Site 512,Subject 3740,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,9,119,0,,,,0,0,0,0,0,0,0,0,1,111,0,0,0,0,0,0,97,0,0,0,0,0
+Study 11,EMEA,ESP,Site 512,Subject 3741,Week 72/F20 (1),On Trial,,,,,,,,,,27,199,0,,,,0,0,0,0,0,0,0,0,21,80,0,0,0,0,1,0,185,2,0,0,0,2
+Study 11,EMEA,ESP,Site 513,Subject 3742,Week 76/F24/EOS (1),Completed,,,,,,,,,,24,211,0,,,,0,0,0,0,0,0,0,0,1,198,0,0,0,0,1,0,199,0,0,0,0,0
+Study 11,EMEA,ESP,Site 513,Subject 3743,Screening 1,Screen Failure,,,,,,,,,,1,22,0,,,,0,0,0,0,0,0,0,0,1,12,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,ESP,Site 513,Subject 3744,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,191,0,,,,0,0,0,0,0,0,0,0,1,99,0,0,0,0,1,0,180,0,0,0,0,0
+Study 11,EMEA,ESP,Site 514,Subject 3745,Week 52/EOT (1),Discontinued,,,,,,,,,,12,121,0,,,,0,0,0,0,0,0,0,0,12,101,0,0,0,0,3,0,115,0,0,0,0,0
+Study 11,EMEA,ESP,Site 514,Subject 3746,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,195,0,,,,0,0,0,0,0,0,0,0,19,129,0,0,0,0,1,0,184,0,0,0,0,0
+Study 11,EMEA,ESP,Site 514,Subject 3747,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,203,0,,,,0,0,0,0,0,0,0,0,19,103,0,0,0,0,2,0,191,0,0,0,0,0
+Study 11,EMEA,ESP,Site 515,Subject 3748,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,203,0,,,,0,0,0,0,0,0,0,0,9,184,0,0,0,0,0,0,194,0,0,0,0,0
+Study 11,EMEA,ESP,Site 515,Subject 3749,Screening 2 (1),Screen Failure,,,,,,,,,,2,18,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,17,0,0,0,0,0
+Study 11,EMEA,ESP,Site 515,Subject 3750,Screening 2 (1),Screen Failure,,,,,,,,,,2,12,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,12,0,0,0,0,0
+Study 11,EMEA,ESP,Site 515,Subject 3751,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,205,0,,,,0,0,0,2,0,0,0,2,37,134,0,0,0,0,1,0,183,11,0,0,3,8
+Study 11,EMEA,ESP,Site 516,Subject 3752,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,202,0,,,,0,0,0,0,0,0,0,0,3,187,0,0,0,0,0,0,190,0,0,0,0,0
+Study 11,EMEA,ESP,Site 516,Subject 3753,Week 76/F24/EOS (1),Completed,,,,,,,,,,26,197,0,,,,0,0,0,0,0,0,0,0,19,79,0,0,0,0,0,0,185,0,0,0,0,0
+Study 11,EMEA,ESP,Site 516,Subject 3754,Week 72/F20 (1),On Trial,,,,,,,,,,24,204,0,,,,0,0,0,0,0,0,0,0,25,89,0,0,0,0,3,0,184,3,0,0,1,2
+Study 11,EMEA,CHE,Site 148,Subject 1393,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,227,0,,,,0,0,0,0,0,0,0,0,1,213,0,3,0,0,1,0,209,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 1394,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,7,72,0,,,,0,0,0,0,0,0,0,0,1,33,0,6,0,0,2,0,67,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 1395,Screening 2 (1),Screen Failure,,,,,,,,,,2,22,0,,,,0,0,0,0,0,0,0,0,1,10,0,1,0,0,0,0,21,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 1396,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,246,0,,,,0,0,0,0,0,0,0,0,1,97,0,0,0,0,2,0,224,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 1397,Week 52/EOT (1),Discontinued,,,,,,,,,,22,194,0,,,,0,0,0,0,0,0,0,0,1,70,0,0,0,0,1,0,180,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 1398,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 1399,Week 52/EOT (1),Discontinued,,,,,,,,,,20,205,0,,,,0,0,0,0,0,0,0,0,2,114,0,0,0,0,0,0,185,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 1400,Screening 2 (1),Discontinued,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,21,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 3755,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,218,0,,,,0,0,0,0,0,0,0,0,5,131,0,0,0,0,1,0,200,0,0,0,0,0
+Study 11,EMEA,CHE,Site 148,Subject 3756,Week 52/EOT (1),Discontinued,,,,,,,,,,22,208,0,,,,0,0,0,0,0,0,0,0,3,129,0,0,0,0,0,0,188,0,0,0,0,0
+Study 11,EMEA,CHE,Site 149,Subject 1401,Screening 2 (1),Screen Failure,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,1,17,0,0,0,0,0,0,19,0,0,0,0,0
+Study 11,EMEA,CHE,Site 149,Subject 1402,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,268,0,,,,0,0,0,0,0,0,0,0,1,241,0,0,0,0,0,0,238,0,0,0,0,0
+Study 11,EMEA,CHE,Site 149,Subject 1403,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,20,182,0,,,,0,0,0,0,0,0,0,0,1,111,0,0,0,0,0,0,170,0,0,0,0,0
+Study 11,EMEA,CHE,Site 149,Subject 1404,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,222,0,,,,0,0,0,0,0,0,0,0,1,113,0,0,0,0,0,0,204,0,0,0,0,0
+Study 11,EMEA,CHE,Site 149,Subject 1405,Week 76/F24/EOS (1),Completed,,,,,,,,,,22,189,0,,,,0,0,0,0,0,0,0,0,1,90,0,0,0,0,0,0,177,0,0,0,0,0
+Study 11,EMEA,CHE,Site 149,Subject 1406,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,CHE,Site 149,Subject 1407,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,13,151,0,,,,0,0,0,0,0,0,0,0,1,78,0,0,0,0,0,0,136,0,0,0,0,0
+Study 11,EMEA,CHE,Site 517,Subject 3757,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,184,0,,,,0,0,0,0,0,0,0,0,1,171,0,0,0,0,0,0,173,0,0,0,0,0
+Study 11,EMEA,GBR,Site 155,Subject 1427,Week 64/F12 (1),On Trial,,,,,,,,,,25,227,0,,,,0,0,0,5,0,0,0,5,37,175,0,0,0,0,0,0,200,9,0,0,2,7
+Study 11,EMEA,GBR,Site 157,Subject 1439,Week 76/F24/EOS (1),On Trial,,,,,,,,,,28,206,0,,,,0,0,0,0,0,0,0,0,6,186,0,0,0,0,2,0,191,0,0,0,0,0
+Study 11,EMEA,GBR,Site 158,Subject 1442,Screening 2 (1),Screen Failure,,,,,,,,,,2,16,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,EMEA,GBR,Site 158,Subject 1443,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,19,0,0,0,0,0
+Study 11,EMEA,GBR,Site 158,Subject 1444,Screening 1,Screen Failure,,,,,,,,,,1,14,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,14,0,0,0,0,0
+Study 11,EMEA,GBR,Site 158,Subject 1445,Screening 2 (1),Screen Failure,,,,,,,,,,2,16,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,EMEA,GBR,Site 158,Subject 1446,Screening 2 (1),Screen Failure,,,,,,,,,,2,16,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,EMEA,GBR,Site 158,Subject 1447,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,205,0,,,,0,0,0,0,0,0,0,0,1,192,0,0,0,0,1,0,193,0,0,0,0,0
+Study 11,EMEA,ISR,Site 518,Subject 3758,Screening 2 (1),Discontinued,,,,,,,,,,2,22,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,21,0,0,0,0,0
+Study 11,EMEA,ISR,Site 518,Subject 3759,Week 64/F12 (1),On Trial,,,,,,,,,,21,187,0,,,,0,0,0,0,0,0,0,0,8,168,0,0,0,0,1,0,176,0,0,0,0,0
+Study 11,EMEA,ISR,Site 518,Subject 3760,Week 24 (1),Discontinued,,,,,,,,,,12,112,0,,,,0,0,0,0,0,0,0,0,13,44,0,0,0,0,1,0,107,0,0,0,0,0
+Study 11,EMEA,ISR,Site 518,Subject 3761,Week 32 (1),Discontinued,,,,,,,,,,14,137,0,,,,0,0,0,0,0,0,0,0,15,68,0,0,0,0,0,0,131,0,0,0,0,0
+Study 11,EMEA,ISR,Site 519,Subject 3762,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,ISR,Site 519,Subject 3763,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,17,0,0,0,0,0
+Study 11,EMEA,ISR,Site 519,Subject 3764,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,ISR,Site 519,Subject 3765,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,EMEA,ISR,Site 519,Subject 3766,Week 52/EOT (1),Discontinued,,,,,,,,,,9,98,0,,,,0,0,0,0,0,0,0,0,1,91,0,0,0,0,0,0,89,0,0,0,0,0
+Study 11,AMERICA,CAN,Site 14,Subject 25,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,216,0,,,,0,0,0,0,0,0,0,0,2,199,0,0,0,0,0,0,197,0,0,0,0,0
+Study 11,AMERICA,CAN,Site 15,Subject 39,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,17,0,0,0,0,0
+Study 11,AMERICA,COL,Site 520,Subject 3767,Screening 1,Screen Failure,,,,,,,,,,1,18,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,AMERICA,COL,Site 520,Subject 3768,Week 76/F24/EOS (1),Completed,,,,,,,,,,26,206,0,,,,0,0,0,0,0,0,0,0,1,193,0,0,0,0,0,0,194,0,0,0,0,0
+Study 11,AMERICA,COL,Site 520,Subject 3769,Week 68/F16 (1),On Trial,,,,,,,,,,26,223,0,,,,1,0,0,0,0,0,0,1,1,161,0,0,0,0,0,0,206,2,0,0,0,2
+Study 11,AMERICA,COL,Site 521,Subject 3770,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,225,0,,,,0,0,0,0,0,0,0,0,1,206,0,0,0,0,1,0,207,0,0,0,0,0
+Study 11,AMERICA,COL,Site 521,Subject 3771,Week 44 (1),Discontinued,,,,,,,,,,20,170,0,,,,0,0,0,0,0,0,0,0,1,92,0,0,0,0,0,0,163,0,0,0,0,0
+Study 11,AMERICA,COL,Site 521,Subject 3772,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,222,0,,,,0,2,0,0,0,0,0,2,1,132,0,0,0,0,0,0,205,0,0,0,0,0
+Study 11,AMERICA,COL,Site 521,Subject 3773,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,206,0,,,,0,1,0,0,0,0,0,1,2,125,0,0,0,0,0,0,193,1,0,0,1,0
+Study 11,AMERICA,COL,Site 522,Subject 3774,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,212,0,,,,0,0,0,0,0,0,0,0,1,197,0,0,0,0,0,0,198,0,0,0,0,0
+Study 11,AMERICA,COL,Site 523,Subject 3775,Week 52/EOT (1),Discontinued,,,,,,,,,,10,102,0,,,,0,0,0,0,0,0,0,0,2,76,0,0,0,0,2,0,94,0,0,0,0,0
+Study 11,AMERICA,COL,Site 523,Subject 3776,Screening 1,Screen Failure,,,,,,,,,,1,18,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,AMERICA,COL,Site 523,Subject 3777,Week 64/F12 (1),On Trial,,,,,,,,,,24,201,0,,,,0,0,0,0,0,0,0,0,20,169,0,0,0,0,1,0,185,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 524,Subject 3778,Screening 2 (1),Screen Failure,,,,,,,,,,2,25,0,,,,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,24,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 524,Subject 3779,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,214,0,,,,0,0,0,0,0,0,0,0,5,197,0,0,0,0,0,0,200,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 524,Subject 3780,Week 72/F20 (1),On Trial,,,,,,,,,,27,224,0,,,,2,3,0,0,0,0,0,5,22,75,0,0,0,0,0,0,201,7,0,0,2,5
+Study 11,AMERICA,ARG,Site 524,Subject 3781,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,191,0,,,,0,0,0,0,0,0,0,0,6,91,0,0,0,0,0,0,181,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 525,Subject 3782,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,190,0,,,,0,0,0,0,0,0,0,0,1,178,0,0,0,0,0,0,179,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 526,Subject 3783,Week 32 (1),Discontinued,,,,,,,,,,17,173,0,,,,0,0,0,0,0,0,0,0,1,164,0,1,0,0,0,0,156,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 526,Subject 3784,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,226,0,,,,0,0,0,0,0,0,0,0,3,211,0,0,0,0,0,0,214,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 526,Subject 3785,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,194,0,,,,0,0,0,0,0,0,0,0,19,61,0,0,0,0,0,0,185,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 526,Subject 3786,Week 52/EOT (1),Discontinued,,,,,,,,,,17,156,0,,,,0,0,0,0,0,0,0,0,14,52,0,0,0,0,0,0,146,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 526,Subject 3787,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,216,0,,,,0,0,0,0,0,0,0,0,19,75,0,0,0,0,0,0,203,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 526,Subject 3788,Week 76/F24/EOS (1),On Trial,,,,,,,,,,28,237,0,,,,0,0,0,0,0,0,0,0,25,97,0,0,0,0,0,0,218,0,0,0,0,0
+Study 11,AMERICA,ARG,Site 527,Subject 3789,Screening 2 (1),Screen Failure,,,,,,,,,,2,18,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,17,0,0,0,0,0
+Study 11,AMERICA,MEX,Site 528,Subject 3790,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,219,0,,,,0,0,0,0,0,0,0,0,7,197,0,0,0,0,0,0,201,0,0,0,0,0
+Study 11,AMERICA,MEX,Site 528,Subject 3791,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,196,0,,,,0,0,0,0,0,0,0,0,19,167,0,0,0,0,1,0,186,0,0,0,0,0
+Study 11,AMERICA,MEX,Site 528,Subject 3792,Week 64/F12 (1),Discontinued,,,,,,,,,,25,216,0,,,,0,0,0,1,0,0,0,1,26,82,0,0,0,0,0,0,201,0,0,0,0,0
+Study 11,AMERICA,MEX,Site 528,Subject 3793,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,22,212,0,,,,0,0,0,0,0,0,0,0,19,179,0,0,0,0,0,0,196,0,0,0,0,0
+Study 11,AMERICA,MEX,Site 528,Subject 3794,Week 52/EOT (1),Discontinued,,,,,,,,,,15,144,0,,,,0,0,0,0,0,0,0,0,14,58,0,0,0,0,1,0,137,0,0,0,0,0
+Study 11,AMERICA,MEX,Site 528,Subject 3795,Week 64/F12 (1),On Trial,,,,,,,,,,25,233,0,,,,0,0,0,0,0,0,0,0,25,143,0,0,0,0,0,0,215,0,0,0,0,0
+Study 11,AMERICA,MEX,Site 528,Subject 3796,Week 60/F8 (1),On Trial,,,,,,,,,,24,214,0,,,,0,0,0,0,0,0,0,0,23,97,0,0,0,0,0,0,202,0,0,0,0,0
+Study 11,AMERICA,MEX,Site 528,Subject 3797,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,221,0,,,,0,0,0,3,0,0,0,3,23,107,0,0,0,0,0,0,205,0,0,0,0,0
+Study 11,AMERICA,BRA,Site 350,Subject 2836,Week 60/F8 (1),On Trial,,,,,,,,,,24,200,0,,,,0,0,0,0,0,0,0,0,1,187,0,0,0,0,0,0,188,0,0,0,0,0
+Study 11,AMERICA,BRA,Site 529,Subject 3798,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,202,0,,,,1,0,0,0,0,0,0,1,4,187,0,0,0,0,0,0,190,1,0,0,1,0
+Study 11,AMERICA,BRA,Site 530,Subject 3799,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,213,0,,,,0,0,0,0,0,0,0,0,1,198,0,0,0,0,1,0,197,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 351,Subject 2837,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,230,0,,,,0,0,0,0,0,0,0,0,2,211,0,0,0,0,0,0,213,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 351,Subject 2838,Screening 1,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,15,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 351,Subject 2839,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,202,0,,,,0,0,0,0,0,0,0,0,1,92,0,0,0,0,0,0,193,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 351,Subject 3800,Screening 1,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 531,Subject 3801,Screening 2 (1),Screen Failure,,,,,,,,,,2,18,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,17,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 532,Subject 3802,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,191,0,,,,0,0,0,0,0,0,0,0,2,173,0,0,0,0,1,0,179,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 532,Subject 3803,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,200,0,,,,0,0,0,0,0,0,0,0,2,108,0,0,0,0,0,0,187,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 532,Subject 3804,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,229,0,,,,0,0,0,0,1,0,0,1,2,127,0,0,0,0,2,0,194,12,0,0,5,7
+Study 11,EMEA,ESP,Site 516,Subject 3805,Week 64/F12 (1),On Trial,,,,,,,,,,25,196,0,,,,0,0,0,0,0,0,0,0,4,106,0,0,0,0,0,0,185,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 533,Subject 3806,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,225,0,,,,0,0,0,0,0,0,0,0,2,209,0,0,0,0,1,0,210,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 533,Subject 3807,Screening 2 (1),Screen Failure,,,,,,,,,,2,15,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,15,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 533,Subject 3808,Week 76/F24/EOS (1),Completed,,,,,,,,,,27,221,0,,,,0,0,0,0,0,0,0,0,2,108,0,0,0,0,0,0,204,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 533,Subject 3809,Screening 2 (1),Screen Failure,,,,,,,,,,2,16,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 533,Subject 3810,Screening 2 (1),Screen Failure,,,,,,,,,,2,16,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 533,Subject 3811,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,209,0,,,,0,0,0,0,0,0,0,0,1,113,0,0,0,0,0,0,197,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 533,Subject 3812,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,215,0,,,,0,0,0,0,0,0,0,0,2,112,0,0,0,0,1,0,202,0,0,0,0,0
+Study 11,AMERICA,CHL,Site 534,Subject 3813,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,209,0,,,,0,0,0,0,0,0,0,0,2,194,0,0,0,0,0,0,196,0,0,0,0,0
+Study 11,AMERICA,USA,Site 18,Subject 63,Screening 1,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,1,5,0,1,0,0,0,0,15,0,0,0,0,0
+Study 11,AMERICA,USA,Site 18,Subject 64,Screening 1,Screen Failure,,,,,,,,,,1,18,0,,,,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,AMERICA,USA,Site 18,Subject 65,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,196,0,,,,0,0,0,0,0,0,0,0,1,184,0,0,0,0,0,0,185,0,0,0,0,0
+Study 11,AMERICA,USA,Site 18,Subject 66,UNPLANNED (3),Completed,,,,,,,,,,28,222,0,,,,0,0,0,0,0,0,0,0,1,103,0,0,0,0,0,0,207,0,0,0,0,0
+Study 11,AMERICA,USA,Site 18,Subject 67,Week 52/EOT (1),Discontinued,,,,,,,,,,19,177,0,,,,0,0,0,0,0,0,0,0,2,91,0,0,0,0,2,0,164,0,0,0,0,0
+Study 11,AMERICA,USA,Site 178,Subject 1600,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,211,0,,,,0,0,0,0,0,0,0,0,6,189,0,0,0,0,0,0,195,0,0,0,0,0
+Study 11,AMERICA,USA,Site 20,Subject 82,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,189,0,,,,0,0,0,0,0,0,0,0,1,178,0,0,0,0,0,0,180,0,0,0,0,0
+Study 11,AMERICA,USA,Site 20,Subject 1601,Screening 1,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,10,0,0,0,0,0
+Study 11,AMERICA,USA,Site 20,Subject 1602,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,218,0,,,,0,0,0,0,0,0,0,0,1,113,0,0,0,0,0,0,206,0,0,0,0,0
+Study 11,AMERICA,USA,Site 20,Subject 1603,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,212,0,,,,0,0,0,0,0,0,0,0,1,120,0,0,0,0,0,0,196,0,0,0,0,0
+Study 11,AMERICA,USA,Site 20,Subject 2840,Week 64/F12 (1),On Trial,,,,,,,,,,23,203,0,,,,0,0,0,0,0,0,0,0,3,112,0,0,0,0,0,0,180,6,0,0,0,6
+Study 11,AMERICA,USA,Site 20,Subject 2841,UNPLANNED (1),Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,10,0,0,0,0,0
+Study 11,AMERICA,USA,Site 326,Subject 2652,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,193,0,,,,0,0,0,1,0,0,0,1,1,182,0,3,0,0,0,0,183,0,0,0,0,0
+Study 11,AMERICA,USA,Site 181,Subject 1614,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,25,204,0,,,,0,0,0,0,0,0,0,0,3,187,0,0,0,0,1,0,190,0,0,0,0,0
+Study 11,AMERICA,USA,Site 181,Subject 2670,Screening 2 (1),Screen Failure,,,,,,,,,,2,19,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,18,0,0,0,0,0
+Study 11,AMERICA,USA,Site 450,Subject 3397,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,206,0,,,,0,0,0,0,0,0,0,0,1,191,0,3,0,0,1,0,192,0,0,0,0,0
+Study 11,AMERICA,USA,Site 450,Subject 3398,Week 52/EOT (1),Discontinued,,,,,,,,,,9,101,0,,,,0,0,0,0,0,0,0,0,9,39,0,0,0,0,0,0,93,0,0,0,0,0
+Study 11,AMERICA,USA,Site 450,Subject 3814,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,19,0,0,0,0,0
+Study 11,AMERICA,USA,Site 450,Subject 3815,Screening 2 (1),Screen Failure,,,,,,,,,,2,22,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,21,0,0,0,0,0
+Study 11,AMERICA,USA,Site 450,Subject 3816,Screening 2 (1),Screen Failure,,,,,,,,,,2,21,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,AMERICA,USA,Site 450,Subject 3817,Week 8 (1),Discontinued,,,,,,,,,,8,79,0,,,,0,0,0,0,0,0,0,0,9,36,0,0,0,0,0,0,75,0,0,0,0,0
+Study 11,AMERICA,USA,Site 21,Subject 83,Screening 1,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,15,0,0,0,0,0
+Study 11,AMERICA,USA,Site 21,Subject 84,Week 76/F24/EOS (1),Completed,,,,,,,,,,23,209,0,,,,0,0,0,1,0,0,0,1,4,191,0,0,0,0,1,0,189,2,0,0,2,0
+Study 11,AMERICA,USA,Site 21,Subject 85,Week 76/F24/EOS (1),Completed,,,,,,,,,,20,180,0,,,,0,0,0,0,0,0,0,0,13,82,0,0,0,0,0,0,163,1,0,0,1,0
+Study 11,AMERICA,USA,Site 21,Subject 3818,Week 68/F16 (1),On Trial,,,,,,,,,,26,225,0,,,,0,0,0,0,0,0,0,0,21,109,0,0,0,0,1,0,199,7,0,0,2,5
+Study 11,AMERICA,USA,Site 21,Subject 3819,Week 76/F24/EOS (1),Completed,,,,,,,,,,20,192,0,,,,0,0,0,1,0,0,0,1,10,102,0,0,0,0,0,0,172,2,0,0,2,0
+Study 11,AMERICA,USA,Site 535,Subject 3820,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,208,0,,,,0,0,0,0,0,0,0,0,1,195,0,2,0,0,0,0,196,0,0,0,0,0
+Study 11,AMERICA,USA,Site 183,Subject 1616,Screening 1,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 11,AMERICA,USA,Site 184,Subject 1624,Screening 2 (1),Screen Failure,,,,,,,,,,2,18,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,17,0,0,0,0,0
+Study 11,AMERICA,USA,Site 184,Subject 1625,Screening 2 (1),Screen Failure,,,,,,,,,,2,22,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,21,0,0,0,0,0
+Study 11,AMERICA,USA,Site 24,Subject 90,Screening 1,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 11,AMERICA,USA,Site 330,Subject 2703,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,204,0,,,,0,0,0,0,0,0,0,0,7,186,0,0,0,0,0,0,194,0,0,0,0,0
+Study 11,AMERICA,USA,Site 536,Subject 3821,Screening 2 (1),Screen Failure,,,,,,,,,,2,27,0,,,,0,0,0,0,0,0,0,0,1,22,0,0,0,0,0,0,26,0,0,0,0,0
+Study 11,AMERICA,USA,Site 536,Subject 3822,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,196,0,,,,0,0,0,0,0,0,0,0,1,105,0,0,0,0,0,0,187,0,0,0,0,0
+Study 11,AMERICA,USA,Site 536,Subject 3823,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,AMERICA,USA,Site 536,Subject 3824,Screening 2 (1),Screen Failure,,,,,,,,,,2,25,0,,,,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,24,0,0,0,0,0
+Study 11,AMERICA,USA,Site 537,Subject 3825,Screening 1,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,11,0,0,0,0,0
+Study 11,AMERICA,USA,Site 186,Subject 1634,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,217,0,,,,0,0,0,0,0,0,0,0,3,202,0,0,0,0,0,0,201,0,0,0,0,0
+Study 11,AMERICA,USA,Site 186,Subject 3826,Week 64/F12 (1),On Trial,,,,,,,,,,25,207,0,,,,0,0,0,0,0,0,0,0,11,115,0,0,0,0,0,1,183,5,0,0,0,5
+Study 11,AMERICA,USA,Site 188,Subject 1637,Screening 1,Screen Failure,,,,,,,,,,1,14,0,,,,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,14,0,0,0,0,0
+Study 11,AMERICA,USA,Site 538,Subject 3827,Screening 2 (1),Screen Failure,,,,,,,,,,2,22,0,,,,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,21,0,0,0,0,0
+Study 11,AMERICA,USA,Site 538,Subject 3828,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,27,235,0,,,,0,0,0,0,0,0,0,0,1,219,0,0,0,0,1,0,220,0,0,0,0,0
+Study 11,AMERICA,USA,Site 538,Subject 3829,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,204,0,,,,0,0,0,0,0,0,0,0,1,191,0,0,0,0,0,0,192,0,0,0,0,0
+Study 11,AMERICA,USA,Site 189,Subject 1639,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,219,0,,,,0,0,0,0,0,0,0,0,21,186,0,0,0,0,2,0,207,0,0,0,0,0
+Study 11,AMERICA,USA,Site 189,Subject 1640,Week 72/F20 (1),On Trial,,,,,,,,,,27,212,0,,,,0,0,0,0,0,0,0,0,24,84,0,0,0,0,1,0,189,10,0,0,0,10
+Study 11,AMERICA,USA,Site 189,Subject 3830,Week 72/F20 (1),On Trial,,,,,,,,,,27,235,0,,,,0,0,0,0,0,0,0,0,32,117,0,0,0,0,0,0,206,10,0,0,0,10
+Study 11,AMERICA,USA,Site 189,Subject 3831,Screening 2 (1),Screen Failure,,,,,,,,,,2,17,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,AMERICA,USA,Site 539,Subject 3832,Screening 1,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,9,0,0,0,0,0
+Study 11,EMEA,ISL,Site 540,Subject 3833,UNPLANNED (2),Discontinued,,,,,,,,,,2,31,0,,,,0,0,0,0,0,0,0,0,2,25,0,0,0,0,1,0,27,0,0,0,0,0
+Study 11,EMEA,IRL,Site 541,Subject 3834,Week 64/F12 (1),On Trial,,,,,,,,,,25,197,0,,,,0,0,0,0,0,0,0,0,9,174,0,0,0,0,1,0,176,8,0,0,0,8
+Study 11,EMEA,IRL,Site 541,Subject 3835,Week 64/F12 (1),On Trial,,,,,,,,,,25,208,0,,,,0,0,0,0,0,0,0,0,17,116,0,0,0,0,0,0,180,9,0,0,0,9
+Study 11,EMEA,IRL,Site 541,Subject 3836,Week 64/F12 (1),On Trial,,,,,,,,,,25,193,0,,,,0,0,0,1,0,0,0,1,21,97,0,0,0,0,0,0,174,8,0,0,0,8
+Study 11,EMEA,IRL,Site 541,Subject 3837,Week 64/F12 (1),On Trial,,,,,,,,,,24,209,0,,,,0,0,0,0,0,0,0,0,22,110,0,0,0,0,0,0,182,8,0,0,0,8
+Study 11,EMEA,SWE,Site 542,Subject 3838,Week 64/F12 (1),On Trial,,,,,,,,,,25,204,0,,,,0,0,0,0,0,0,0,0,12,179,0,0,0,0,1,0,179,8,0,0,2,6
+Study 11,EMEA,SWE,Site 542,Subject 3839,Week 60/F8 (1),On Trial,,,,,,,,,,24,237,0,,,,0,0,0,0,0,0,0,0,6,143,0,0,0,0,2,0,212,3,0,0,1,2
+Study 11,AMERICA,USA,Site 543,Subject 3840,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,21,232,0,,,,0,0,0,0,0,0,0,0,1,213,0,0,0,0,1,0,211,0,0,0,0,0
+Study 11,AMERICA,USA,Site 543,Subject 3841,Baseline (1),Screen Failure,,,,,,,,,,3,38,0,,,,0,0,0,0,0,0,0,0,2,33,0,0,0,0,2,0,34,0,0,0,0,0
+Study 11,AMERICA,USA,Site 543,Subject 3842,Screening 2 (1),Screen Failure,,,,,,,,,,2,23,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,21,0,0,0,0,0
+Study 11,AMERICA,USA,Site 543,Subject 3843,Screening 2 (1),Screen Failure,,,,,,,,,,2,12,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,11,0,0,0,0,0
+Study 11,AMERICA,USA,Site 544,Subject 3844,Week 52/EOT (1),Discontinued,,,,,,,,,,14,141,0,,,,0,0,0,0,0,0,0,0,1,132,0,0,0,0,1,0,133,0,0,0,0,0
+Study 11,AMERICA,USA,Site 544,Subject 3845,Week 52/EOT (1),Discontinued,,,,,,,,,,18,183,0,,,,0,0,0,0,0,0,0,0,14,77,0,0,0,0,0,0,168,0,0,0,0,0
+Study 11,AMERICA,USA,Site 544,Subject 3846,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,236,0,,,,0,0,0,0,0,0,0,0,1,222,0,0,0,0,0,0,213,0,0,0,0,0
+Study 11,AMERICA,USA,Site 544,Subject 3847,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,20,191,0,,,,0,0,0,0,0,0,0,0,19,82,0,0,0,0,0,0,179,0,0,0,0,0
+Study 11,AMERICA,USA,Site 544,Subject 3848,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,217,0,,,,0,0,0,0,0,0,0,0,19,86,0,0,0,0,1,0,204,0,0,0,0,0
+Study 11,AMERICA,USA,Site 545,Subject 3849,Screening 1,Screen Failure,,,,,,,,,,1,14,0,,,,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,14,0,0,0,0,0
+Study 11,AMERICA,USA,Site 545,Subject 3850,Week 72/F20 (1),On Trial,,,,,,,,,,27,216,0,,,,0,0,0,0,0,0,0,0,6,189,0,0,0,0,1,0,205,0,0,0,0,0
+Study 11,AMERICA,USA,Site 545,Subject 3851,Week 68/F16 (1),On Trial,,,,,,,,,,25,246,0,,,,0,0,0,0,0,0,0,0,13,131,0,0,0,0,1,0,218,6,0,0,1,5
+Study 11,AMERICA,USA,Site 546,Subject 3852,Week 16 (1),Discontinued,,,,,,,,,,10,111,0,,,,0,1,0,0,0,0,0,1,1,103,0,0,0,0,1,0,100,0,0,0,0,0
+Study 11,AMERICA,USA,Site 547,Subject 3853,Screening 2 (1),Screen Failure,,,,,,,,,,2,25,0,,,,0,0,0,0,0,0,0,0,1,9,0,0,0,0,0,0,22,0,0,0,0,0
+Study 11,AMERICA,USA,Site 547,Subject 3854,Screening 1,Screen Failure,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,12,0,0,0,0,0
+Study 11,AMERICA,USA,Site 547,Subject 3855,Week 4 (1),Discontinued,,,,,,,,,,6,69,0,,,,0,0,0,0,0,0,0,0,1,64,0,0,0,0,0,0,65,0,0,0,0,0
+Study 11,AMERICA,USA,Site 548,Subject 3856,Screening 2 (1),Screen Failure,,,,,,,,,,2,21,0,,,,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,AMERICA,USA,Site 548,Subject 3857,Week 12 (1),Discontinued,,,,,,,,,,9,101,0,,,,0,0,0,0,0,0,0,0,1,91,0,0,0,0,1,0,92,0,0,0,0,0
+Study 11,AMERICA,USA,Site 549,Subject 3858,Screening 1,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 11,AMERICA,USA,Site 550,Subject 3859,Screening 2 (1),Screen Failure,,,,,,,,,,2,20,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,19,0,0,0,0,0
+Study 11,AMERICA,USA,Site 550,Subject 3860,Screening 2 (1),Screen Failure,,,,,,,,,,2,17,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,16,0,0,0,0,0
+Study 11,AMERICA,USA,Site 550,Subject 3861,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,24,198,0,,,,0,0,0,0,0,0,0,0,1,186,0,0,0,0,0,0,187,0,0,0,0,0
+Study 11,AMERICA,USA,Site 550,Subject 3862,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,23,193,0,,,,0,0,0,0,0,0,0,0,23,98,0,0,0,0,0,0,183,0,0,0,0,0
+Study 11,AMERICA,USA,Site 551,Subject 3863,Week 52/EOT (1),Discontinued,,,,,,,,,,22,190,0,,,,0,0,0,0,0,0,0,0,2,176,0,0,0,0,0,0,178,0,0,0,0,0
+Study 11,AMERICA,USA,Site 551,Subject 3864,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,226,0,,,,0,0,0,0,0,0,0,0,19,99,0,0,0,0,0,0,213,0,0,0,0,0
+Study 11,AMERICA,USA,Site 551,Subject 3865,Week 76/F24/EOS (1),Completed,,,,,,,,,,28,218,0,,,,0,0,0,0,0,0,0,0,19,98,0,0,0,0,0,0,206,0,0,0,0,0
+Study 11,AMERICA,USA,Site 552,Subject 3866,Week 76/F24/EOS (1),Discontinued,,,,,,,,,,26,222,0,,,,0,0,0,0,0,0,0,0,1,208,0,0,0,0,0,0,209,0,0,0,0,0
+Study 11,AMERICA,USA,Site 552,Subject 3867,Screening 2 (1),Screen Failure,,,,,,,,,,2,21,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,20,0,0,0,0,0
+Study 11,AMERICA,USA,Site 553,Subject 3868,Screening 2 (1),Screen Failure,,,,,,,,,,2,16,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,15,0,0,0,0,0
+Study 11,AMERICA,USA,Site 553,Subject 3869,Week 64/F12 (1),On Trial,,,,,,,,,,22,204,0,,,,0,0,0,0,0,0,0,0,9,179,0,0,0,0,5,0,181,7,0,0,1,6
+,,,148,483,Total:,,,,,,,,,,,8861,78130,0,,,,6,9,0,24,1,0,0,40,2751,49973,3,165,,,,,72134,407,0,0,64,343
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

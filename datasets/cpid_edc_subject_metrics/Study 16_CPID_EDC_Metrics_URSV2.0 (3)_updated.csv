@@ -1,0 +1,676 @@
+﻿Project Name,Region,Country,Site ID,Subject ID,Latest Visit (SV) (Source: Rave EDC: BO4),Subject Status (Source: PRIMARY Form),Input files,,,,,,,,,CPMD,,,,,,,,,,,,,,,,,,,,,,SSM,,,,,
+,,,,,,,Missing Visits,Missing Page,# Coded terms,# Uncoded Terms,# Open issues in LNR,# Open Issues reported for 3rd party reconciliation in EDRR,Inactivated forms and folders,# eSAE dashboard review for DM,# eSAE dashboard review for safety,Visit status,Page status (Source: (Rave EDC : BO4)),,,,,Queries status (Source:(Rave EDC : BO4)),,,,,,,,Page Action Status (Source: (Rave EDC : BO4)),,,,,,Protocol Deviations (Source:(Rave EDC : BO4)),,PI Signatures (Source: (Rave EDC : BO4)),,,,,
+,,,,,,,,,,,,,,,,# Expected Visits (Rave EDC : BO4),# Pages Entered,# Pages with Non-Conformant data,# Total CRFs with queries & Non-Conformant data,# Total CRFs without queries & Non-Conformant data,% Clean Entered CRF,# DM Queries,# Clinical Queries,# Medical Queries,# Site Queries,# Field Monitor Queries,# Coding Queries,# Safety Queries,#Total Queries,# CRFs Require Verification (SDV),# Forms Verified,# CRFs Frozen,# CRFs Not Frozen,# CRFs Locked,# CRFs Unlocked,# PDs Confirmed,# PDs Proposed,# CRFs Signed,CRFs overdue for signs within 45 days of Data entry,CRFs overdue for signs between 45 to 90 days of Data entry,CRFs overdue for signs beyond 90 days of Data entry,Broken Signatures,CRFs Never Signed
+Responsible LF for action,,,,,,,,,,,,,,,,,,Site/CRA,,,,DM,CSE/CDD,CDMD/Medical Lead,Site/CRA,CRA,Coder,Safety Team,,CRA,,,DM,,,CD LF,,Investigator,,,,,
+Study 16,AMERICA,USA,Site 599,Subject 4074,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 600,Subject 4075,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,AMERICA,USA,Site 601,Subject 4076,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 601,Subject 4077,Screening,Screen Failure,,,,,,,,,,1,13,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 601,Subject 4078,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 601,Subject 4079,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 601,Subject 4080,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 601,Subject 4081,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 601,Subject 4082,Screening,Screen Failure,,,,,,,,,,0,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 602,Subject 4083,Week 104 (EOT) (1),Completed,,,,,,,,,,54,265,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,244,10,0,0,10,0
+Study 16,AMERICA,USA,Site 602,Subject 4084,Week 104 (EOT) (1),Completed,,,,,,,,,,54,264,0,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,244,10,0,0,10,0
+Study 16,AMERICA,USA,Site 602,Subject 4085,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 602,Subject 4086,Week 104 (EOT) (1),Completed,,,,,,,,,,54,269,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,249,5,0,1,5,1
+Study 16,AMERICA,USA,Site 602,Subject 4087,Week 104 (EOT) (1),On Trial,,,,,,,,,,54,260,0,,,,4,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,230,20,0,0,5,15
+Study 16,AMERICA,USA,Site 602,Subject 4088,Week 102 (1),On Trial,,,,,,,,,,53,249,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,222,17,0,0,11,6
+Study 16,AMERICA,USA,Site 602,Subject 4089,Week 98 (1),On Trial,,,,,,,,,,51,266,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,246,11,0,0,4,7
+Study 16,AMERICA,USA,Site 602,Subject 4090,Week 100 (1),On Trial,,,,,,,,,,52,241,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,218,14,0,0,8,6
+Study 16,AMERICA,USA,Site 602,Subject 4091,Week 98 (1),On Trial,,,,,,,,,,51,284,0,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,253,14,0,0,7,7
+Study 16,AMERICA,USA,Site 602,Subject 4092,Week 92 (1),On Trial,,,,,,,,,,48,237,0,,,,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,213,13,0,0,4,9
+Study 16,AMERICA,USA,Site 602,Subject 4093,Early Discontinuation (1),Follow-Up,,,,,,,,,,44,234,0,,,,21,0,0,2,0,0,0,23,0,0,0,0,0,0,0,0,192,25,0,0,25,0
+Study 16,AMERICA,USA,Site 602,Subject 4094,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 602,Subject 4095,Week 84 (1),On Trial,,,,,,,,,,44,250,0,,,,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,224,11,0,0,5,6
+Study 16,AMERICA,USA,Site 602,Subject 4096,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 602,Subject 4097,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 602,Subject 4098,Week 74 (1),On Trial,,,,,,,,,,39,203,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,192,4,0,0,1,3
+Study 16,AMERICA,USA,Site 602,Subject 4099,Week 68 (1),On Trial,,,,,,,,,,36,205,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,192,6,0,0,1,5
+Study 16,AMERICA,USA,Site 602,Subject 4100,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 602,Subject 4101,Week 60 (1),On Trial,,,,,,,,,,32,159,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,146,6,0,0,1,5
+Study 16,AMERICA,USA,Site 602,Subject 4102,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 602,Subject 4103,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 602,Subject 4104,Week 22 (1),On Trial,,,,,,,,,,13,83,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,74,7,0,0,1,6
+Study 16,AMERICA,USA,Site 603,Subject 4105,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 603,Subject 4106,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 603,Subject 4107,Week 24 (1),On Trial,,,,,,,,,,14,101,0,,,,4,0,0,4,3,0,0,11,0,0,0,0,0,0,0,0,66,24,0,0,4,20
+Study 16,AMERICA,USA,Site 603,Subject 4108,Week 12 (1),On Trial,,,,,,,,,,7,73,0,,,,3,0,0,12,3,0,0,18,0,0,0,0,0,0,0,0,42,22,0,0,3,19
+Study 16,AMERICA,USA,Site 604,Subject 4109,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,AMERICA,USA,Site 604,Subject 4110,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,AMERICA,USA,Site 599,Subject 4111,Week 94 (1),On Trial,,,,,,,,,,47,257,0,,,,4,0,0,0,1,0,0,5,0,0,108,0,0,0,3,3,112,14,99,7,85,35
+Study 16,AMERICA,USA,Site 605,Subject 4112,Week 78 (1),On Trial,,,,,,,,,,41,207,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,50,3,47,85,45,90
+Study 16,AMERICA,USA,Site 605,Subject 4113,Week 70 (1),On Trial,,,,,,,,,,30,191,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,5,53,6,34,79,32,87
+Study 16,AMERICA,USA,Site 605,Subject 4114,Week 22 (1),On Trial,,,,,,,,,,13,82,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,10,21,44,0,75
+Study 16,AMERICA,USA,Site 606,Subject 4115,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 606,Subject 4116,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 606,Subject 4117,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 606,Subject 4118,Week 56 (1),On Trial,,,,,,,,,,30,154,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135,4,0,0,0,4
+Study 16,AMERICA,USA,Site 606,Subject 4119,Week 26 (1),On Trial,,,,,,,,,,15,102,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,7,0,0,2,5
+Study 16,AMERICA,USA,Site 606,Subject 4120,Week 12 (1),On Trial,,,,,,,,,,8,62,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,5,0,0,2,3
+Study 16,AMERICA,USA,Site 607,Subject 4121,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,AMERICA,USA,Site 607,Subject 4122,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,AMERICA,USA,Site 607,Subject 4123,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,AMERICA,USA,Site 608,Subject 4124,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 608,Subject 4125,Screening,Screen Failure,,,,,,,,,,1,13,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 608,Subject 4126,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 608,Subject 4127,Week 34 (1),On Trial,,,,,,,,,,19,113,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,93,8,0,0,1,7
+Study 16,AMERICA,USA,Site 608,Subject 4128,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,3,0,0,1,2
+Study 16,AMERICA,USA,Site 608,Subject 4129,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,2,0,0,0,2
+Study 16,AMERICA,USA,Site 609,Subject 4130,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,2,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,AMERICA,USA,Site 609,Subject 4131,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,7,0,7
+Study 16,AMERICA,USA,Site 610,Subject 4132,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 610,Subject 4133,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 610,Subject 4134,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 610,Subject 4135,Week 26 (1),On Trial,,,,,,,,,,15,101,0,,,,3,0,0,0,9,0,0,12,0,0,0,0,0,0,1,0,83,8,0,0,4,4
+Study 16,AMERICA,USA,Site 610,Subject 4136,Week 22 (1),On Trial,,,,,,,,,,13,89,0,,,,8,0,0,0,5,0,0,13,0,0,0,0,0,0,0,1,69,10,0,0,3,7
+Study 16,AMERICA,USA,Site 610,Subject 4137,Week 22 (1),On Trial,,,,,,,,,,13,76,0,,,,4,1,0,0,1,0,0,6,0,0,0,0,0,0,0,1,57,11,0,0,5,6
+Study 16,AMERICA,USA,Site 610,Subject 4138,Screening,Completed,,,,,,,,,,1,11,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 611,Subject 4139,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,2,0
+Study 16,AMERICA,USA,Site 611,Subject 4140,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,2,0
+Study 16,AMERICA,USA,Site 611,Subject 4141,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,2,0
+Study 16,AMERICA,USA,Site 611,Subject 4142,Week 74 (1),On Trial,,,,,,,,,,39,206,0,,,,9,0,0,1,1,0,0,11,0,0,0,0,0,0,5,0,85,15,88,1,68,36
+Study 16,AMERICA,USA,Site 611,Subject 4143,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,2,0,2,0
+Study 16,AMERICA,USA,Site 611,Subject 4144,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,2,0
+Study 16,AMERICA,USA,Site 611,Subject 4145,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,AMERICA,USA,Site 611,Subject 4146,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,AMERICA,USA,Site 611,Subject 4147,Week 26 (1),On Trial,,,,,,,,,,15,96,0,,,,3,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,32,16,21,18,13,42
+Study 16,AMERICA,USA,Site 611,Subject 4148,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,4,3,3
+Study 16,AMERICA,USA,Site 611,Subject 4149,Week 14 (1),On Trial,,,,,,,,,,9,91,0,,,,3,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,19,46,17,0,82
+Study 16,AMERICA,USA,Site 611,Subject 4150,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,8
+Study 16,AMERICA,USA,Site 612,Subject 4151,Week 14 (1),On Trial,,,,,,,,,,9,75,1,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,69,4,0,0,1,3
+Study 16,AMERICA,USA,Site 613,Subject 4152,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,AMERICA,USA,Site 614,Subject 4153,Week 104 (EOT) (1),Completed,,,,,,,,,,54,286,1,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,274,1,0,0,1,0
+Study 16,AMERICA,USA,Site 614,Subject 4154,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 614,Subject 4155,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+Study 16,AMERICA,USA,Site 615,Subject 4156,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 615,Subject 4157,Week 52 (1),On Trial,,,,,,,,,,28,170,2,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131,27,0,0,5,22
+Study 16,AMERICA,USA,Site 615,Subject 4158,Week 52 (1),On Trial,,,,,,,,,,28,190,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,25,0,0,3,22
+Study 16,AMERICA,USA,Site 615,Subject 4159,Week 40 (1),On Trial,,,,,,,,,,22,124,2,,,,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,116,4,0,0,4,0
+Study 16,AMERICA,USA,Site 616,Subject 4160,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 617,Subject 4161,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,6,0,8
+Study 16,AMERICA,USA,Site 618,Subject 4162,Week 64 (1),On Trial,,,,,,,,,,34,203,0,,,,3,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,164,18,0,0,8,10
+Study 16,AMERICA,USA,Site 619,Subject 4163,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 620,Subject 4164,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 620,Subject 4165,Week 26 (1),On Trial,,,,,,,,,,14,97,1,,,,11,0,0,3,0,0,0,14,0,0,0,0,0,0,0,1,87,0,0,0,0,0
+Study 16,AMERICA,USA,Site 621,Subject 4166,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,USA,Site 621,Subject 4167,Week 56 (1),On Trial,,,,,,,,,,30,156,0,,,,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,139,10,0,0,4,6
+Study 16,AMERICA,USA,Site 621,Subject 4168,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,AMERICA,USA,Site 621,Subject 4169,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,AMERICA,USA,Site 621,Subject 4170,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,USA,Site 621,Subject 4171,Week 14 (1),On Trial,,,,,,,,,,9,73,0,,,,5,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,57,14,0,0,3,11
+Study 16,AMERICA,USA,Site 621,Subject 4172,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,6,2,0,0,2,0
+Study 16,AMERICA,USA,Site 622,Subject 4173,Unplanned Visit (1),Screen Failure,,,,,,,,,,1,17,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,0,1,2
+Study 16,AMERICA,USA,Site 622,Subject 4174,Week 56 (1),On Trial,,,,,,,,,,30,168,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,151,8,0,0,1,7
+Study 16,AMERICA,USA,Site 622,Subject 4175,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 623,Subject 4176,Week 40 (1),Follow-Up,,,,,,,,,,11,99,0,,,,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,49,13,31,0,28,16
+Study 16,AMERICA,CAN,Site 623,Subject 4177,Week 12 (1),On Trial,,,,,,,,,,8,69,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,45,3,19,0,18,4
+Study 16,AMERICA,CAN,Site 624,Subject 4178,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4179,Week 74 (1),On Trial,,,,,,,,,,39,187,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4180,Week 70 (1),On Trial,,,,,,,,,,37,185,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,176,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4181,Early Discontinuation (1),Follow-Up,,,,,,,,,,6,61,0,,,,2,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,53,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4182,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4183,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4184,Week 42 (1),On Trial,,,,,,,,,,22,134,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,127,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4185,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4186,Week 22 (1),On Trial,,,,,,,,,,13,76,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4187,Week 16 (1),On Trial,,,,,,,,,,10,68,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 624,Subject 4188,Week 14 (1),On Trial,,,,,,,,,,9,65,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 625,Subject 4189,Week 12 (1),On Trial,,,,,,,,,,8,77,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,70,1,0,0,1,0
+Study 16,AMERICA,CAN,Site 625,Subject 4190,Week 12 (1),On Trial,,,,,,,,,,8,84,1,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,77,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 625,Subject 4191,Week 12 (1),On Trial,,,,,,,,,,8,85,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 626,Subject 4192,Week 18 (1),On Trial,,,,,,,,,,11,70,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,25,0,0,16,9
+Study 16,AMERICA,CAN,Site 627,Subject 4193,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 627,Subject 4194,Week 24 (1),On Trial,,,,,,,,,,14,101,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,28,0,0,4,24
+Study 16,AMERICA,CAN,Site 627,Subject 4195,Week 12 (1),On Trial,,,,,,,,,,8,66,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,18,0,0,1,17
+Study 16,AMERICA,CAN,Site 627,Subject 4196,Week 12 (1),On Trial,,,,,,,,,,8,78,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,21,0,1,3,19
+Study 16,AMERICA,CAN,Site 628,Subject 4197,Unplanned Visit (2),On Trial,,,,,,,,,,14,103,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0
+Study 16,AMERICA,CAN,Site 629,Subject 4198,Week 12 (1),On Trial,,,,,,,,,,8,60,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,38,19,0,1,2,18
+Study 16,AMERICA,CAN,Site 629,Subject 4199,Unplanned Visit (2),Screen Failure,,,,,,,,,,1,17,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,12,2,0,0,1,1
+Study 16,EMEA,GRC,Site 630,Subject 4200,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,GRC,Site 631,Subject 4201,Week 46 (1),On Trial,,,,,,,,,,25,148,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,0,0,3,3
+Study 16,EMEA,GRC,Site 632,Subject 4202,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,EMEA,GRC,Site 632,Subject 4203,Week 40 (1),On Trial,,,,,,,,,,22,135,0,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,50,4,58,13,29,46
+Study 16,EMEA,GRC,Site 632,Subject 4204,Week 36 (1),On Trial,,,,,,,,,,20,119,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,41,23,39,7,18,51
+Study 16,EMEA,GRC,Site 633,Subject 4205,Week 24 (1),On Trial,,,,,,,,,,14,87,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,30,25,28,0,30,23
+Study 16,EMEA,GRC,Site 633,Subject 4206,Unplanned Visit (1),Screen Failure,,,,,,,,,,1,15,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1,6,0,7,0
+Study 16,EMEA,GRC,Site 634,Subject 4207,Week 40 (1),On Trial,,,,,,,,,,22,174,1,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,2,0,73,25,58,0,49,34
+Study 16,EMEA,GRC,Site 635,Subject 4208,Week 36 (1),On Trial,,,,,,,,,,20,137,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,4,0,81,4,4,36,10,34
+Study 16,EMEA,BEL,Site 636,Subject 4209,Screening,Screen Failure,,,,,,,,,,0,9,0,,,,2,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,5,1,1,1,2,1
+Study 16,EMEA,BEL,Site 637,Subject 4210,Week 60 (1),On Trial,,,,,,,,,,32,172,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,141,21,0,0,15,6
+Study 16,EMEA,BEL,Site 637,Subject 4211,Week 52 (1),On Trial,,,,,,,,,,28,167,0,,,,1,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,140,16,0,0,15,1
+Study 16,EMEA,BEL,Site 637,Subject 4212,Week 52 (1),On Trial,,,,,,,,,,28,146,0,,,,1,0,0,3,0,0,0,4,0,1,0,0,0,0,0,1,122,18,0,0,17,1
+Study 16,EMEA,BEL,Site 637,Subject 4213,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,BEL,Site 637,Subject 4214,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,BEL,Site 637,Subject 4215,Week 36 (1),On Trial,,,,,,,,,,19,135,0,,,,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,1,91,34,0,0,14,20
+Study 16,EMEA,BEL,Site 637,Subject 4216,Week 36 (1),On Trial,,,,,,,,,,19,131,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,90,29,0,1,9,21
+Study 16,EMEA,BEL,Site 637,Subject 4217,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,EMEA,BEL,Site 638,Subject 4218,Week 12 (1),On Trial,,,,,,,,,,8,66,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,1,0,0,1,0
+Study 16,EMEA,BEL,Site 639,Subject 4219,Week 52 (1),On Trial,,,,,,,,,,28,155,0,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,146,3,0,0,3,0
+Study 16,EMEA,BEL,Site 639,Subject 4220,Week 52 (1),On Trial,,,,,,,,,,28,145,0,,,,1,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,115,24,0,0,2,22
+Study 16,EMEA,BEL,Site 639,Subject 4221,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,BEL,Site 639,Subject 4222,Week 24 (1),On Trial,,,,,,,,,,14,97,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,0,0,2,2
+Study 16,EMEA,BEL,Site 640,Subject 4223,Week 56 (1),On Trial,,,,,,,,,,30,169,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,155,3,0,0,0,3
+Study 16,EMEA,BEL,Site 640,Subject 4224,Week 52 (1),On Trial,,,,,,,,,,28,150,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,118,24,0,0,1,23
+Study 16,EMEA,BEL,Site 640,Subject 4225,Week 40 (1),On Trial,,,,,,,,,,22,163,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,149,2,0,0,2,0
+Study 16,EMEA,BEL,Site 640,Subject 4226,Week 36 (1),On Trial,,,,,,,,,,20,113,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,106,0,0,0,0,0
+Study 16,EMEA,BEL,Site 640,Subject 4227,Week 12 (1),On Trial,,,,,,,,,,7,60,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,2,0,0,2,0
+Study 16,EMEA,BEL,Site 641,Subject 4228,Week 36 (1),On Trial,,,,,,,,,,18,109,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,5,0,79,24,1,0,5,20
+Study 16,EMEA,FRA,Site 642,Subject 4229,Week 24 (1),On Trial,,,,,,,,,,14,113,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0
+Study 16,EMEA,FRA,Site 642,Subject 4230,Week 12 (1),On Trial,,,,,,,,,,8,76,0,,,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,70,0,0,0,0,0
+Study 16,EMEA,FRA,Site 643,Subject 4231,Week 36 (1),On Trial,,,,,,,,,,20,107,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,44,21,37,0,40,18
+Study 16,EMEA,FRA,Site 643,Subject 4232,Week 32 (1),On Trial,,,,,,,,,,18,96,0,,,,0,0,0,2,4,0,0,6,0,0,0,0,0,0,0,0,31,20,42,0,35,27
+Study 16,EMEA,FRA,Site 644,Subject 4233,Week 24 (1),On Trial,,,,,,,,,,14,82,0,,,,1,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,9,24,15,26,6,59
+Study 16,EMEA,FRA,Site 644,Subject 4234,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,3,3,1
+Study 16,EMEA,FRA,Site 645,Subject 4235,Screening,Screen Failure,,,,,,,,,,0,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,FRA,Site 645,Subject 4236,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,FRA,Site 645,Subject 4237,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,FRA,Site 645,Subject 4238,Week 28 (1),On Trial,,,,,,,,,,16,91,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,82,5,0,0,1,4
+Study 16,EMEA,FRA,Site 646,Subject 4239,Week 40 (1),On Trial,,,,,,,,,,22,120,0,,,,2,0,0,0,0,0,0,2,0,1,0,0,0,0,7,0,115,0,0,0,0,0
+Study 16,EMEA,FRA,Site 647,Subject 4240,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,EMEA,ESP,Site 648,Subject 4241,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,1,3,0
+Study 16,EMEA,ESP,Site 648,Subject 4242,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,1,3,0
+Study 16,EMEA,ESP,Site 648,Subject 4243,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,1,3,0
+Study 16,EMEA,ESP,Site 648,Subject 4244,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,1,2,1
+Study 16,EMEA,ESP,Site 648,Subject 4245,Week 32 (1),On Trial,,,,,,,,,,16,96,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,18,14,18,43,12,63
+Study 16,EMEA,ESP,Site 648,Subject 4246,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,1,2,1
+Study 16,EMEA,ESP,Site 649,Subject 4247,Week 40 (1),On Trial,,,,,,,,,,22,123,0,,,,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,34,28,28,28,26,58
+Study 16,EMEA,ESP,Site 650,Subject 4248,Week 46 (1),On Trial,,,,,,,,,,25,132,1,,,,0,0,0,2,3,0,0,5,0,0,0,0,0,0,0,0,122,5,0,0,2,3
+Study 16,EMEA,ESP,Site 650,Subject 4249,Week 30 (1),On Trial,,,,,,,,,,15,110,0,,,,1,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,100,5,0,0,2,3
+Study 16,EMEA,ESP,Site 651,Subject 4250,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,4,0
+Study 16,EMEA,ESP,Site 651,Subject 4251,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,EMEA,ESP,Site 652,Subject 4252,Week 40 (1),On Trial,,,,,,,,,,22,121,0,,,,0,0,0,0,7,0,0,7,0,0,0,0,0,0,0,0,46,30,37,0,39,28
+Study 16,EMEA,ESP,Site 653,Subject 4253,Week 64 (1),On Trial,,,,,,,,,,34,189,0,,,,0,0,0,3,1,0,0,4,0,0,0,0,0,0,0,0,156,27,0,0,15,12
+Study 16,EMEA,ESP,Site 653,Subject 4254,Week 56 (1),On Trial,,,,,,,,,,30,152,0,,,,0,0,0,3,1,0,0,4,0,0,0,0,0,0,0,0,128,17,0,0,14,3
+Study 16,EMEA,ESP,Site 653,Subject 4255,Week 40 (1),Follow-Up,,,,,,,,,,13,107,0,,,,0,0,0,4,1,0,0,5,0,0,0,0,0,0,0,0,82,20,0,0,9,11
+Study 16,EMEA,ESP,Site 653,Subject 4256,Week 24 (1),On Trial,,,,,,,,,,14,84,0,,,,0,0,0,11,2,0,0,13,0,0,0,0,0,0,0,0,56,24,0,0,8,16
+Study 16,EMEA,HRV,Site 654,Subject 4257,Week 40 (1),On Trial,,,,,,,,,,22,123,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,46,4,56,13,29,44
+Study 16,EMEA,HRV,Site 654,Subject 4258,Week 40 (1),On Trial,,,,,,,,,,22,123,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,41,18,46,14,34,44
+Study 16,EMEA,HRV,Site 654,Subject 4259,Week 40 (1),On Trial,,,,,,,,,,22,124,0,,,,2,0,0,1,0,0,0,3,0,1,0,0,0,0,1,0,42,18,44,15,33,44
+Study 16,EMEA,HRV,Site 654,Subject 4260,Week 40 (1),On Trial,,,,,,,,,,22,124,0,,,,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,34,39,18,28,20,65
+Study 16,EMEA,HRV,Site 655,Subject 4261,Week 28 (1),On Trial,,,,,,,,,,16,90,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,5,0,0,2,3
+Study 16,EMEA,HRV,Site 656,Subject 4262,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,EMEA,ITA,Site 657,Subject 4263,Week 34 (1),On Trial,,,,,,,,,,17,99,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,95,0,0,0,0,0
+Study 16,EMEA,ITA,Site 657,Subject 4264,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ITA,Site 657,Subject 4265,Week 28 (1),On Trial,,,,,,,,,,16,90,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,4,0,86,0,0,0,0,0
+Study 16,EMEA,ITA,Site 657,Subject 4266,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,EMEA,ITA,Site 657,Subject 4267,Week 24 (1),On Trial,,,,,,,,,,11,86,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,82,0,0,0,0,0
+Study 16,EMEA,ITA,Site 657,Subject 4268,Week 24 (1),On Trial,,,,,,,,,,13,85,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,80,0,0,0,0,0
+Study 16,EMEA,ITA,Site 657,Subject 4269,Week 24 (1),On Trial,,,,,,,,,,13,84,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,80,0,0,0,0,0
+Study 16,EMEA,ITA,Site 658,Subject 4270,Week 24 (1),On Trial,,,,,,,,,,14,83,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,2,0,0,2,0
+Study 16,EMEA,ITA,Site 658,Subject 4271,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ITA,Site 658,Subject 4272,Week 24 (1),On Trial,,,,,,,,,,14,89,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,77,7,0,0,4,3
+Study 16,EMEA,ITA,Site 658,Subject 4273,Week 12 (1),On Trial,,,,,,,,,,8,58,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,52,4,0,0,4,0
+Study 16,EMEA,ITA,Site 659,Subject 4274,Unplanned Visit (3),Follow-Up,,,,,,,,,,17,126,0,,,,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,49,13,57,0,48,22
+Study 16,EMEA,ITA,Site 659,Subject 4275,Week 40 (1),On Trial,,,,,,,,,,22,121,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,44,30,42,0,45,27
+Study 16,EMEA,ITA,Site 660,Subject 4276,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ITA,Site 661,Subject 4277,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ITA,Site 661,Subject 4278,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ITA,Site 661,Subject 4279,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ITA,Site 661,Subject 4280,Week 36 (1),On Trial,,,,,,,,,,20,118,0,,,,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,108,0,0,0,0,0
+Study 16,EMEA,ITA,Site 661,Subject 4281,Week 24 (1),On Trial,,,,,,,,,,14,93,0,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,87,0,0,0,0,0
+Study 16,EMEA,ITA,Site 661,Subject 4282,Day 1 (1),Discontinued,,,,,,,,,,2,19,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,15,0,0,0,0,0
+Study 16,EMEA,ITA,Site 661,Subject 4283,Week 12 (1),On Trial,,,,,,,,,,8,60,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,58,0,0,0,0,0
+Study 16,EMEA,ITA,Site 661,Subject 4284,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ITA,Site 662,Subject 4285,Week 12 (1),On Trial,,,,,,,,,,8,63,0,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,56,0,0,0,0,0
+Study 16,EMEA,ITA,Site 663,Subject 4286,Week 20 (1),On Trial,,,,,,,,,,12,78,0,,,,4,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,73,0,0,0,0,0
+Study 16,EMEA,ITA,Site 663,Subject 4287,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,EMEA,CZE,Site 664,Subject 4288,Week 52 (1),On Trial,,,,,,,,,,28,148,0,,,,0,0,0,4,0,0,0,4,0,0,0,0,0,0,1,0,67,22,53,0,52,23
+Study 16,EMEA,CZE,Site 664,Subject 4289,Week 52 (1),On Trial,,,,,,,,,,28,146,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,4,0,61,15,64,0,55,24
+Study 16,EMEA,CZE,Site 664,Subject 4290,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,EMEA,CZE,Site 664,Subject 4291,Week 24 (1),On Trial,,,,,,,,,,14,97,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,4,0,39,0,54,0,26,28
+Study 16,EMEA,GBR,Site 665,Subject 4292,Week 52 (1),On Trial,,,,,,,,,,28,155,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,139,7,0,0,0,7
+Study 16,EMEA,GBR,Site 666,Subject 4293,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,1,0
+Study 16,EMEA,GBR,Site 666,Subject 4294,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,EMEA,GBR,Site 667,Subject 4295,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,GBR,Site 667,Subject 4296,Week 50 (1),On Trial,,,,,,,,,,27,150,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,129,13,0,0,7,6
+Study 16,EMEA,GBR,Site 667,Subject 4297,Week 24 (1),On Trial,,,,,,,,,,12,108,1,,,,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,91,7,0,0,6,1
+Study 16,EMEA,GBR,Site 668,Subject 4298,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,EMEA,GBR,Site 668,Subject 4299,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,DEU,Site 669,Subject 4300,Week 52 (1),On Trial,,,,,,,,,,28,166,0,,,,2,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,126,32,0,0,6,26
+Study 16,EMEA,DEU,Site 669,Subject 4301,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,DEU,Site 669,Subject 4302,Week 40 (1),On Trial,,,,,,,,,,22,124,0,,,,0,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0,101,18,0,0,2,16
+Study 16,EMEA,DEU,Site 669,Subject 4303,Week 36 (1),On Trial,,,,,,,,,,20,109,0,,,,0,0,0,5,0,0,0,5,0,0,0,0,0,0,1,0,82,21,0,0,1,20
+Study 16,EMEA,DEU,Site 669,Subject 4304,Week 24 (1),On Trial,,,,,,,,,,14,85,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,55,27,0,0,3,24
+Study 16,EMEA,DEU,Site 670,Subject 4305,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,DEU,Site 670,Subject 4306,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,DEU,Site 671,Subject 4307,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,DEU,Site 671,Subject 4308,Week 40 (1),On Trial,,,,,,,,,,22,127,1,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,113,1,0,0,1,0
+Study 16,EMEA,DEU,Site 671,Subject 4309,Week 12 (1),On Trial,,,,,,,,,,8,73,0,,,,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,63,1,0,0,1,0
+Study 16,EMEA,DEU,Site 672,Subject 4310,Week 12 (1),On Trial,,,,,,,,,,8,81,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,74,0,0,0,0,0
+Study 16,EMEA,DEU,Site 673,Subject 4311,Week 36 (1),On Trial,,,,,,,,,,20,110,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,2,0,0,2,0
+Study 16,EMEA,DEU,Site 673,Subject 4312,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,DEU,Site 674,Subject 4313,Week 24 (1),On Trial,,,,,,,,,,14,97,1,,,,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,84,2,0,0,1,1
+Study 16,EMEA,DEU,Site 674,Subject 4314,Week 24 (1),On Trial,,,,,,,,,,14,87,0,,,,4,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,77,2,0,0,1,1
+Study 16,AMERICA,MEX,Site 675,Subject 4315,Week 40 (1),On Trial,,,,,,,,,,22,122,0,,,,0,0,0,3,1,0,0,4,0,0,0,0,0,0,1,0,91,2,24,0,0,26
+Study 16,AMERICA,MEX,Site 675,Subject 4316,Week 40 (1),On Trial,,,,,,,,,,22,135,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,1,0,49,2,65,14,31,50
+Study 16,AMERICA,MEX,Site 675,Subject 4317,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,AMERICA,MEX,Site 675,Subject 4318,Week 40 (1),On Trial,,,,,,,,,,22,120,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,43,15,39,18,31,41
+Study 16,AMERICA,MEX,Site 675,Subject 4319,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,2,1
+Study 16,AMERICA,MEX,Site 676,Subject 4320,Week 64 (1),On Trial,,,,,,,,,,34,169,0,,,,1,0,0,0,0,0,0,1,0,1,0,0,0,0,4,0,158,4,0,0,3,1
+Study 16,AMERICA,MEX,Site 676,Subject 4321,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,MEX,Site 676,Subject 4322,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,MEX,Site 676,Subject 4323,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,MEX,Site 676,Subject 4324,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,MEX,Site 676,Subject 4325,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,MEX,Site 676,Subject 4326,Week 36 (1),On Trial,,,,,,,,,,20,121,0,,,,1,0,0,2,0,0,0,3,0,0,0,0,0,0,1,0,110,5,0,0,5,0
+Study 16,AMERICA,MEX,Site 677,Subject 4327,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,3,3,2
+Study 16,AMERICA,ARG,Site 678,Subject 4328,Week 88 (1),On Trial,,,,,,,,,,44,218,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,4,0,209,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 678,Subject 4329,Week 64 (1),On Trial,,,,,,,,,,34,173,0,,,,2,0,0,0,0,0,0,2,0,1,0,0,0,0,1,0,165,1,0,0,1,0
+Study 16,AMERICA,ARG,Site 678,Subject 4330,Week 68 (1),On Trial,,,,,,,,,,36,199,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,187,4,0,0,1,3
+Study 16,AMERICA,ARG,Site 678,Subject 4331,Week 12 (1),On Trial,,,,,,,,,,8,68,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 679,Subject 4332,Week 76 (1),On Trial,,,,,,,,,,40,202,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,95,29,68,0,71,26
+Study 16,AMERICA,ARG,Site 679,Subject 4333,Week 64 (1),On Trial,,,,,,,,,,34,194,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,101,29,56,0,58,27
+Study 16,AMERICA,ARG,Site 679,Subject 4334,Week 12 (1),On Trial,,,,,,,,,,8,69,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,46,3,16,0,17,2
+Study 16,AMERICA,ARG,Site 679,Subject 4335,Week 12 (1),On Trial,,,,,,,,,,8,66,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,34,16,12,0,14,14
+Study 16,AMERICA,ARG,Site 680,Subject 4336,Week 78 (1),On Trial,,,,,,,,,,41,213,0,,,,11,0,0,2,0,0,0,13,0,0,0,0,0,0,0,0,168,29,0,0,15,14
+Study 16,AMERICA,ARG,Site 680,Subject 4337,Week 58 (1),On Trial,,,,,,,,,,31,173,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,151,16,0,0,9,7
+Study 16,AMERICA,ARG,Site 680,Subject 4338,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 680,Subject 4339,Week 26 (1),On Trial,,,,,,,,,,15,91,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,13,0,0,10,3
+Study 16,AMERICA,ARG,Site 680,Subject 4340,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 680,Subject 4341,Week 14 (1),On Trial,,,,,,,,,,9,64,0,,,,3,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,52,9,0,0,5,4
+Study 16,AMERICA,ARG,Site 680,Subject 4342,Week 16 (1),On Trial,,,,,,,,,,10,67,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,54,11,0,0,4,7
+Study 16,AMERICA,ARG,Site 681,Subject 4343,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 682,Subject 4344,Week 96 (1),On Trial,,,,,,,,,,50,259,0,,,,1,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,235,15,0,0,4,11
+Study 16,AMERICA,ARG,Site 682,Subject 4345,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 682,Subject 4346,Screening,Screen Failure,,,,,,,,,,1,17,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 682,Subject 4347,Week 70 (1),On Trial,,,,,,,,,,37,196,0,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,163,18,0,0,9,9
+Study 16,AMERICA,ARG,Site 682,Subject 4348,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 682,Subject 4349,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,ARG,Site 682,Subject 4350,Week 14 (1),On Trial,,,,,,,,,,9,62,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,41,19,0,0,3,16
+Study 16,AMERICA,ARG,Site 682,Subject 4351,Week 10 (1),On Trial,,,,,,,,,,7,50,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,14,3,0,5,12
+Study 16,AMERICA,ARG,Site 683,Subject 4352,Week 70 (1),On Trial,,,,,,,,,,37,181,0,,,,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4,0,163,10,0,0,1,9
+Study 16,AMERICA,ARG,Site 683,Subject 4353,Week 12 (1),On Trial,,,,,,,,,,8,62,0,,,,0,0,0,11,0,0,0,11,0,0,0,0,0,0,0,0,41,15,0,1,2,14
+Study 16,AMERICA,BRA,Site 684,Subject 4354,Week 52 (1),On Trial,,,,,,,,,,28,149,2,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,143,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 684,Subject 4355,Week 52 (1),On Trial,,,,,,,,,,28,153,1,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,144,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 684,Subject 4356,Week 24 (1),On Trial,,,,,,,,,,14,87,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 684,Subject 4357,Week 24 (1),On Trial,,,,,,,,,,14,89,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 684,Subject 4358,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 684,Subject 4359,Week 24 (1),On Trial,,,,,,,,,,14,88,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 684,Subject 4360,Week 24 (1),On Trial,,,,,,,,,,14,89,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 684,Subject 4361,Unplanned Visit (1),Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 685,Subject 4362,Week 54 (1),On Trial,,,,,,,,,,29,167,0,,,,1,0,0,4,0,0,0,5,0,0,0,0,0,0,1,0,143,17,0,0,6,11
+Study 16,AMERICA,BRA,Site 685,Subject 4363,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 685,Subject 4364,Week 46 (1),On Trial,,,,,,,,,,25,148,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,1,1,133,10,0,0,3,7
+Study 16,AMERICA,BRA,Site 685,Subject 4365,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 685,Subject 4366,Week 30 (1),On Trial,,,,,,,,,,17,108,0,,,,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,97,8,0,0,1,7
+Study 16,AMERICA,BRA,Site 685,Subject 4367,Week 26 (1),On Trial,,,,,,,,,,15,90,0,,,,0,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0,79,8,0,0,5,3
+Study 16,AMERICA,BRA,Site 685,Subject 4368,Week 28 (1),On Trial,,,,,,,,,,15,103,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,8,0,0,2,6
+Study 16,AMERICA,BRA,Site 685,Subject 4369,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 685,Subject 4370,Week 12 (1),On Trial,,,,,,,,,,8,61,0,,,,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,44,15,0,0,2,13
+Study 16,AMERICA,BRA,Site 685,Subject 4371,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 685,Subject 4372,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,5,3,0,0,2,1
+Study 16,AMERICA,BRA,Site 686,Subject 4373,Week 58 (1),On Trial,,,,,,,,,,31,157,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 686,Subject 4374,Week 50 (1),On Trial,,,,,,,,,,27,140,1,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 686,Subject 4375,Week 46 (1),On Trial,,,,,,,,,,25,148,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,144,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 686,Subject 4376,Week 34 (1),On Trial,,,,,,,,,,19,107,2,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,101,1,0,0,1,0
+Study 16,AMERICA,BRA,Site 686,Subject 4377,Week 34 (1),On Trial,,,,,,,,,,19,107,2,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,102,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 686,Subject 4378,Early Discontinuation (1),Follow-Up,,,,,,,,,,13,86,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 686,Subject 4379,Unplanned Visit (2),On Trial,,,,,,,,,,12,91,0,,,,5,0,0,1,0,0,0,6,0,0,0,0,0,0,0,1,80,5,0,0,2,3
+Study 16,AMERICA,BRA,Site 686,Subject 4380,Week 12 (1),On Trial,,,,,,,,,,8,61,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,59,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 687,Subject 4381,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 687,Subject 4382,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 687,Subject 4383,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 687,Subject 4384,Week 30 (1),On Trial,,,,,,,,,,17,104,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 687,Subject 4385,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 687,Subject 4386,Week 18 (1),On Trial,,,,,,,,,,11,71,0,,,,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,67,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 688,Subject 4387,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 688,Subject 4388,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 688,Subject 4389,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4390,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4391,Week 58 (1),On Trial,,,,,,,,,,31,166,1,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,156,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4392,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4393,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4394,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4395,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4396,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4397,Week 50 (1),On Trial,,,,,,,,,,27,142,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,136,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4398,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4399,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 689,Subject 4400,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,AMERICA,BRA,Site 690,Subject 4401,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,8
+Study 16,AMERICA,BRA,Site 690,Subject 4402,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,8
+Study 16,AMERICA,BRA,Site 690,Subject 4403,Week 14 (1),On Trial,,,,,,,,,,9,68,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,14,21,30,0,65
+Study 16,AMERICA,BRA,Site 690,Subject 4404,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,8
+Study 16,ASIA,MYS,Site 691,Subject 4405,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,MYS,Site 691,Subject 4406,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,MYS,Site 691,Subject 4407,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,MYS,Site 691,Subject 4408,Week 40 (1),Follow-Up,,,,,,,,,,15,146,0,,,,4,0,0,1,1,0,0,6,0,0,0,0,0,0,0,0,48,16,28,40,26,58
+Study 16,ASIA,MYS,Site 691,Subject 4409,Week 44 (1),On Trial,,,,,,,,,,24,148,0,,,,4,0,0,2,2,0,0,8,0,0,0,0,0,0,0,0,43,34,32,34,30,70
+Study 16,ASIA,MYS,Site 691,Subject 4410,Week 36 (1),On Trial,,,,,,,,,,20,120,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,40,18,26,32,19,57
+Study 16,ASIA,MYS,Site 692,Subject 4411,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,MYS,Site 692,Subject 4412,Week 36 (1),On Trial,,,,,,,,,,20,119,0,,,,1,0,0,0,4,0,0,5,0,0,0,0,0,0,0,0,56,25,34,0,36,23
+Study 16,ASIA,MYS,Site 693,Subject 4413,Week 60 (1),On Trial,,,,,,,,,,32,186,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,169,10,0,0,3,7
+Study 16,ASIA,MYS,Site 693,Subject 4414,Week 20 (1),On Trial,,,,,,,,,,12,102,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,83,11,0,0,3,8
+Study 16,ASIA,MYS,Site 694,Subject 4415,Week 76 (1),On Trial,,,,,,,,,,40,232,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,209,11,0,0,1,10
+Study 16,ASIA,MYS,Site 694,Subject 4416,Week 76 (1),On Trial,,,,,,,,,,40,221,0,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,205,1,0,0,1,0
+Study 16,ASIA,MYS,Site 694,Subject 4417,Week 58 (1),On Trial,,,,,,,,,,31,203,0,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,183,5,0,0,2,3
+Study 16,ASIA,MYS,Site 694,Subject 4418,Week 40 (1),On Trial,,,,,,,,,,22,167,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,138,17,0,0,1,16
+Study 16,ASIA,MYS,Site 695,Subject 4419,Week 72 (1),On Trial,,,,,,,,,,38,224,1,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,197,14,0,0,3,11
+Study 16,ASIA,MYS,Site 695,Subject 4420,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,MYS,Site 695,Subject 4421,Screening,Screen Failure,,,,,,,,,,1,13,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 696,Subject 4422,Week 24 (1),Discontinued,,,,,,,,,,14,97,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,89,0,0,0,0,0
+Study 16,ASIA,AUS,Site 696,Subject 4423,Week 36 (1),On Trial,,,,,,,,,,20,118,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0
+Study 16,ASIA,AUS,Site 696,Subject 4424,Week 12 (1),On Trial,,,,,,,,,,8,67,0,,,,1,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,62,1,0,0,1,0
+Study 16,ASIA,AUS,Site 696,Subject 4425,Week 12 (1),On Trial,,,,,,,,,,8,70,0,,,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,66,1,0,0,1,0
+Study 16,ASIA,AUS,Site 697,Subject 4426,Week 60 (1),On Trial,,,,,,,,,,32,170,0,,,,3,0,0,0,0,0,0,3,0,1,0,0,0,0,2,0,161,0,0,0,0,0
+Study 16,ASIA,AUS,Site 697,Subject 4427,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 697,Subject 4428,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,AUS,Site 697,Subject 4429,Screening,Screen Failure,,,,,,,,,,1,14,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 697,Subject 4430,Week 38 (1),On Trial,,,,,,,,,,21,126,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,115,3,0,0,3,0
+Study 16,ASIA,AUS,Site 698,Subject 4431,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,AUS,Site 698,Subject 4432,Week 64 (1),On Trial,,,,,,,,,,33,186,1,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,158,18,0,0,6,12
+Study 16,ASIA,AUS,Site 698,Subject 4433,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 699,Subject 4434,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 699,Subject 4435,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 699,Subject 4436,Week 76 (1),On Trial,,,,,,,,,,40,194,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,180,6,0,0,6,0
+Study 16,ASIA,AUS,Site 699,Subject 4437,Week 60 (1),On Trial,,,,,,,,,,32,158,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,149,3,0,0,0,3
+Study 16,ASIA,AUS,Site 699,Subject 4438,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 699,Subject 4439,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 699,Subject 4440,Week 12 (1),On Trial,,,,,,,,,,8,61,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0
+Study 16,ASIA,AUS,Site 700,Subject 4441,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,AUS,Site 700,Subject 4442,Unplanned Visit (11),Discontinued,,,,,,,,,,17,154,0,,,,3,0,0,0,0,0,0,3,0,1,0,0,0,0,2,1,136,1,0,0,0,1
+Study 16,ASIA,AUS,Site 700,Subject 4443,Week 54 (1),On Trial,,,,,,,,,,27,172,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,148,13,0,0,3,10
+Study 16,ASIA,AUS,Site 701,Subject 4444,Week 70 (1),On Trial,,,,,,,,,,37,212,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,8,0,202,1,0,0,1,0
+Study 16,ASIA,AUS,Site 701,Subject 4445,Unplanned Visit (2),Follow-Up,,,,,,,,,,18,171,1,,,,1,0,0,0,1,0,0,2,0,0,0,0,0,0,6,0,151,2,0,0,1,1
+Study 16,ASIA,AUS,Site 701,Subject 4446,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 701,Subject 4447,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 701,Subject 4448,Week 24 (1),On Trial,,,,,,,,,,14,94,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,1,0,0,1,0
+Study 16,ASIA,AUS,Site 701,Subject 4449,Screening,Screen Failure,,,,,,,,,,1,18,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0
+Study 16,ASIA,AUS,Site 701,Subject 4450,Week 30 (1),On Trial,,,,,,,,,,17,96,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,0,0,1,3
+Study 16,ASIA,AUS,Site 702,Subject 4451,Week 12 (1),On Trial,,,,,,,,,,8,66,0,,,,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,62,0,0,0,0,0
+Study 16,ASIA,AUS,Site 702,Subject 4452,Week 12 (1),On Trial,,,,,,,,,,8,62,0,,,,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,59,1,0,0,1,0
+Study 16,ASIA,AUS,Site 702,Subject 4453,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 702,Subject 4454,Week 12 (1),On Trial,,,,,,,,,,7,68,1,,,,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,64,1,0,0,1,0
+Study 16,ASIA,AUS,Site 702,Subject 4455,Unplanned Visit (1),On Trial,,,,,,,,,,8,61,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,1,0,0,0,1
+Study 16,ASIA,AUS,Site 702,Subject 4456,Week 12 (1),On Trial,,,,,,,,,,8,66,1,,,,5,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,63,1,0,0,1,0
+Study 16,ASIA,AUS,Site 702,Subject 4457,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,AUS,Site 702,Subject 4458,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 703,Subject 4459,Week 48 (1),On Trial,,,,,,,,,,26,129,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,123,2,0,0,0,2
+Study 16,ASIA,JPN,Site 703,Subject 4460,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 703,Subject 4461,Week 24 (1),On Trial,,,,,,,,,,14,85,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,82,0,0,0,0,0
+Study 16,ASIA,JPN,Site 703,Subject 4462,Week 24 (1),On Trial,,,,,,,,,,14,85,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,69,9,0,0,0,9
+Study 16,ASIA,JPN,Site 703,Subject 4463,Week 16 (1),On Trial,,,,,,,,,,10,72,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,67,3,0,0,0,3
+Study 16,ASIA,JPN,Site 704,Subject 4464,Week 38 (1),On Trial,,,,,,,,,,21,137,0,,,,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,89,35,0,0,19,16
+Study 16,ASIA,JPN,Site 705,Subject 4465,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 705,Subject 4466,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 705,Subject 4467,Week 26 (1),On Trial,,,,,,,,,,15,99,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,93,0,0,0,0,0
+Study 16,ASIA,JPN,Site 706,Subject 4468,Week 36 (1),On Trial,,,,,,,,,,20,148,0,,,,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,132,0,0,0,0,0
+Study 16,ASIA,JPN,Site 706,Subject 4469,Week 22 (1),On Trial,,,,,,,,,,13,99,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,90,0,0,0,0,0
+Study 16,ASIA,JPN,Site 706,Subject 4470,Week 16 (1),On Trial,,,,,,,,,,10,95,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,85,0,0,0,0,0
+Study 16,ASIA,JPN,Site 707,Subject 4471,Week 52 (1),On Trial,,,,,,,,,,28,155,0,,,,3,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,144,4,0,0,4,0
+Study 16,ASIA,JPN,Site 707,Subject 4472,Week 14 (1),On Trial,,,,,,,,,,9,65,1,,,,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,57,6,0,0,5,1
+Study 16,ASIA,JPN,Site 708,Subject 4473,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 708,Subject 4474,Week 30 (1),On Trial,,,,,,,,,,17,93,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,86,3,0,0,3,0
+Study 16,ASIA,JPN,Site 708,Subject 4475,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 708,Subject 4476,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 708,Subject 4477,Week 14 (1),On Trial,,,,,,,,,,9,71,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,66,2,0,0,1,1
+Study 16,ASIA,JPN,Site 708,Subject 4478,Week 12 (1),On Trial,,,,,,,,,,8,62,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,58,1,0,0,1,0
+Study 16,ASIA,JPN,Site 709,Subject 4479,Week 58 (1),On Trial,,,,,,,,,,31,184,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,163,8,0,0,5,3
+Study 16,ASIA,JPN,Site 709,Subject 4480,Week 32 (1),On Trial,,,,,,,,,,18,124,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,105,8,0,0,2,6
+Study 16,ASIA,JPN,Site 710,Subject 4481,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,JPN,Site 710,Subject 4482,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,JPN,Site 711,Subject 4483,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 711,Subject 4484,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 711,Subject 4485,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 711,Subject 4486,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 711,Subject 4487,Week 50 (1),On Trial,,,,,,,,,,27,145,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,129,6,0,0,3,3
+Study 16,ASIA,JPN,Site 711,Subject 4488,Week 46 (1),On Trial,,,,,,,,,,25,147,0,,,,4,0,0,1,0,0,0,5,0,0,0,0,0,0,2,0,134,5,0,0,2,3
+Study 16,ASIA,JPN,Site 711,Subject 4489,Week 38 (1),On Trial,,,,,,,,,,21,111,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,96,11,0,0,3,8
+Study 16,ASIA,JPN,Site 711,Subject 4490,Week 36 (1),On Trial,,,,,,,,,,20,107,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,96,7,0,0,1,6
+Study 16,ASIA,JPN,Site 711,Subject 4491,Week 24 (1),Follow-Up,,,,,,,,,,8,82,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,69,6,0,0,2,4
+Study 16,ASIA,JPN,Site 711,Subject 4492,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 711,Subject 4493,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,JPN,Site 711,Subject 4494,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 711,Subject 4495,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,JPN,Site 711,Subject 4496,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 712,Subject 4497,Week 38 (1),On Trial,,,,,,,,,,21,109,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,101,4,0,0,1,3
+Study 16,ASIA,JPN,Site 712,Subject 4498,Week 20 (1),On Trial,,,,,,,,,,12,84,0,,,,2,0,0,1,0,0,0,3,0,0,0,0,0,0,1,0,78,1,0,0,1,0
+Study 16,ASIA,JPN,Site 712,Subject 4499,Week 20 (1),On Trial,,,,,,,,,,12,70,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,65,2,0,0,0,2
+Study 16,ASIA,JPN,Site 712,Subject 4500,Week 16 (1),On Trial,,,,,,,,,,10,73,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,66,4,0,0,1,3
+Study 16,ASIA,JPN,Site 713,Subject 4501,Week 28 (1),On Trial,,,,,,,,,,16,127,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,70,25,21,0,23,23
+Study 16,ASIA,JPN,Site 713,Subject 4502,Week 18 (1),On Trial,,,,,,,,,,11,112,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,56,33,12,0,12,33
+Study 16,ASIA,JPN,Site 714,Subject 4503,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,JPN,Site 714,Subject 4504,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,JPN,Site 714,Subject 4505,Week 28 (1),On Trial,,,,,,,,,,16,103,0,,,,1,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,94,5,0,0,1,4
+Study 16,ASIA,JPN,Site 715,Subject 4506,Week 48 (1),On Trial,,,,,,,,,,26,165,0,,,,2,0,0,1,0,0,0,3,0,0,0,0,0,0,1,0,110,43,0,0,12,31
+Study 16,ASIA,JPN,Site 715,Subject 4507,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 715,Subject 4508,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 716,Subject 4509,Week 30 (1),On Trial,,,,,,,,,,17,96,0,,,,2,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,82,11,0,0,4,7
+Study 16,ASIA,JPN,Site 717,Subject 4510,Week 36 (1),On Trial,,,,,,,,,,20,116,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,103,6,0,0,1,5
+Study 16,ASIA,JPN,Site 717,Subject 4511,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,JPN,Site 717,Subject 4512,Week 12 (1),On Trial,,,,,,,,,,8,89,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,77,3,0,0,2,1
+Study 16,ASIA,JPN,Site 718,Subject 4513,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,KOR,Site 719,Subject 4514,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 719,Subject 4515,Week 28 (1),On Trial,,,,,,,,,,16,120,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,106,4,0,0,0,4
+Study 16,ASIA,KOR,Site 720,Subject 4516,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 720,Subject 4517,Week 40 (1),On Trial,,,,,,,,,,22,142,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,130,0,0,0,0,0
+Study 16,ASIA,KOR,Site 720,Subject 4518,Week 40 (1),On Trial,,,,,,,,,,22,160,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,142,0,0,0,0,0
+Study 16,ASIA,KOR,Site 721,Subject 4519,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,1,2,0
+Study 16,ASIA,KOR,Site 721,Subject 4520,Week 40 (1),On Trial,,,,,,,,,,22,152,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,122,21,0,0,5,16
+Study 16,ASIA,KOR,Site 721,Subject 4521,Week 24 (1),On Trial,,,,,,,,,,14,111,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,75,23,0,0,2,21
+Study 16,ASIA,KOR,Site 722,Subject 4522,Week 24 (1),On Trial,,,,,,,,,,14,123,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,84,27,0,0,0,27
+Study 16,ASIA,KOR,Site 722,Subject 4523,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 722,Subject 4524,Week 12 (1),On Trial,,,,,,,,,,8,92,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,83,0,0,0,0,0
+Study 16,ASIA,KOR,Site 723,Subject 4525,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 723,Subject 4526,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 723,Subject 4527,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 723,Subject 4528,Week 52 (1),On Trial,,,,,,,,,,28,161,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,148,4,0,0,1,3
+Study 16,ASIA,KOR,Site 723,Subject 4529,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 723,Subject 4530,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 723,Subject 4531,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 723,Subject 4532,Week 42 (1),On Trial,,,,,,,,,,23,137,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,127,4,0,0,1,3
+Study 16,ASIA,KOR,Site 723,Subject 4533,Week 42 (1),On Trial,,,,,,,,,,23,158,1,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,142,6,0,0,3,3
+Study 16,ASIA,KOR,Site 723,Subject 4534,Week 40 (1),On Trial,,,,,,,,,,22,156,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,132,16,0,0,1,15
+Study 16,ASIA,KOR,Site 724,Subject 4535,Week 50 (1),On Trial,,,,,,,,,,27,146,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,137,4,0,0,1,3
+Study 16,ASIA,KOR,Site 724,Subject 4536,Week 50 (1),On Trial,,,,,,,,,,27,174,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,154,11,0,0,4,7
+Study 16,ASIA,KOR,Site 724,Subject 4537,Week 20 (1),On Trial,,,,,,,,,,12,90,0,,,,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,78,9,0,0,2,7
+Study 16,ASIA,KOR,Site 725,Subject 4538,Week 88 (1),On Trial,,,,,,,,,,46,249,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,233,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4539,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4540,Week 40 (1),On Trial,,,,,,,,,,22,145,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,135,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4541,Week 40 (1),On Trial,,,,,,,,,,22,158,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,148,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4542,Week 40 (1),On Trial,,,,,,,,,,22,131,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,125,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4543,Week 40 (1),On Trial,,,,,,,,,,22,153,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,1,0,140,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4544,Week 24 (1),On Trial,,,,,,,,,,14,113,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4545,Screening,Screen Failure,,,,,,,,,,1,16,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4546,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4547,Week 12 (1),On Trial,,,,,,,,,,8,89,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0
+Study 16,ASIA,KOR,Site 725,Subject 4548,Week 12 (1),On Trial,,,,,,,,,,8,90,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,2,0,0,1,1
+Study 16,ASIA,KOR,Site 726,Subject 4549,Week 58 (1),On Trial,,,,,,,,,,31,191,0,,,,2,0,0,2,0,0,0,4,0,0,0,0,0,0,1,0,180,0,0,0,0,0
+Study 16,ASIA,KOR,Site 726,Subject 4550,Week 58 (1),On Trial,,,,,,,,,,31,187,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,177,0,0,0,0,0
+Study 16,ASIA,KOR,Site 726,Subject 4551,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,KOR,Site 726,Subject 4552,Week 50 (1),On Trial,,,,,,,,,,27,162,0,,,,2,0,0,1,0,0,0,3,0,0,0,0,0,0,1,0,151,0,0,0,0,0
+Study 16,ASIA,KOR,Site 726,Subject 4553,Week 50 (1),On Trial,,,,,,,,,,27,156,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,144,3,0,0,0,3
+Study 16,ASIA,TWN,Site 727,Subject 4554,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,TWN,Site 727,Subject 4555,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,TWN,Site 727,Subject 4556,Week 52 (1),On Trial,,,,,,,,,,25,142,0,,,,3,0,0,1,0,0,0,4,0,0,0,0,0,0,0,2,121,13,0,0,6,7
+Study 16,ASIA,TWN,Site 727,Subject 4557,,Screen Failure,,,,,,,,,,0,8,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,ASIA,TWN,Site 727,Subject 4558,Week 12 (1),On Trial,,,,,,,,,,8,60,0,,,,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,51,6,0,0,4,2
+Study 16,ASIA,TWN,Site 728,Subject 4559,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,TWN,Site 728,Subject 4560,Week 14 (1),On Trial,,,,,,,,,,9,68,0,,,,2,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,44,21,0,0,3,18
+Study 16,ASIA,TWN,Site 729,Subject 4561,Week 64 (1),On Trial,,,,,,,,,,34,191,1,,,,2,2,0,0,0,0,0,4,0,0,0,0,0,0,0,0,155,19,0,0,3,16
+Study 16,ASIA,TWN,Site 729,Subject 4562,Screening,Screen Failure,,,,,,,,,,1,13,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,11,1,0,0,1,0
+Study 16,ASIA,TWN,Site 729,Subject 4563,Week 34 (1),On Trial,,,,,,,,,,19,102,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,86,6,0,0,3,3
+Study 16,ASIA,TWN,Site 729,Subject 4564,Week 24 (1),On Trial,,,,,,,,,,14,95,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,76,12,0,0,1,11
+Study 16,ASIA,TWN,Site 729,Subject 4565,Week 14 (1),On Trial,,,,,,,,,,9,64,1,,,,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,41,19,0,0,4,15
+Study 16,ASIA,TWN,Site 730,Subject 4566,Week 52 (1),On Trial,,,,,,,,,,28,170,0,,,,1,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,144,15,0,0,2,13
+Study 16,ASIA,TWN,Site 730,Subject 4567,Week 30 (1),On Trial,,,,,,,,,,17,111,2,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,95,9,0,0,0,9
+Study 16,ASIA,TWN,Site 731,Subject 4568,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,TWN,Site 731,Subject 4569,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,TWN,Site 731,Subject 4570,Week 60 (1),On Trial,,,,,,,,,,32,181,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,167,8,0,0,4,4
+Study 16,ASIA,TWN,Site 731,Subject 4571,Week 24 (1),On Trial,,,,,,,,,,14,93,0,,,,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,66,24,0,0,2,22
+Study 16,ASIA,TWN,Site 732,Subject 4572,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,1,0
+Study 16,ASIA,TWN,Site 732,Subject 4573,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,TWN,Site 732,Subject 4574,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,TWN,Site 732,Subject 4575,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,TWN,Site 732,Subject 4576,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,TWN,Site 733,Subject 4577,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,TWN,Site 733,Subject 4578,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,TWN,Site 733,Subject 4579,Week 54 (1),On Trial,,,,,,,,,,29,147,0,,,,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,129,13,0,0,3,10
+Study 16,ASIA,TWN,Site 733,Subject 4580,Week 52 (1),On Trial,,,,,,,,,,28,145,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,127,13,0,0,3,10
+Study 16,ASIA,TWN,Site 733,Subject 4581,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 734,Subject 4582,Week 34 (1),On Trial,,,,,,,,,,19,135,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,119,7,0,0,3,4
+Study 16,ASIA,CHN,Site 734,Subject 4583,Week 32 (1),On Trial,,,,,,,,,,18,131,0,,,,1,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,115,8,0,0,4,4
+Study 16,ASIA,CHN,Site 734,Subject 4584,Screening,Screen Failure,,,,,,,,,,0,8,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,ASIA,CHN,Site 735,Subject 4585,Week 12 (1),On Trial,,,,,,,,,,8,69,0,,,,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,67,0,0,0,0,0
+Study 16,ASIA,CHN,Site 735,Subject 4586,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,CHN,Site 735,Subject 4587,Week 14 (1),On Trial,,,,,,,,,,9,64,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0
+Study 16,ASIA,CHN,Site 735,Subject 4588,Week 10 (1),On Trial,,,,,,,,,,6,53,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,50,0,0,0,0,0
+Study 16,ASIA,CHN,Site 735,Subject 4589,Week 12 (1),On Trial,,,,,,,,,,8,61,0,,,,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,59,0,0,0,0,0
+Study 16,ASIA,CHN,Site 735,Subject 4590,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 736,Subject 4591,Week 46 (1),On Trial,,,,,,,,,,25,171,0,,,,3,0,0,0,2,0,0,5,0,0,0,0,0,0,0,0,149,8,0,0,5,3
+Study 16,ASIA,CHN,Site 736,Subject 4592,Week 44 (1),On Trial,,,,,,,,,,24,152,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,143,2,0,0,2,0
+Study 16,ASIA,CHN,Site 736,Subject 4593,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 16,ASIA,CHN,Site 736,Subject 4594,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 736,Subject 4595,Week 24 (1),On Trial,,,,,,,,,,14,91,0,,,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,78,7,0,0,0,7
+Study 16,ASIA,CHN,Site 736,Subject 4596,Week 22 (1),On Trial,,,,,,,,,,13,88,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,81,4,0,0,1,3
+Study 16,ASIA,CHN,Site 736,Subject 4597,Week 12 (1),On Trial,,,,,,,,,,8,76,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,68,3,0,0,2,1
+Study 16,ASIA,CHN,Site 737,Subject 4598,Week 36 (1),On Trial,,,,,,,,,,20,119,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,114,0,0,0,0,0
+Study 16,ASIA,CHN,Site 737,Subject 4599,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 737,Subject 4600,Week 30 (1),On Trial,,,,,,,,,,17,93,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0
+Study 16,ASIA,CHN,Site 737,Subject 4601,Week 28 (1),On Trial,,,,,,,,,,16,91,1,,,,1,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,88,0,0,0,0,0
+Study 16,ASIA,CHN,Site 737,Subject 4602,Week 28 (1),On Trial,,,,,,,,,,15,102,2,,,,0,0,0,4,3,0,0,7,0,0,0,0,0,0,0,0,92,0,0,0,0,0
+Study 16,ASIA,CHN,Site 737,Subject 4603,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 737,Subject 4604,Week 12 (1),On Trial,,,,,,,,,,8,60,1,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,57,0,0,0,0,0
+Study 16,ASIA,CHN,Site 738,Subject 4605,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,CHN,Site 739,Subject 4606,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 739,Subject 4607,Week 20 (1),On Trial,,,,,,,,,,12,73,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,0,0,0,3
+Study 16,ASIA,CHN,Site 740,Subject 4608,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 740,Subject 4609,Week 24 (1),On Trial,,,,,,,,,,14,81,0,,,,1,0,0,3,9,0,0,13,0,0,0,0,0,0,0,0,76,2,0,0,2,0
+Study 16,ASIA,CHN,Site 740,Subject 4610,Week 24 (1),On Trial,,,,,,,,,,14,92,0,,,,3,0,0,2,2,0,0,7,0,0,0,0,0,0,0,0,87,2,0,0,2,0
+Study 16,ASIA,CHN,Site 740,Subject 4611,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,ASIA,CHN,Site 740,Subject 4612,Week 20 (1),On Trial,,,,,,,,,,12,76,0,,,,1,0,0,3,6,0,0,10,0,0,0,0,0,0,0,0,73,1,0,0,1,0
+Study 16,ASIA,CHN,Site 740,Subject 4613,Week 10 (1),On Trial,,,,,,,,,,7,55,0,,,,1,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,51,2,0,0,2,0
+Study 16,ASIA,CHN,Site 740,Subject 4614,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 741,Subject 4615,Week 26 (1),On Trial,,,,,,,,,,15,95,0,,,,0,0,0,2,11,0,0,13,0,0,0,0,0,0,0,0,90,2,0,0,1,1
+Study 16,ASIA,CHN,Site 741,Subject 4616,Week 14 (1),On Trial,,,,,,,,,,9,66,0,,,,0,0,0,2,10,0,0,12,0,0,0,0,0,0,0,0,63,0,0,0,0,0
+Study 16,ASIA,CHN,Site 742,Subject 4617,Week 42 (1),On Trial,,,,,,,,,,22,138,0,,,,0,0,0,5,0,0,0,5,0,0,0,0,0,0,2,0,132,1,0,0,0,1
+Study 16,ASIA,CHN,Site 742,Subject 4618,Screening,Screen Failure,,,,,,,,,,1,19,0,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,13,0,0,0,0,0
+Study 16,ASIA,CHN,Site 742,Subject 4619,Week 24 (1),On Trial,,,,,,,,,,14,90,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,85,0,0,0,0,0
+Study 16,ASIA,CHN,Site 742,Subject 4620,Week 24 (1),On Trial,,,,,,,,,,14,88,0,,,,0,0,0,2,2,0,0,4,0,0,0,0,0,0,0,0,84,0,0,0,0,0
+Study 16,ASIA,CHN,Site 742,Subject 4621,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,ASIA,CHN,Site 742,Subject 4622,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 742,Subject 4623,Week 12 (1),On Trial,,,,,,,,,,8,62,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,1,0,0,1,0
+Study 16,ASIA,CHN,Site 742,Subject 4624,Week 12 (1),On Trial,,,,,,,,,,8,65,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,62,1,0,0,1,0
+Study 16,ASIA,CHN,Site 743,Subject 4625,Week 34 (1),On Trial,,,,,,,,,,17,100,0,,,,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,96,1,0,0,0,1
+Study 16,ASIA,CHN,Site 743,Subject 4626,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 743,Subject 4627,Week 30 (1),On Trial,,,,,,,,,,17,104,0,,,,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,98,3,0,0,0,3
+Study 16,ASIA,CHN,Site 743,Subject 4628,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 743,Subject 4629,Week 28 (1),On Trial,,,,,,,,,,16,103,1,,,,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,97,3,0,0,2,1
+Study 16,ASIA,CHN,Site 744,Subject 4630,Week 22 (1),On Trial,,,,,,,,,,13,75,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,0,0,0,3
+Study 16,ASIA,CHN,Site 745,Subject 4631,Unplanned Visit (2),Discontinued,,,,,,,,,,14,111,1,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,93,2,0,0,2,0
+Study 16,ASIA,CHN,Site 745,Subject 4632,Week 46 (1),On Trial,,,,,,,,,,25,129,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,125,0,0,0,0,0
+Study 16,ASIA,CHN,Site 745,Subject 4633,Week 42 (1),On Trial,,,,,,,,,,23,119,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0
+Study 16,ASIA,CHN,Site 745,Subject 4634,EOS (1),Discontinued,,,,,,,,,,10,87,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,79,0,0,0,0,0
+Study 16,ASIA,CHN,Site 745,Subject 4635,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 745,Subject 4636,Week 22 (1),On Trial,,,,,,,,,,13,74,0,,,,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,72,0,0,0,0,0
+Study 16,ASIA,CHN,Site 745,Subject 4637,Week 24 (1),On Trial,,,,,,,,,,14,90,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0
+Study 16,ASIA,CHN,Site 746,Subject 4638,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 746,Subject 4639,Week 34 (1),On Trial,,,,,,,,,,19,111,0,,,,0,0,0,2,4,0,0,6,0,0,0,0,0,0,0,0,108,0,0,0,0,0
+Study 16,ASIA,CHN,Site 746,Subject 4640,Week 30 (1),On Trial,,,,,,,,,,16,105,0,,,,0,0,0,1,2,0,0,3,0,0,0,0,0,0,0,0,92,3,0,0,3,0
+Study 16,ASIA,CHN,Site 747,Subject 4641,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 747,Subject 4642,Week 32 (1),On Trial,,,,,,,,,,18,104,0,,,,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,98,3,0,0,0,3
+Study 16,ASIA,CHN,Site 747,Subject 4643,Week 22 (1),On Trial,,,,,,,,,,13,82,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0
+Study 16,ASIA,CHN,Site 747,Subject 4644,Week 22 (1),On Trial,,,,,,,,,,13,76,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,70,3,0,0,0,3
+Study 16,ASIA,CHN,Site 748,Subject 4645,Week 38 (1),On Trial,,,,,,,,,,20,123,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,0,0,0,0,0
+Study 16,ASIA,CHN,Site 748,Subject 4646,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,CHN,Site 748,Subject 4647,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,CHN,Site 748,Subject 4648,Week 28 (1),On Trial,,,,,,,,,,16,91,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0
+Study 16,ASIA,CHN,Site 748,Subject 4649,Week 16 (1),On Trial,,,,,,,,,,10,68,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0
+Study 16,ASIA,CHN,Site 749,Subject 4650,Week 30 (1),On Trial,,,,,,,,,,17,93,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,86,4,0,0,1,3
+Study 16,ASIA,CHN,Site 750,Subject 4651,Week 26 (1),On Trial,,,,,,,,,,15,101,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,92,1,0,0,0,1
+Study 16,ASIA,CHN,Site 750,Subject 4652,Week 26 (1),On Trial,,,,,,,,,,15,88,1,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,79,5,0,0,2,3
+Study 16,ASIA,CHN,Site 750,Subject 4653,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 750,Subject 4654,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 751,Subject 4655,Week 44 (1),On Trial,,,,,,,,,,24,142,2,,,,0,0,0,6,0,0,0,6,0,0,0,0,0,0,1,0,130,6,0,0,0,6
+Study 16,ASIA,CHN,Site 751,Subject 4656,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 752,Subject 4657,Week 20 (1),On Trial,,,,,,,,,,12,73,0,,,,0,0,0,7,1,0,0,8,0,0,0,0,0,0,0,0,62,9,0,0,5,4
+Study 16,ASIA,CHN,Site 752,Subject 4658,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,ASIA,CHN,Site 753,Subject 4659,Week 22 (1),On Trial,,,,,,,,,,11,82,0,,,,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,73,1,0,0,1,0
+Study 16,ASIA,CHN,Site 753,Subject 4660,Week 20 (1),On Trial,,,,,,,,,,12,80,0,,,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,77,1,0,0,1,0
+Study 16,ASIA,CHN,Site 753,Subject 4661,Week 20 (1),On Trial,,,,,,,,,,12,72,0,,,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,67,3,0,0,0,3
+Study 16,ASIA,CHN,Site 753,Subject 4662,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 754,Subject 4663,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 754,Subject 4664,Week 20 (1),On Trial,,,,,,,,,,12,73,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0
+Study 16,ASIA,CHN,Site 754,Subject 4665,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 754,Subject 4666,Week 16 (1),On Trial,,,,,,,,,,10,64,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0
+Study 16,ASIA,CHN,Site 755,Subject 4667,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,CHN,Site 755,Subject 4668,Week 16 (1),On Trial,,,,,,,,,,10,77,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,73,2,0,0,1,1
+Study 16,ASIA,CHN,Site 756,Subject 4669,Week 14 (1),On Trial,,,,,,,,,,9,70,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,68,0,0,0,0,0
+Study 16,ASIA,CHN,Site 756,Subject 4670,Week 12 (1),On Trial,,,,,,,,,,8,60,0,,,,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,56,2,0,0,1,1
+Study 16,ASIA,CHN,Site 756,Subject 4671,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,EMEA,TUR,Site 757,Subject 4672,Week 56 (1),On Trial,,,,,,,,,,30,155,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,142,5,0,0,0,5
+Study 16,EMEA,TUR,Site 757,Subject 4673,Week 54 (1),On Trial,,,,,,,,,,29,146,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,0,137,3,0,0,0,3
+Study 16,EMEA,TUR,Site 757,Subject 4674,Week 52 (1),On Trial,,,,,,,,,,28,151,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,142,1,0,0,0,1
+Study 16,EMEA,TUR,Site 757,Subject 4675,Week 18 (1),On Trial,,,,,,,,,,10,90,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,3,0,0,2,1
+Study 16,EMEA,TUR,Site 757,Subject 4676,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,TUR,Site 757,Subject 4677,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,TUR,Site 757,Subject 4678,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,TUR,Site 757,Subject 4679,Week 20 (1),On Trial,,,,,,,,,,12,81,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,71,7,0,0,0,7
+Study 16,EMEA,TUR,Site 757,Subject 4680,Week 18 (1),On Trial,,,,,,,,,,11,86,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,73,4,0,0,3,1
+Study 16,EMEA,TUR,Site 757,Subject 4681,Week 20 (1),On Trial,,,,,,,,,,11,73,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,66,4,0,0,0,4
+Study 16,EMEA,TUR,Site 757,Subject 4682,Week 20 (1),On Trial,,,,,,,,,,12,76,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,68,5,0,0,1,4
+Study 16,EMEA,TUR,Site 758,Subject 4683,Week 50 (1),On Trial,,,,,,,,,,27,151,0,,,,1,0,0,0,0,0,0,1,0,0,0,2,0,0,6,0,72,8,59,1,60,8
+Study 16,EMEA,TUR,Site 758,Subject 4684,,Screen Failure,,,,,,,,,,0,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,2,0,2,1
+Study 16,EMEA,TUR,Site 759,Subject 4685,Week 18 (1),On Trial,,,,,,,,,,10,95,0,,,,4,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,80,6,0,0,1,5
+Study 16,EMEA,TUR,Site 760,Subject 4686,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,EMEA,TUR,Site 760,Subject 4687,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,EMEA,TUR,Site 760,Subject 4688,Week 18 (1),On Trial,,,,,,,,,,11,76,0,,,,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,61,11,0,0,4,7
+Study 16,EMEA,TUR,Site 760,Subject 4689,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,EMEA,TUR,Site 760,Subject 4690,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,IND,Site 761,Subject 4691,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,ASIA,IND,Site 762,Subject 4692,Week 24 (1),On Trial,,,,,,,,,,14,83,0,,,,1,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,80,0,0,0,0,0
+Study 16,ASIA,IND,Site 762,Subject 4693,Week 14 (1),On Trial,,,,,,,,,,9,69,0,,,,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,65,2,0,0,2,0
+Study 16,ASIA,IND,Site 762,Subject 4694,Screening,Screen Failure,,,,,,,,,,1,20,0,,,,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+Study 16,ASIA,IND,Site 763,Subject 4695,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,IND,Site 763,Subject 4696,Week 18 (1),On Trial,,,,,,,,,,8,83,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,1,0,0,1,0
+Study 16,ASIA,IND,Site 764,Subject 4697,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,ASIA,IND,Site 764,Subject 4698,Week 36 (1),On Trial,,,,,,,,,,20,118,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,25,76,0,114
+Study 16,ASIA,IND,Site 764,Subject 4699,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10
+Study 16,ASIA,IND,Site 764,Subject 4700,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 16,ASIA,IND,Site 765,Subject 4701,Week 38 (1),On Trial,,,,,,,,,,21,107,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,93,10,0,0,2,8
+Study 16,ASIA,IND,Site 765,Subject 4702,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,2,0
+Study 16,ASIA,IND,Site 765,Subject 4703,Week 36 (1),On Trial,,,,,,,,,,20,104,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,93,7,0,0,2,5
+Study 16,ASIA,IND,Site 765,Subject 4704,Week 20 (1),On Trial,,,,,,,,,,12,84,0,,,,2,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,70,8,0,0,3,5
+Study 16,ASIA,IND,Site 765,Subject 4705,Week 22 (1),On Trial,,,,,,,,,,13,82,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,71,9,0,0,3,6
+Study 16,ASIA,IND,Site 765,Subject 4706,Week 18 (1),On Trial,,,,,,,,,,11,76,0,,,,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,69,5,0,0,2,3
+Study 16,ASIA,IND,Site 765,Subject 4707,Week 14 (1),On Trial,,,,,,,,,,9,67,0,,,,2,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,47,16,0,0,3,13
+Study 16,ASIA,IND,Site 765,Subject 4708,Week 16 (1),On Trial,,,,,,,,,,10,64,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,54,8,0,0,2,6
+Study 16,ASIA,IND,Site 765,Subject 4709,Week 16 (1),On Trial,,,,,,,,,,10,64,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,54,8,0,0,2,6
+Study 16,ASIA,IND,Site 766,Subject 4710,Week 34 (1),On Trial,,,,,,,,,,19,100,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,51,15,31,0,30,16
+Study 16,ASIA,IND,Site 766,Subject 4711,Week 32 (1),On Trial,,,,,,,,,,18,97,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,54,9,31,0,28,12
+Study 16,ASIA,IND,Site 766,Subject 4712,Week 28 (1),On Trial,,,,,,,,,,16,90,0,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,43,20,24,0,26,18
+Study 16,ASIA,IND,Site 766,Subject 4713,Week 22 (1),On Trial,,,,,,,,,,13,82,0,,,,2,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,45,14,21,0,20,15
+Study 16,ASIA,IND,Site 767,Subject 4714,Screening,Screen Failure,,,,,,,,,,0,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,8
+Study 16,ASIA,IND,Site 767,Subject 4715,Screening,Screen Failure,,,,,,,,,,0,9,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,7,0,8
+Study 16,ASIA,IND,Site 768,Subject 4716,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,IND,Site 768,Subject 4717,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,IND,Site 768,Subject 4718,Week 22 (1),On Trial,,,,,,,,,,13,76,0,,,,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,73,1,0,0,1,0
+Study 16,ASIA,IND,Site 768,Subject 4719,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 16,ASIA,IND,Site 768,Subject 4720,Week 16 (1),On Trial,,,,,,,,,,10,65,0,,,,3,0,0,0,2,0,0,5,0,0,0,0,0,0,0,0,60,3,0,0,0,3
+Study 16,ASIA,IND,Site 768,Subject 4721,Week 12 (1),On Trial,,,,,,,,,,8,60,0,,,,2,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,47,9,0,0,2,7
+Study 16,ASIA,IND,Site 768,Subject 4722,Week 12 (1),On Trial,,,,,,,,,,8,57,1,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,55,0,0,0,0,0
+Study 16,ASIA,IND,Site 769,Subject 4723,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,ASIA,IND,Site 769,Subject 4724,Week 40 (1),On Trial,,,,,,,,,,22,120,0,,,,0,0,0,5,0,0,0,5,0,0,0,0,0,0,1,0,97,10,0,4,2,12
+Study 16,ASIA,IND,Site 769,Subject 4725,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,5,3,3
+Study 16,ASIA,IND,Site 769,Subject 4726,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,8
+Study 16,EMEA,ISR,Site 770,Subject 4727,Week 36 (1),On Trial,,,,,,,,,,20,107,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,80,21,0,0,0,21
+Study 16,EMEA,ISR,Site 770,Subject 4728,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ISR,Site 771,Subject 4729,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,1,0
+Study 16,EMEA,ISR,Site 771,Subject 4730,Week 42 (1),On Trial,,,,,,,,,,23,128,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,111,8,0,1,5,4
+Study 16,EMEA,ISR,Site 771,Subject 4731,Week 36 (1),On Trial,,,,,,,,,,20,120,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,110,4,0,0,4,0
+Study 16,EMEA,ISR,Site 771,Subject 4732,Week 24 (1),On Trial,,,,,,,,,,14,94,1,,,,2,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,83,5,0,0,4,1
+Study 16,EMEA,ISR,Site 771,Subject 4733,Week 24 (1),On Trial,,,,,,,,,,14,91,4,,,,4,0,0,2,0,0,0,6,0,0,0,0,0,0,0,1,80,6,0,0,4,2
+Study 16,EMEA,ISR,Site 772,Subject 4734,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ISR,Site 772,Subject 4735,Week 12 (1),On Trial,,,,,,,,,,8,96,2,,,,1,0,0,4,0,0,0,5,0,1,0,0,0,0,1,2,75,10,0,0,2,8
+Study 16,EMEA,ISR,Site 773,Subject 4736,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ISR,Site 773,Subject 4737,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ISR,Site 773,Subject 4738,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ISR,Site 773,Subject 4739,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ISR,Site 773,Subject 4740,Week 24 (1),On Trial,,,,,,,,,,13,96,0,,,,1,0,0,2,0,0,0,3,0,0,0,0,0,0,5,0,66,23,0,0,1,22
+Study 16,EMEA,ISR,Site 774,Subject 4741,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 16,EMEA,ISR,Site 774,Subject 4742,Week 52 (1),On Trial,,,,,,,,,,28,150,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,136,7,0,0,0,7
+Study 16,EMEA,ISR,Site 774,Subject 4743,Screening,Screen Failure,,,,,,,,,,1,13,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+,,,176,670,Total:,,,,,,,,,,,7700,48176,59,,,,547,8,0,332,132,0,0,Site 38,0,14,108,2,,,,,39290,3044,1944,903,Site 571,3571
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

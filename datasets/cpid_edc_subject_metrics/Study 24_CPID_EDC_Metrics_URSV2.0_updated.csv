@@ -1,0 +1,667 @@
+﻿Project Name,Region,Country,Site ID,Subject ID,Latest Visit (SV) (Source: Rave EDC: BO4),Subject Status (Source: PRIMARY Form),Input files,,,,,,,,,CPMD,,,,,,,,,,,,,,,,,,,,,,SSM,,,,,
+,,,,,,,Missing Visits,Missing Page,# Coded terms,# Uncoded Terms,# Open issues in LNR,# Open Issues reported for 3rd party reconciliation in EDRR,Inactivated forms and folders,# eSAE dashboard review for DM,# eSAE dashboard review for safety,Visit status,Page status (Source: (Rave EDC : BO4)),,,,,Queries status (Source:(Rave EDC : BO4)),,,,,,,,Page Action Status (Source: (Rave EDC : BO4)),,,,,,Protocol Deviations (Source:(Rave EDC : BO4)),,PI Signatures (Source: (Rave EDC : BO4)),,,,,
+,,,,,,,,,,,,,,,,# Expected Visits (Rave EDC : BO4),# Pages Entered,# Pages with Non-Conformant data,# Total CRFs with queries & Non-Conformant data,# Total CRFs without queries & Non-Conformant data,% Clean Entered CRF,# DM Queries,# Clinical Queries,# Medical Queries,# Site Queries,# Field Monitor Queries,# Coding Queries,# Safety Queries,#Total Queries,# CRFs Require Verification (SDV),# Forms Verified,# CRFs Frozen,# CRFs Not Frozen,# CRFs Locked,# CRFs Unlocked,# PDs Confirmed,# PDs Proposed,# CRFs Signed,CRFs overdue for signs within 45 days of Data entry,CRFs overdue for signs between 45 to 90 days of Data entry,CRFs overdue for signs beyond 90 days of Data entry,Broken Signatures,CRFs Never Signed
+Responsible LF for action,,,,,,,,,,,,,,,,,,Site/CRA,,,,DM,CSE/CDD,CDMD/Medical Lead,Site/CRA,CRA,Coder,Safety Team,,CRA,,,DM,,,CD LF,,Investigator,,,,,
+Study 24,ASIA,AUS,Site 1,Subject 1,Unplanned visit (1),On Trial,,,,,,,,,,7,62,0,,,,2,3,1,2,0,0,0,8,9,48,0,0,0,0,0,0,43,13,0,0,3,10
+Study 24,ASIA,AUS,Site 1,Subject 169,Cycle 4 Day 1,On Trial,,,,,,,,,,7,53,0,,,,3,12,0,5,0,0,0,20,3,21,0,0,0,0,0,0,39,9,1,0,8,2
+Study 24,ASIA,AUS,Site 1,Subject 752,Cycle 4 Day 1,On Trial,,,,,,,,,,7,56,0,,,,0,2,0,3,0,0,0,5,12,14,0,0,0,0,0,0,44,8,0,0,2,6
+Study 24,ASIA,AUS,Site 1,Subject 753,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,5,1,0,0,1,0
+Study 24,ASIA,AUS,Site 3,Subject 6,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,AUS,Site 3,Subject 7,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,AUS,Site 3,Subject 8,Cycle 7 Day 1,On Trial,,,,,,,,,,10,68,0,,,,2,7,0,0,0,0,0,9,16,48,0,0,0,0,0,0,48,15,0,0,15,0
+Study 24,ASIA,AUS,Site 3,Subject 102,Cycle 6 Day 1,On Trial,,,,,,,,,,9,68,0,,,,3,7,0,0,0,0,0,10,9,22,0,0,0,0,1,0,49,13,0,0,10,3
+Study 24,ASIA,AUS,Site 3,Subject 103,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,AUS,Site 3,Subject 104,Unplanned visit (1),On Trial,,,,,,,,,,8,64,0,,,,0,11,0,2,0,0,0,13,11,17,0,0,0,0,1,0,51,6,0,0,4,2
+Study 24,ASIA,AUS,Site 3,Subject 774,Screening,Enrolled,,,,,,,,,,1,15,0,,,,0,0,0,2,0,0,0,2,4,0,0,0,0,0,0,0,0,8,0,0,0,8
+Study 24,ASIA,AUS,Site 28,Subject 107,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,0,0,0,0,0,0,0,0,16,4,0,0,0,0,0,0,34,0,0,0,0,0
+Study 24,ASIA,AUS,Site 28,Subject 108,Cycle 2 Day 1,On Trial,,,,,,,,,,3,39,0,,,,1,0,0,0,0,0,0,1,17,0,0,0,0,0,0,0,28,4,0,0,0,4
+Study 24,ASIA,AUS,Site 28,Subject 2233,Cycle 2 Day 1,On Trial,,,,,,,,,,4,45,0,,,,3,0,0,0,0,0,0,3,27,16,0,0,0,0,0,1,36,5,0,0,2,3
+Study 24,ASIA,AUS,Site 28,Subject 2234,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,3,0,0,0,0,0,0,3,20,0,0,0,0,0,0,0,20,12,0,0,0,12
+Study 24,ASIA,AUS,Site 259,Subject 2236,Cycle 1 Day 15,On Trial,,,,,,,,,,3,41,0,,,,0,1,0,4,0,0,0,5,8,31,0,0,0,0,0,0,0,38,0,0,0,38
+Study 24,ASIA,AUS,Site 259,Subject 4990,Cycle 1 Day 1,On Trial,,,,,,,,,,2,29,0,,,,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,25,0,0,0,25
+Study 24,ASIA,AUS,Site 259,Subject 4991,Cycle 1 Day 15,On Trial,,,,,,,,,,3,41,0,,,,0,0,0,4,0,0,0,4,22,0,0,0,0,0,0,0,0,37,0,0,0,37
+Study 24,ASIA,IND,Site 1645,Subject 30314,Cycle 1 Day 1,On Trial,,,,,,,,,,2,34,1,,,,1,0,0,3,0,0,0,4,31,0,0,0,0,0,0,1,0,30,0,0,0,30
+Study 24,ASIA,IND,Site 1645,Subject 30315,Screening,Enrolled,,,,,,,,,,1,23,0,,,,1,1,0,2,0,0,0,4,12,0,0,0,0,0,0,2,0,18,0,0,0,18
+Study 24,ASIA,IND,Site 597,Subject 4019,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,0,,,,8,0,0,10,0,0,0,18,0,30,0,0,0,0,0,1,0,29,0,0,0,29
+Study 24,ASIA,IND,Site 597,Subject 30317,Cycle 1 Day 1,On Trial,,,,,,,,,,2,30,0,,,,8,0,0,2,0,0,0,10,0,15,0,0,0,0,0,0,0,28,0,0,0,28
+Study 24,ASIA,IND,Site 597,Subject 30318,Cycle 1 Day 1,On Trial,,,,,,,,,,2,32,0,,,,8,0,0,0,0,0,0,8,0,16,0,0,0,0,0,0,0,27,0,0,0,27
+Study 24,ASIA,IND,Site 1646,Subject 30346,Cycle 1 Day 15,On Trial,,,,,,,,,,3,40,0,,,,0,0,1,1,0,0,0,2,4,32,0,0,0,0,0,0,0,35,0,0,0,35
+Study 24,ASIA,IND,Site 1646,Subject 30347,Cycle 1 Day 15,On Trial,,,,,,,,,,3,38,0,,,,0,0,0,1,0,0,0,1,0,20,0,0,0,0,0,1,0,34,0,0,0,34
+Study 24,ASIA,IND,Site 1646,Subject 30348,Screening,Enrolled,,,,,,,,,,1,17,0,,,,0,0,0,1,0,0,0,1,8,0,0,0,0,0,0,0,0,13,0,0,0,13
+Study 24,ASIA,IND,Site 2163,Subject 47571,Cycle 2 Day 15,On Trial,,,,,,,,,,5,45,0,,,,1,1,0,0,0,0,0,2,13,29,0,0,0,0,0,0,35,6,0,0,3,3
+Study 24,ASIA,IND,Site 2163,Subject 47572,Cycle 2 Day 1,On Trial,,,,,,,,,,4,44,0,,,,1,0,0,0,0,0,0,1,6,14,0,0,0,0,0,1,23,17,0,0,2,15
+Study 24,ASIA,IND,Site 1648,Subject 30393,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,2,0,0,1,0,0,0,3,4,30,0,0,0,0,0,0,0,33,0,0,0,33
+Study 24,ASIA,IND,Site 1648,Subject 30394,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,0,1,0,0,0,0,0,1,1,18,0,0,0,0,0,0,0,31,0,0,0,31
+Study 24,ASIA,IND,Site 1648,Subject 30395,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,ASIA,IND,Site 1648,Subject 30396,Screening,Enrolled,,,,,,,,,,1,19,0,,,,0,0,0,4,0,0,0,4,9,0,0,0,0,0,0,0,0,14,0,0,0,14
+Study 24,ASIA,IND,Site 1648,Subject 30397,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,ASIA,IND,Site 1648,Subject 30398,Cycle 1 Day 1,On Trial,,,,,,,,,,2,30,0,,,,0,0,0,5,0,0,0,5,14,0,0,0,0,0,0,1,0,25,0,0,0,25
+Study 24,ASIA,IND,Site 1648,Subject 30399,Cycle 1 Day 1,On Trial,,,,,,,,,,2,30,0,,,,2,0,0,1,0,0,0,3,13,0,0,0,0,0,0,0,0,26,0,0,0,26
+Study 24,ASIA,KOR,Site 48,Subject 208,Cycle 6 Day 1,On Trial,,,,,,,,,,9,62,0,,,,1,0,0,0,0,0,0,1,11,47,0,0,0,0,0,0,44,13,0,0,11,2
+Study 24,ASIA,KOR,Site 48,Subject 209,Cycle 5 Day 1,On Trial,,,,,,,,,,8,55,0,,,,0,2,0,0,0,0,0,2,6,18,0,0,0,0,0,0,46,5,0,0,3,2
+Study 24,ASIA,KOR,Site 48,Subject 210,Cycle 5 Day 1,On Trial,,,,,,,,,,8,51,0,,,,0,4,0,0,0,0,0,4,5,15,0,0,0,0,0,0,47,0,0,0,0,0
+Study 24,ASIA,KOR,Site 48,Subject 211,Screening,Enrolled,,,,,,,,,,1,25,0,,,,0,2,0,0,0,0,0,2,4,11,0,0,0,0,0,0,16,8,0,0,8,0
+Study 24,ASIA,KOR,Site 48,Subject 212,Cycle 5 Day 1,On Trial,,,,,,,,,,8,59,0,,,,0,3,0,0,0,0,0,3,9,15,0,0,0,0,0,0,46,9,0,0,9,0
+Study 24,ASIA,KOR,Site 48,Subject 213,Unplanned visit (3),On Trial,,,,,,,,,,7,70,0,,,,0,4,0,0,0,0,0,4,8,22,0,0,0,0,0,0,55,8,0,0,2,6
+Study 24,ASIA,KOR,Site 48,Subject 214,Cycle 4 Day 1,On Trial,,,,,,,,,,7,56,0,,,,0,1,0,0,0,0,0,1,14,10,0,0,0,0,0,0,42,9,0,0,9,0
+Study 24,ASIA,KOR,Site 48,Subject 215,Screening,Screen Failure,,,,,,,,,,1,17,0,,,,0,0,0,0,0,0,0,0,2,8,0,0,0,0,0,0,14,0,0,0,0,0
+Study 24,ASIA,KOR,Site 48,Subject 216,Unplanned visit (3),On Trial,,,,,,,,,,7,66,0,,,,2,4,0,0,0,0,0,6,17,9,0,0,0,0,0,0,49,11,0,0,3,8
+Study 24,ASIA,KOR,Site 48,Subject 217,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 24,ASIA,KOR,Site 48,Subject 218,Unplanned visit (1),On Trial,,,,,,,,,,7,56,0,,,,2,4,0,0,0,0,0,6,7,15,0,0,0,0,0,0,31,20,0,0,10,10
+Study 24,ASIA,KOR,Site 48,Subject 219,Cycle 4 Day 1,On Trial,,,,,,,,,,7,59,0,,,,0,2,0,0,0,0,0,2,12,13,0,0,0,0,0,0,39,15,0,0,11,4
+Study 24,ASIA,KOR,Site 48,Subject 220,Cycle 3 Day 1,On Trial,,,,,,,,,,6,58,0,,,,1,5,0,0,0,0,0,6,10,16,0,0,0,0,0,0,33,19,0,0,11,8
+Study 24,ASIA,KOR,Site 48,Subject 221,Cycle 3 Day 1,On Trial,,,,,,,,,,6,52,0,,,,2,1,0,0,0,0,0,3,6,16,0,0,0,0,0,0,37,11,0,0,9,2
+Study 24,ASIA,KOR,Site 48,Subject 222,Cycle 3 Day 1,On Trial,,,,,,,,,,6,47,0,,,,0,2,0,0,0,0,0,2,7,13,0,0,0,0,0,0,35,8,0,0,8,0
+Study 24,ASIA,KOR,Site 48,Subject 223,Cycle 3 Day 1,On Trial,,,,,,,,,,6,51,0,,,,1,0,0,0,0,0,0,1,7,15,0,0,0,0,0,0,34,13,0,0,11,2
+Study 24,ASIA,KOR,Site 48,Subject 224,Cycle 2 Day 15,On Trial,,,,,,,,,,5,46,0,,,,0,5,0,0,0,0,0,5,3,17,0,0,0,0,0,0,31,11,0,0,9,2
+Study 24,ASIA,KOR,Site 49,Subject 232,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,KOR,Site 49,Subject 233,Cycle 4 Day 1,On Trial,,,,,,,,,,7,65,0,,,,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,60,0,0,0,0,0
+Study 24,ASIA,KOR,Site 49,Subject 234,Unplanned visit (12),On Trial,,,,,,,,,,7,113,0,,,,3,2,0,2,0,0,0,7,77,8,0,0,0,0,0,0,82,15,0,0,3,12
+Study 24,ASIA,KOR,Site 49,Subject 235,Unplanned visit (3),On Trial,,,,,,,,,,7,69,0,,,,0,0,0,0,0,0,0,0,13,16,0,0,0,0,0,0,54,9,0,0,2,7
+Study 24,ASIA,KOR,Site 49,Subject 236,Unplanned visit (3),On Trial,,,,,,,,,,7,69,0,,,,0,1,0,0,0,0,0,1,28,0,0,0,0,0,0,0,54,9,0,0,2,7
+Study 24,ASIA,KOR,Site 49,Subject 237,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,KOR,Site 49,Subject 238,Cycle 4 Day 1,On Trial,,,,,,,,,,7,54,0,,,,2,3,0,0,0,0,0,5,6,17,0,0,0,0,0,0,42,8,0,0,3,5
+Study 24,ASIA,KOR,Site 49,Subject 239,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,KOR,Site 49,Subject 240,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,KOR,Site 49,Subject 241,Unplanned visit (4),On Trial,,,,,,,,,,7,71,0,,,,1,0,1,0,0,0,0,2,9,20,0,0,0,0,0,0,53,11,0,0,2,9
+Study 24,ASIA,KOR,Site 49,Subject 242,Cycle 3 Day 1,On Trial,,,,,,,,,,6,61,0,,,,0,1,0,0,0,0,0,1,2,23,0,0,0,0,0,0,55,0,0,0,0,0
+Study 24,ASIA,KOR,Site 49,Subject 243,Unplanned visit (5),On Trial,,,,,,,,,,7,83,0,,,,0,0,1,0,0,0,0,1,26,10,0,0,0,0,0,0,63,11,0,0,4,7
+Study 24,ASIA,KOR,Site 49,Subject 244,Cycle 3 Day 1,On Trial,,,,,,,,,,6,56,0,,,,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,51,0,0,0,0,0
+Study 24,ASIA,KOR,Site 49,Subject 245,Cycle 3 Day 1,On Trial,,,,,,,,,,6,49,0,,,,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,37,8,0,0,3,5
+Study 24,ASIA,KOR,Site 50,Subject 271,Cycle 6 Day 1,On Trial,,,,,,,,,,9,72,0,,,,0,2,0,0,0,0,0,2,19,48,0,0,0,0,0,0,35,4,15,7,7,19
+Study 24,ASIA,KOR,Site 50,Subject 272,Unplanned visit (4),Enrolled,,,,,,,,,,8,71,0,,,,1,0,0,1,0,0,0,2,24,9,0,0,0,0,0,0,22,10,19,13,13,29
+Study 24,ASIA,KOR,Site 50,Subject 273,Cycle 5 Day 1,On Trial,,,,,,,,,,8,59,0,,,,2,2,0,0,0,0,0,4,26,0,0,0,0,0,0,0,28,9,9,8,6,20
+Study 24,ASIA,KOR,Site 50,Subject 274,Cycle 5 Day 1,On Trial,,,,,,,,,,8,65,0,,,,1,0,0,0,0,0,0,1,28,0,0,0,0,0,0,0,30,6,16,6,7,21
+Study 24,ASIA,KOR,Site 50,Subject 275,Cycle 4 Day 1,On Trial,,,,,,,,,,7,53,0,,,,0,3,0,0,0,0,0,3,24,0,0,0,0,0,0,0,18,5,11,15,5,26
+Study 24,ASIA,KOR,Site 50,Subject 276,Cycle 4 Day 1,On Trial,,,,,,,,,,7,53,0,,,,3,2,0,0,0,0,0,5,24,0,0,0,0,0,0,0,19,5,11,14,3,27
+Study 24,ASIA,KOR,Site 50,Subject 277,Unplanned visit (3),On Trial,,,,,,,,,,7,66,0,,,,0,3,0,0,0,0,0,3,30,0,0,0,0,0,0,1,19,9,14,16,4,35
+Study 24,ASIA,KOR,Site 50,Subject 278,Cycle 4 Day 1,On Trial,,,,,,,,,,7,53,0,,,,0,1,0,0,0,0,0,1,24,0,0,0,0,0,0,0,17,5,14,13,5,27
+Study 24,ASIA,KOR,Site 50,Subject 279,Unplanned visit (7),On Trial,,,,,,,,,,7,83,0,,,,1,5,0,0,0,0,0,6,39,0,0,0,0,0,0,0,0,20,16,36,0,72
+Study 24,ASIA,KOR,Site 50,Subject 280,Cycle 3 Day 1,On Trial,,,,,,,,,,6,54,0,,,,0,2,0,0,0,0,0,2,25,0,0,0,0,0,0,0,0,7,19,23,0,49
+Study 24,ASIA,KOR,Site 50,Subject 281,Cycle 3 Day 1,On Trial,,,,,,,,,,6,50,0,,,,0,1,0,0,0,0,0,1,23,0,0,0,0,0,0,0,0,4,21,21,0,46
+Study 24,ASIA,KOR,Site 50,Subject 282,Screening,Screen Failure,,,,,,,,,,1,24,0,,,,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,1,21,0,0,22
+Study 24,ASIA,KOR,Site 50,Subject 283,Unplanned visit (3),Enrolled,,,,,,,,,,1,39,0,,,,1,0,0,0,0,0,0,1,20,0,0,0,0,0,0,0,0,0,35,0,0,35
+Study 24,ASIA,KOR,Site 50,Subject 284,Cycle 3 Day 1,On Trial,,,,,,,,,,6,55,0,,,,1,1,0,0,2,0,0,4,14,11,0,0,0,0,0,0,0,14,35,0,0,49
+Study 24,ASIA,KOR,Site 50,Subject 285,Cycle 2 Day 15,On Trial,,,,,,,,,,5,64,0,,,,4,2,0,3,0,0,0,9,19,15,0,0,0,0,0,0,48,3,0,0,3,0
+Study 24,ASIA,KOR,Site 50,Subject 286,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,10,3,0,0,13
+Study 24,ASIA,KOR,Site 50,Subject 287,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,2,0,0,0,0,0,0,2,18,0,0,0,0,0,0,0,0,34,0,0,0,34
+Study 24,ASIA,KOR,Site 50,Subject 288,Unplanned visit (1),On Trial,,,,,,,,,,3,43,1,,,,3,1,0,1,0,0,0,5,22,0,0,0,0,0,0,0,0,37,0,0,0,37
+Study 24,ASIA,KOR,Site 50,Subject 289,Screening,Enrolled,,,,,,,,,,1,23,0,,,,3,0,0,0,0,0,0,3,11,0,0,0,0,0,0,0,0,20,0,0,0,20
+Study 24,ASIA,KOR,Site 51,Subject 292,Cycle 6 Day 1,On Trial,,,,,,,,,,9,83,0,,,,0,3,0,0,0,0,0,3,57,18,0,0,0,0,0,1,56,14,0,0,2,12
+Study 24,ASIA,KOR,Site 51,Subject 293,Cycle 6 Day 1,On Trial,,,,,,,,,,9,67,0,,,,0,0,0,0,0,0,0,0,21,7,0,0,0,0,0,0,55,5,0,0,3,2
+Study 24,ASIA,KOR,Site 51,Subject 294,Unplanned visit (6),On Trial,,,,,,,,,,7,91,1,,,,6,0,0,0,0,0,0,6,39,9,0,0,0,0,0,0,43,33,0,0,7,26
+Study 24,ASIA,KOR,Site 51,Subject 295,Cycle 4 Day 1,On Trial,,,,,,,,,,7,67,0,,,,0,1,0,0,0,0,0,1,27,7,0,0,0,0,0,0,47,9,0,0,6,3
+Study 24,ASIA,KOR,Site 51,Subject 296,Cycle 3 Day 1,On Trial,,,,,,,,,,6,46,0,,,,1,0,0,0,0,0,0,1,20,0,0,0,0,0,0,0,40,2,0,0,2,0
+Study 24,ASIA,KOR,Site 51,Subject 297,Screening,Screening,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,KOR,Site 51,Subject 298,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,12,0,0,0,0,0
+Study 24,ASIA,KOR,Site 51,Subject 299,Unplanned visit (3),On Trial,,,,,,,,,,5,67,0,,,,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,41,14,0,0,3,11
+Study 24,ASIA,KOR,Site 51,Subject 300,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,KOR,Site 51,Subject 301,Unplanned visit (1),On Trial,,,,,,,,,,4,46,0,,,,0,2,0,0,0,0,0,2,23,0,0,0,0,0,0,1,32,9,0,0,3,6
+Study 24,ASIA,KOR,Site 51,Subject 302,Unplanned visit (3),On Trial,,,,,,,,,,5,56,0,,,,0,1,0,0,0,0,0,1,25,0,0,0,0,0,0,1,39,10,0,0,2,8
+Study 24,ASIA,KOR,Site 51,Subject 303,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,KOR,Site 51,Subject 304,Cycle 2 Day 1,On Trial,,,,,,,,,,4,43,1,,,,1,0,0,1,0,0,0,2,21,0,0,0,0,0,0,1,30,10,0,0,4,6
+Study 24,ASIA,KOR,Site 51,Subject 305,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,KOR,Site 52,Subject 309,Cycle 6 Day 1,On Trial,,,,,,,,,,9,56,0,,,,0,0,0,0,0,0,0,0,38,15,0,0,0,0,0,0,0,5,5,42,0,52
+Study 24,ASIA,KOR,Site 52,Subject 310,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,6,0,6
+Study 24,ASIA,KOR,Site 52,Subject 311,Unplanned visit (2),On Trial,,,,,,,,,,7,74,0,,,,1,5,0,3,0,0,0,9,35,0,0,0,0,0,0,0,0,10,12,46,0,68
+Study 24,ASIA,KOR,Site 52,Subject 312,Cycle 5 Day 1,On Trial,,,,,,,,,,8,61,0,,,,0,1,1,0,0,0,0,2,22,7,0,0,0,0,0,0,0,9,6,42,0,57
+Study 24,ASIA,KOR,Site 52,Subject 313,Unplanned visit (2),On Trial,,,,,,,,,,8,74,0,,,,8,0,3,0,0,0,0,11,35,0,0,0,0,0,0,0,0,9,14,45,0,68
+Study 24,ASIA,KOR,Site 52,Subject 314,Cycle 5 Day 1,On Trial,,,,,,,,,,8,61,0,,,,1,3,1,1,0,0,0,6,26,0,0,0,0,0,0,0,0,2,11,43,0,56
+Study 24,ASIA,KOR,Site 52,Subject 47573,Cycle 5 Day 1,On Trial,,,,,,,,,,8,61,0,,,,3,2,1,1,0,0,0,7,18,9,0,0,0,0,0,1,0,5,15,37,0,57
+Study 24,ASIA,KOR,Site 52,Subject 47574,Cycle 5 Day 1,On Trial,,,,,,,,,,8,57,0,,,,0,0,0,1,0,0,0,1,27,0,0,0,0,0,0,1,0,7,9,37,0,53
+Study 24,ASIA,KOR,Site 52,Subject 47575,Cycle 5 Day 1,On Trial,,,,,,,,,,8,74,0,,,,3,4,3,0,0,0,0,10,31,0,0,0,0,0,0,0,0,17,13,37,0,67
+Study 24,ASIA,KOR,Site 52,Subject 47576,Cycle 5 Day 1,On Trial,,,,,,,,,,8,59,0,,,,1,0,1,0,0,0,0,2,15,13,0,0,0,0,0,0,0,10,7,38,0,55
+Study 24,ASIA,KOR,Site 52,Subject 47577,Screening,Screen Failure,,,,,,,,,,0,7,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,5,0,6
+Study 24,ASIA,KOR,Site 52,Subject 47578,Cycle 4 Day 1,On Trial,,,,,,,,,,7,58,0,,,,0,0,1,2,0,0,0,3,26,0,0,0,0,0,0,2,0,20,33,0,0,53
+Study 24,ASIA,KOR,Site 52,Subject 47579,Cycle 4 Day 1,On Trial,,,,,,,,,,7,51,0,,,,0,0,0,1,0,0,0,1,22,0,0,0,0,0,0,1,0,22,11,14,0,47
+Study 24,ASIA,KOR,Site 52,Subject 47580,Cycle 4 Day 1,On Trial,,,,,,,,,,7,58,0,,,,0,2,4,0,0,0,0,6,13,12,0,0,0,0,0,0,0,3,15,36,0,54
+Study 24,ASIA,KOR,Site 52,Subject 47581,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,5,0,6
+Study 24,ASIA,KOR,Site 52,Subject 47582,Cycle 4 Day 1,On Trial,,,,,,,,,,7,51,0,,,,0,0,1,0,0,0,0,1,22,0,0,0,0,0,0,0,0,6,11,31,0,48
+Study 24,ASIA,KOR,Site 52,Subject 47583,Screening,Screen Failure,,,,,,,,,,0,21,0,,,,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,1,17,0,18
+Study 24,ASIA,KOR,Site 52,Subject 47584,Cycle 4 Day 1,On Trial,,,,,,,,,,7,65,0,,,,2,3,3,0,0,0,0,8,29,0,0,0,0,0,0,0,0,12,26,21,0,59
+Study 24,ASIA,KOR,Site 52,Subject 47585,Unplanned visit (1),Discontinued,,,,,,,,,,6,57,0,,,,6,2,3,3,0,0,0,14,16,8,0,0,0,0,0,0,0,11,21,21,0,53
+Study 24,ASIA,KOR,Site 52,Subject 47586,Cycle 4 Day 1,On Trial,,,,,,,,,,7,54,0,,,,0,0,3,2,0,0,0,5,25,1,0,0,0,0,0,0,0,9,21,20,0,50
+Study 24,ASIA,KOR,Site 52,Subject 47587,Cycle 3 Day 1,On Trial,,,,,,,,,,6,48,0,,,,1,0,0,0,0,0,0,1,21,0,0,0,0,0,0,0,0,39,6,0,0,45
+Study 24,ASIA,KOR,Site 52,Subject 47588,Cycle 3 Day 1,On Trial,,,,,,,,,,6,48,0,,,,1,0,0,0,0,0,0,1,23,0,0,0,0,0,0,2,0,36,8,0,0,44
+Study 24,ASIA,KOR,Site 52,Subject 47589,Cycle 4 Day 1,On Trial,,,,,,,,,,7,56,0,,,,3,0,1,0,0,0,0,4,16,11,0,0,0,0,0,1,0,10,22,20,0,52
+Study 24,ASIA,KOR,Site 52,Subject 47590,Cycle 3 Day 1,On Trial,,,,,,,,,,6,52,0,,,,2,0,0,2,0,0,0,4,25,0,0,0,0,0,0,2,0,42,6,0,0,48
+Study 24,ASIA,KOR,Site 52,Subject 47591,Unplanned visit (1),On Trial,,,,,,,,,,6,61,0,,,,1,1,1,1,0,0,0,4,18,12,0,0,0,0,0,0,0,10,23,21,0,54
+Study 24,ASIA,KOR,Site 52,Subject 47592,Unplanned visit (1),On Trial,,,,,,,,,,6,60,0,,,,5,0,1,2,0,0,0,8,28,0,0,0,0,0,0,2,0,48,6,0,0,54
+Study 24,ASIA,KOR,Site 52,Subject 47593,Cycle 3 Day 1,On Trial,,,,,,,,,,6,48,0,,,,0,0,1,0,0,0,0,1,21,0,0,0,0,0,0,0,0,7,38,0,0,45
+Study 24,ASIA,KOR,Site 52,Subject 47594,Cycle 3 Day 1,On Trial,,,,,,,,,,6,47,1,,,,2,1,0,1,0,0,0,4,9,12,0,0,0,0,0,0,0,13,31,0,0,44
+Study 24,ASIA,KOR,Site 52,Subject 47595,Cycle 3 Day 1,On Trial,,,,,,,,,,6,60,0,,,,4,0,0,0,0,0,0,4,20,9,0,0,0,0,0,0,0,49,6,0,0,55
+Study 24,ASIA,KOR,Site 52,Subject 47596,Cycle 3 Day 1,On Trial,,,,,,,,,,6,51,0,,,,0,0,1,0,0,0,0,1,22,0,0,0,0,0,0,0,0,38,6,0,0,44
+Study 24,ASIA,KOR,Site 52,Subject 47597,Cycle 2 Day 1,On Trial,,,,,,,,,,4,48,0,,,,2,2,0,0,0,0,0,4,24,0,0,0,0,0,0,0,0,21,21,0,0,42
+Study 24,ASIA,KOR,Site 52,Subject 47598,Cycle 3 Day 1,On Trial,,,,,,,,,,6,50,0,,,,0,0,0,0,0,0,0,0,13,11,0,0,0,0,0,0,0,25,21,0,0,46
+Study 24,ASIA,KOR,Site 52,Subject 47599,Cycle 2 Day 15,On Trial,,,,,,,,,,5,47,0,,,,0,0,1,0,1,0,0,2,8,15,0,0,0,0,0,0,0,11,32,0,0,43
+Study 24,ASIA,KOR,Site 52,Subject 47600,Cycle 2 Day 15,On Trial,,,,,,,,,,5,53,0,,,,1,0,1,1,0,0,0,3,24,0,0,0,0,0,0,1,0,46,0,0,0,46
+Study 24,ASIA,KOR,Site 53,Subject 315,Cycle 4 Day 1,On Trial,,,,,,,,,,7,63,0,,,,1,1,0,0,1,0,0,3,12,46,0,0,0,0,0,0,35,22,0,0,11,11
+Study 24,ASIA,KOR,Site 53,Subject 316,Cycle 5 Day 1,On Trial,,,,,,,,,,8,56,0,,,,0,1,1,0,1,0,0,3,4,17,0,0,0,0,1,0,38,13,0,0,8,5
+Study 24,ASIA,KOR,Site 53,Subject 317,Cycle 5 Day 1,On Trial,,,,,,,,,,8,67,0,,,,0,0,0,0,1,0,0,1,5,23,0,0,0,0,1,0,40,12,7,0,10,9
+Study 24,ASIA,KOR,Site 53,Subject 318,Cycle 4 Day 1,On Trial,,,,,,,,,,7,53,0,,,,0,1,0,0,2,0,0,3,3,18,0,0,0,0,1,0,36,11,0,0,5,6
+Study 24,ASIA,KOR,Site 53,Subject 319,Cycle 4 Day 1,On Trial,,,,,,,,,,7,54,0,,,,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,40,9,0,0,6,3
+Study 24,ASIA,KOR,Site 53,Subject 320,Cycle 4 Day 1,On Trial,,,,,,,,,,7,59,0,,,,0,1,0,0,2,0,0,3,3,22,0,0,0,0,0,0,36,16,1,0,8,9
+Study 24,ASIA,KOR,Site 53,Subject 321,Cycle 4 Day 1,On Trial,,,,,,,,,,7,59,0,,,,2,1,0,0,1,0,0,4,3,19,0,0,0,0,0,0,33,17,4,0,9,12
+Study 24,ASIA,KOR,Site 53,Subject 322,Cycle 3 Day 1,On Trial,,,,,,,,,,6,48,0,,,,0,3,0,1,2,0,0,6,4,15,0,0,0,0,0,0,25,19,0,0,7,12
+Study 24,ASIA,KOR,Site 2164,Subject 47601,Screening,Screen Failure,,,,,,,,,,0,8,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2164,Subject 47602,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2164,Subject 47603,Cycle 4 Day 1,On Trial,,,,,,,,,,7,59,0,,,,3,1,0,0,0,0,0,4,36,20,0,0,0,0,0,1,54,1,0,0,1,0
+Study 24,ASIA,KOR,Site 2164,Subject 47604,Cycle 3 Day 1,On Trial,,,,,,,,,,6,72,0,,,,10,4,0,0,0,0,0,14,34,0,0,0,0,0,0,0,65,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2164,Subject 47605,Cycle 3 Day 1,On Trial,,,,,,,,,,6,53,0,,,,2,0,0,0,0,0,0,2,4,19,0,0,0,0,0,0,49,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2164,Subject 47606,Unplanned visit (2),On Trial,,,,,,,,,,6,61,0,,,,4,0,0,0,0,0,0,4,25,0,0,0,0,0,0,0,48,8,0,0,3,5
+Study 24,ASIA,KOR,Site 2164,Subject 47607,Cycle 3 Day 1,On Trial,,,,,,,,,,6,51,0,,,,0,0,0,0,0,0,0,0,7,16,0,0,0,0,0,0,41,6,0,0,3,3
+Study 24,ASIA,KOR,Site 2165,Subject 47608,Unplanned visit (10),On Trial,,,,,,,,,,8,95,0,,,,0,0,0,1,0,0,0,1,54,28,0,0,0,0,0,0,81,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2165,Subject 47609,Unplanned visit (6),On Trial,,,,,,,,,,9,95,0,,,,2,0,0,1,0,0,0,3,27,10,0,0,0,0,0,0,74,11,0,0,4,7
+Study 24,ASIA,KOR,Site 2165,Subject 47610,Unplanned visit (4),On Trial,,,,,,,,,,8,97,0,,,,0,3,0,0,0,0,0,3,26,20,0,0,0,0,0,0,81,2,0,0,2,0
+Study 24,ASIA,KOR,Site 2165,Subject 47611,Unplanned visit (5),On Trial,,,,,,,,,,8,89,0,,,,0,0,0,1,0,0,0,1,31,13,0,0,0,0,1,0,75,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2165,Subject 47612,Cycle 5 Day 1,On Trial,,,,,,,,,,8,80,0,,,,1,0,0,0,0,0,0,1,31,1,0,0,0,0,0,0,26,3,20,23,9,37
+Study 24,ASIA,KOR,Site 2165,Subject 47613,Unplanned visit (7),On Trial,,,,,,,,,,6,78,0,,,,1,0,0,3,0,0,0,4,29,9,0,0,0,0,0,0,67,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2165,Subject 47614,Unplanned visit (7),On Trial,,,,,,,,,,6,92,0,,,,2,0,0,0,0,0,0,2,16,27,0,0,0,0,0,0,69,8,0,0,3,5
+Study 24,ASIA,KOR,Site 2165,Subject 47615,Cycle 3 Day 1,On Trial,,,,,,,,,,6,62,0,,,,0,0,0,1,0,0,0,1,8,18,0,0,0,0,0,0,56,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2166,Subject 47616,Unplanned visit (7),On Trial,,,,,,,,,,7,83,0,,,,2,0,0,0,0,0,0,2,43,30,0,0,0,0,0,0,32,30,10,0,10,30
+Study 24,ASIA,KOR,Site 2166,Subject 47617,Unplanned visit (7),On Trial,,,,,,,,,,7,81,0,,,,2,0,0,0,0,0,0,2,19,17,0,0,0,0,0,0,34,28,8,0,9,27
+Study 24,ASIA,KOR,Site 2166,Subject 47618,Unplanned visit (5),On Trial,,,,,,,,,,6,69,0,,,,1,0,0,0,0,0,0,1,13,16,0,0,0,0,0,0,23,24,12,0,9,27
+Study 24,ASIA,KOR,Site 2166,Subject 47619,Follow-up 1,On Trial,,,,,,,,,,6,52,0,,,,0,0,0,1,0,0,0,1,22,0,0,0,0,0,0,0,24,9,14,0,7,16
+Study 24,ASIA,KOR,Site 2167,Subject 47620,Cycle 4 Day 1,On Trial,,,,,,,,,,7,59,0,,,,3,0,0,0,0,0,0,3,8,44,0,0,0,0,0,0,45,10,0,0,3,7
+Study 24,ASIA,KOR,Site 2167,Subject 47621,Cycle 4 Day 1,On Trial,,,,,,,,,,7,62,0,,,,3,0,0,0,0,0,0,3,29,1,0,0,0,0,0,0,45,12,0,0,4,8
+Study 24,ASIA,KOR,Site 2167,Subject 47622,Cycle 4 Day 1,On Trial,,,,,,,,,,7,56,0,,,,0,1,0,0,0,0,0,1,12,18,0,0,0,0,0,0,45,8,0,0,4,4
+Study 24,ASIA,KOR,Site 2167,Subject 47623,Screening,Screen Failure,,,,,,,,,,1,19,0,,,,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,17,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2167,Subject 47624,Cycle 4 Day 1,On Trial,,,,,,,,,,7,58,0,,,,0,0,0,0,0,0,0,0,27,1,0,0,0,0,0,0,44,10,0,0,6,4
+Study 24,ASIA,KOR,Site 2167,Subject 47625,Unplanned visit (3),On Trial,,,,,,,,,,6,69,0,,,,4,0,0,0,0,0,0,4,32,1,0,0,0,0,0,0,48,14,0,0,4,10
+Study 24,ASIA,KOR,Site 2167,Subject 47626,Cycle 3 Day 1,On Trial,,,,,,,,,,6,52,0,,,,0,0,0,1,0,0,0,1,22,1,0,0,0,0,0,0,45,4,0,0,1,3
+Study 24,ASIA,KOR,Site 2167,Subject 47627,Cycle 3 Day 1,On Trial,,,,,,,,,,6,56,0,,,,5,0,0,2,0,0,0,7,27,0,0,0,0,0,0,1,44,7,0,0,2,5
+Study 24,ASIA,KOR,Site 2168,Subject 47628,Cycle 5 Day 1,On Trial,,,,,,,,,,8,56,0,,,,2,1,0,0,1,0,0,4,14,40,0,0,0,0,1,0,45,7,0,1,7,1
+Study 24,ASIA,KOR,Site 2168,Subject 47629,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2168,Subject 47630,Cycle 5 Day 1,On Trial,,,,,,,,,,8,70,0,,,,4,3,1,0,8,0,0,16,14,18,0,0,0,0,0,0,55,8,0,0,7,1
+Study 24,ASIA,KOR,Site 2168,Subject 47631,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2168,Subject 47632,Cycle 5 Day 1,On Trial,,,,,,,,,,8,72,0,,,,2,2,0,0,12,0,0,16,19,13,0,0,0,0,0,1,61,5,0,0,4,1
+Study 24,ASIA,KOR,Site 2168,Subject 47633,Unplanned visit (4),On Trial,,,,,,,,,,8,84,0,,,,0,0,1,0,0,0,0,1,30,9,0,0,0,0,0,0,76,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2168,Subject 47634,Cycle 5 Day 1,On Trial,,,,,,,,,,8,75,0,,,,3,7,0,0,4,0,0,14,21,14,0,0,0,0,0,1,65,2,0,0,2,0
+Study 24,ASIA,KOR,Site 2168,Subject 47635,Cycle 5 Day 1,On Trial,,,,,,,,,,8,61,0,,,,0,0,1,0,0,0,0,1,27,0,0,0,0,0,0,0,57,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2168,Subject 47636,Cycle 5 Day 1,On Trial,,,,,,,,,,8,71,0,,,,0,0,2,1,0,0,0,3,32,1,0,0,0,0,0,0,58,6,0,0,3,3
+Study 24,ASIA,KOR,Site 2168,Subject 47637,Unplanned visit (1),On Trial,,,,,,,,,,7,58,0,,,,2,0,0,0,0,0,0,2,29,0,0,0,0,0,0,0,43,11,0,0,2,9
+Study 24,ASIA,KOR,Site 2168,Subject 47638,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2169,Subject 47639,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2169,Subject 47640,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2169,Subject 47641,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,KOR,Site 2169,Subject 47642,Cycle 7 Day 1,On Trial,,,,,,,,,,10,91,0,,,,0,0,0,0,0,0,0,0,37,5,0,0,0,0,0,0,53,16,10,1,6,21
+Study 24,ASIA,KOR,Site 2169,Subject 47643,Cycle 7 Day 1,On Trial,,,,,,,,,,10,101,0,,,,0,0,0,1,0,0,0,1,58,12,0,0,0,0,0,0,54,23,9,1,5,28
+Study 24,ASIA,KOR,Site 2169,Subject 47644,Unplanned visit (8),On Trial,,,,,,,,,,8,88,0,,,,1,0,0,2,0,0,0,3,26,14,0,0,0,0,0,0,45,23,8,0,9,22
+Study 24,ASIA,KOR,Site 2169,Subject 47645,Cycle 5 Day 1,On Trial,,,,,,,,,,8,64,0,,,,0,1,0,0,0,0,0,1,21,7,0,0,0,0,0,0,47,3,8,0,5,6
+Study 24,ASIA,KOR,Site 2169,Subject 47646,Cycle 4 Day 1,On Trial,,,,,,,,,,7,55,0,,,,0,0,0,0,0,0,0,0,10,13,0,0,0,0,0,0,39,5,7,0,4,8
+Study 24,ASIA,KOR,Site 2169,Subject 47647,Cycle 5 Day 1,On Trial,,,,,,,,,,8,91,0,,,,3,1,0,1,0,0,0,5,29,11,0,0,0,0,0,0,37,29,12,0,6,35
+Study 24,ASIA,KOR,Site 2169,Subject 47648,Unplanned visit (8),On Trial,,,,,,,,,,7,87,0,,,,0,0,0,3,0,0,0,3,30,11,0,0,0,0,0,0,26,37,12,0,9,40
+Study 24,ASIA,KOR,Site 2169,Subject 47649,Screening,Screening,,,,,,,,,,1,8,0,,,,1,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,5,0,0,0,5
+Study 24,ASIA,KOR,Site 2169,Subject 47650,Cycle 2 Day 1,On Trial,,,,,,,,,,4,50,0,,,,2,0,0,0,0,0,0,2,11,12,0,0,0,0,0,1,0,44,0,0,0,44
+Study 24,ASIA,TWN,Site 1673,Subject 30790,Cycle 3 Day 1,On Trial,,,,,,,,,,6,54,0,,,,1,2,0,1,0,0,0,4,5,45,0,0,0,0,0,0,49,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1673,Subject 30791,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,0,0,0,0,0,0,0,0,2,17,0,0,0,0,0,0,36,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1673,Subject 30792,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1673,Subject 30793,,Screening,,,,,,,,,,0,2,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Study 24,ASIA,TWN,Site 1673,Subject 30794,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,TWN,Site 469,Subject 3565,Screening,Enrolled,,,,,,,,,,1,19,0,,,,0,0,0,11,0,0,0,11,15,0,0,0,0,0,0,0,0,15,0,0,0,15
+Study 24,ASIA,TWN,Site 469,Subject 4744,Screening,Enrolled,,,,,,,,,,1,21,0,,,,0,0,0,10,0,0,0,10,9,0,0,0,0,0,0,0,0,15,0,0,0,15
+Study 24,ASIA,TWN,Site 1674,Subject 30855,Cycle 3 Day 1,On Trial,,,,,,,,,,6,47,0,,,,1,3,0,1,0,0,0,5,4,40,0,0,0,0,0,0,43,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1674,Subject 30856,Cycle 2 Day 1,On Trial,,,,,,,,,,4,43,0,,,,0,1,0,0,0,0,0,1,2,18,0,0,0,0,0,0,38,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1674,Subject 30857,Cycle 2 Day 15,On Trial,,,,,,,,,,5,44,0,,,,0,0,0,0,0,0,0,0,5,16,0,0,0,0,0,0,40,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1674,Subject 30858,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1674,Subject 30859,Cycle 2 Day 15,On Trial,,,,,,,,,,5,41,0,,,,0,0,0,0,0,0,0,0,4,14,0,0,0,0,0,0,35,2,0,0,0,2
+Study 24,ASIA,TWN,Site 1674,Subject 30860,Cycle 2 Day 1,On Trial,,,,,,,,,,4,39,0,,,,1,0,0,4,0,0,0,5,12,6,0,0,0,0,0,0,29,7,0,0,1,6
+Study 24,ASIA,TWN,Site 1674,Subject 30861,Cycle 2 Day 1,On Trial,,,,,,,,,,4,45,0,,,,2,0,0,0,0,0,0,2,21,0,0,0,0,0,0,0,39,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1674,Subject 30862,Cycle 2 Day 1,On Trial,,,,,,,,,,4,50,0,,,,1,0,0,4,0,0,0,5,25,0,0,0,0,0,0,0,41,4,0,0,1,3
+Study 24,ASIA,TWN,Site 1674,Subject 30863,Cycle 1 Day 15,On Trial,,,,,,,,,,3,38,0,,,,6,0,0,2,0,0,0,8,19,0,0,0,0,0,0,0,34,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1674,Subject 30864,Cycle 2 Day 1,On Trial,,,,,,,,,,4,46,0,,,,0,0,0,2,0,0,0,2,19,0,0,0,0,0,0,0,36,4,0,0,1,3
+Study 24,ASIA,TWN,Site 1675,Subject 30869,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1675,Subject 30870,Cycle 2 Day 15,On Trial,,,,,,,,,,5,54,0,,,,0,5,0,2,0,0,0,7,24,25,0,0,0,0,0,0,45,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1675,Subject 30871,Cycle 1 Day 1,On Trial,,,,,,,,,,2,49,0,,,,1,0,0,2,0,0,0,3,19,10,0,0,0,0,0,0,41,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1675,Subject 30872,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1675,Subject 30873,Cycle 1 Day 15,On Trial,,,,,,,,,,3,41,0,,,,7,0,0,0,0,0,0,7,12,9,0,0,0,0,0,0,34,4,0,0,1,3
+Study 24,ASIA,TWN,Site 1675,Subject 30874,Cycle 2 Day 1,On Trial,,,,,,,,,,4,54,0,,,,1,0,0,0,0,0,0,1,22,7,0,0,0,0,0,1,42,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1675,Subject 30875,Cycle 1 Day 1,On Trial,,,,,,,,,,2,32,0,,,,1,0,0,2,0,0,0,3,16,0,0,0,0,0,0,0,20,9,0,0,2,7
+Study 24,ASIA,TWN,Site 1676,Subject 30882,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,TWN,Site 1676,Subject 30883,Cycle 5 Day 1,On Trial,,,,,,,,,,8,53,0,,,,0,0,0,0,0,0,0,0,16,34,0,0,0,0,0,0,43,6,0,0,4,2
+Study 24,ASIA,TWN,Site 1676,Subject 30884,Cycle 5 Day 1,On Trial,,,,,,,,,,8,82,0,,,,3,0,0,0,0,0,0,3,14,19,0,0,0,0,0,0,55,16,0,0,5,11
+Study 24,ASIA,TWN,Site 1676,Subject 30885,Unplanned visit (4),On Trial,,,,,,,,,,6,67,0,,,,1,1,0,0,0,0,0,2,14,15,0,0,0,0,0,0,32,27,0,0,14,13
+Study 24,ASIA,TWN,Site 1676,Subject 30886,Cycle 4 Day 1,On Trial,,,,,,,,,,7,85,0,,,,4,3,0,0,0,0,0,7,9,28,0,0,0,0,0,0,60,15,0,0,6,9
+Study 24,ASIA,TWN,Site 1676,Subject 30887,Screening,Screening,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,5,2,0,0,2,0
+Study 24,ASIA,TWN,Site 1676,Subject 30888,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,7,0,0,0,7
+Study 24,ASIA,TWN,Site 1676,Subject 30889,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,7,0,0,0,7
+Study 24,EMEA,TUR,Site 5,Subject 11,Cycle 4 Day 1,On Trial,,,,,,,,,,7,62,0,,,,0,5,0,0,0,0,0,5,43,16,0,0,0,0,0,0,56,0,0,0,0,0
+Study 24,EMEA,TUR,Site 5,Subject 3566,Cycle 2 Day 1,On Trial,,,,,,,,,,4,46,0,,,,0,4,0,0,0,0,0,4,22,0,0,0,0,0,0,0,39,0,0,0,0,0
+Study 24,EMEA,TUR,Site 5,Subject 3567,Cycle 1 Day 15,On Trial,,,,,,,,,,3,33,0,,,,0,1,0,0,0,0,0,1,16,0,0,0,0,0,0,0,19,3,0,0,0,3
+Study 24,EMEA,TUR,Site 6,Subject 12,Unplanned visit (11),On Trial,,,,,,,,,,8,130,0,,,,14,1,1,0,0,0,0,16,23,94,0,0,0,0,0,0,113,1,0,0,1,0
+Study 24,EMEA,TUR,Site 6,Subject 13,Unplanned visit (6),On Trial,,,,,,,,,,8,100,0,,,,1,2,0,0,0,0,0,3,15,35,0,0,0,0,0,0,78,10,0,0,2,8
+Study 24,EMEA,TUR,Site 6,Subject 31074,Unplanned visit (4),On Trial,,,,,,,,,,6,79,0,,,,0,0,2,0,0,0,0,2,19,20,0,0,0,0,0,0,69,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2170,Subject 47651,Unplanned visit (8),On Trial,,,,,,,,,,9,105,0,,,,0,1,0,0,0,0,0,1,17,77,0,0,0,0,0,0,92,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2170,Subject 47652,Unplanned visit (13),On Trial,,,,,,,,,,9,127,0,,,,2,6,1,0,0,0,0,9,16,46,0,0,0,0,2,0,110,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2170,Subject 47653,Unplanned visit (7),On Trial,,,,,,,,,,9,105,0,,,,1,1,0,0,0,0,0,2,12,39,0,0,0,0,1,0,94,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2170,Subject 47654,Unplanned visit (4),On Trial,,,,,,,,,,4,67,0,,,,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,58,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2171,Subject 47655,Cycle 5 Day 1,On Trial,,,,,,,,,,8,61,0,,,,1,1,0,1,0,0,0,3,12,45,0,0,0,0,0,3,56,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2171,Subject 47656,Cycle 4 Day 1,On Trial,,,,,,,,,,7,70,0,,,,7,4,1,5,0,0,0,17,6,27,0,0,0,0,0,0,61,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2171,Subject 47657,Cycle 2 Day 1,On Trial,,,,,,,,,,4,42,0,,,,0,1,0,0,0,0,0,1,19,0,0,0,0,0,1,1,33,4,0,0,0,4
+Study 24,EMEA,TUR,Site 2172,Subject 47658,Unplanned visit (15),Screening,,,,,,,,,,9,131,0,,,,3,0,1,0,0,0,0,4,19,94,0,0,0,0,1,0,112,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2172,Subject 47659,30 Day Safety Follow-up,On Trial,,,,,,,,,,9,113,0,,,,2,2,1,0,0,0,0,5,7,44,0,0,0,0,0,0,95,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2172,Subject 47660,Unplanned visit (7),On Trial,,,,,,,,,,8,85,0,,,,1,0,0,0,0,0,0,1,4,37,0,0,0,0,1,0,74,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2161,Subject 46765,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,9,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2161,Subject 47661,Unplanned visit (7),On Trial,,,,,,,,,,9,89,0,,,,0,4,1,0,0,0,0,5,13,33,0,0,0,0,1,0,79,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2161,Subject 47662,Unplanned visit (7),On Trial,,,,,,,,,,9,91,0,,,,1,4,0,0,0,0,0,5,8,35,0,0,0,0,1,0,80,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2161,Subject 47663,Unplanned visit (8),On Trial,,,,,,,,,,8,106,0,,,,3,0,0,0,0,0,0,3,22,34,0,0,0,0,0,3,94,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2173,Subject 47664,Unplanned visit (5),On Trial,,,,,,,,,,8,80,0,,,,2,1,0,0,0,0,0,3,33,37,0,0,0,0,0,1,35,12,16,4,10,22
+Study 24,EMEA,TUR,Site 2173,Subject 47665,Cycle 5 Day 1,On Trial,,,,,,,,,,8,70,0,,,,2,1,0,0,0,0,0,3,16,16,0,0,0,0,0,1,34,12,15,0,9,18
+Study 24,EMEA,TUR,Site 2173,Subject 47666,Cycle 5 Day 1,On Trial,,,,,,,,,,8,60,0,,,,0,0,1,0,0,0,0,1,12,16,0,0,0,0,0,1,30,6,16,0,11,11
+Study 24,EMEA,TUR,Site 2173,Subject 47667,Cycle 2 Day 1,On Trial,,,,,,,,,,4,45,0,,,,2,0,0,0,0,0,0,2,6,17,0,0,0,0,0,0,0,39,0,0,0,39
+Study 24,EMEA,TUR,Site 2174,Subject 47668,Cycle 3 Day 1,On Trial,,,,,,,,,,6,44,0,,,,0,0,1,0,0,0,0,1,20,22,0,0,0,0,0,1,29,12,0,0,4,8
+Study 24,EMEA,TUR,Site 2174,Subject 47669,Cycle 3 Day 1,On Trial,,,,,,,,,,6,48,0,,,,5,0,1,0,0,0,0,6,13,8,0,0,0,0,0,1,30,13,0,0,6,7
+Study 24,EMEA,TUR,Site 2175,Subject 47670,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,0,,,,1,0,0,2,0,0,0,3,23,0,0,0,0,0,0,2,0,21,0,0,0,21
+Study 24,EMEA,TUR,Site 2175,Subject 47671,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,EMEA,TUR,Site 2175,Subject 47672,Screening,Enrolled,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,EMEA,TUR,Site 2176,Subject 47673,Cycle 3 Day 1,On Trial,,,,,,,,,,6,61,0,,,,0,0,1,0,0,0,0,1,28,29,0,0,0,0,0,2,56,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2176,Subject 47674,Cycle 4 Day 1,On Trial,,,,,,,,,,7,63,0,,,,0,0,0,0,0,0,0,0,18,15,0,0,0,0,0,1,54,3,0,0,1,2
+Study 24,EMEA,TUR,Site 2176,Subject 47675,Cycle 1 Day 1,On Trial,,,,,,,,,,2,41,0,,,,4,1,1,11,0,0,0,17,20,0,0,0,0,0,0,2,27,8,0,0,1,7
+Study 24,EMEA,TUR,Site 2176,Subject 47676,Screening,Enrolled,,,,,,,,,,1,21,0,,,,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,15,0,0,0,15
+Study 24,EMEA,TUR,Site 2177,Subject 47677,Unplanned visit (5),On Trial,,,,,,,,,,6,77,0,,,,0,0,0,0,0,0,0,0,35,33,0,0,0,0,0,0,67,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2177,Subject 47678,Unplanned visit (2),On Trial,,,,,,,,,,4,55,0,,,,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,50,1,0,0,1,0
+Study 24,EMEA,TUR,Site 2177,Subject 47679,Unplanned visit (2),On Trial,,,,,,,,,,4,54,0,,,,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,39,10,0,0,1,9
+Study 24,EMEA,TUR,Site 2177,Subject 47680,Screening,Screening,,,,,,,,,,1,4,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2178,Subject 47681,Unplanned visit (3),On Trial,,,,,,,,,,7,73,0,,,,9,0,1,0,0,0,0,10,52,12,0,0,0,0,0,1,60,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2178,Subject 47682,Cycle 4 Day 1,On Trial,,,,,,,,,,7,56,0,,,,7,7,1,0,0,0,0,15,24,0,0,0,0,0,0,0,46,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2178,Subject 47683,Cycle 2 Day 1,On Trial,,,,,,,,,,4,42,0,,,,1,0,0,0,0,0,0,1,19,0,0,0,0,0,0,0,33,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2179,Subject 47684,Cycle 5 Day 1,On Trial,,,,,,,,,,8,91,0,,,,9,0,2,0,1,0,0,12,19,62,0,0,0,0,0,1,41,20,19,0,8,31
+Study 24,EMEA,TUR,Site 2179,Subject 47685,Cycle 5 Day 1,On Trial,,,,,,,,,,8,56,0,,,,0,2,0,0,0,0,0,2,7,18,0,0,0,0,0,0,31,7,15,0,10,12
+Study 24,EMEA,TUR,Site 2179,Subject 47686,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,7,0,0,0,7
+Study 24,EMEA,TUR,Site 2179,Subject 47687,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,EMEA,TUR,Site 2180,Subject 47688,Screening,Enrolled,,,,,,,,,,1,20,1,,,,0,0,0,4,0,0,0,4,15,0,0,0,0,0,0,0,0,13,0,0,0,13
+Study 24,EMEA,TUR,Site 2180,Subject 47689,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2181,Subject 47690,Cycle 2 Day 1,On Trial,,,,,,,,,,4,47,0,,,,0,0,0,0,0,0,0,0,12,33,0,0,0,0,0,0,31,13,0,0,6,7
+Study 24,EMEA,TUR,Site 2181,Subject 47691,Cycle 2 Day 1,On Trial,,,,,,,,,,4,52,0,,,,0,1,0,0,0,0,0,1,7,20,0,0,0,0,0,0,29,18,0,0,7,11
+Study 24,EMEA,TUR,Site 2181,Subject 47692,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,0,1,0,0,0,0,0,1,12,0,0,0,0,0,0,0,0,25,0,0,0,25
+Study 24,EMEA,TUR,Site 558,Subject 3890,Cycle 2 Day 15,On Trial,,,,,,,,,,5,48,0,,,,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,1,0,40,5,0,0,45
+Study 24,EMEA,TUR,Site 2182,Subject 47693,Cycle 3 Day 1,On Trial,,,,,,,,,,6,49,0,,,,0,1,0,0,0,0,0,1,13,33,0,0,0,0,0,0,44,0,0,0,0,0
+Study 24,EMEA,TUR,Site 2182,Subject 47694,Cycle 2 Day 1,On Trial,,,,,,,,,,4,45,0,,,,1,1,1,0,0,0,0,3,23,0,0,0,0,0,0,0,36,5,0,0,1,4
+Study 24,EMEA,TUR,Site 2182,Subject 47695,Cycle 2 Day 1,On Trial,,,,,,,,,,4,41,0,,,,1,1,0,0,0,0,0,2,18,0,0,0,0,0,0,1,34,1,0,0,1,0
+Study 24,ASIA,HKG,Site 10,Subject 17,Unplanned visit (4),On Trial,,,,,,,,,,9,84,0,,,,1,0,1,0,0,0,0,2,28,48,0,0,0,0,0,0,61,11,0,0,10,1
+Study 24,ASIA,HKG,Site 10,Subject 18,30 Day Safety Follow-up,On Trial,,,,,,,,,,8,68,0,,,,2,0,0,0,0,0,0,2,8,22,0,0,0,0,0,0,56,5,0,0,1,4
+Study 24,ASIA,HKG,Site 10,Subject 19,Cycle 5 Day 1,On Trial,,,,,,,,,,8,57,0,,,,0,0,0,1,0,0,0,1,9,16,0,0,0,0,0,0,44,8,0,0,7,1
+Study 24,ASIA,HKG,Site 10,Subject 851,Unplanned visit (1),On Trial,,,,,,,,,,7,59,0,,,,0,0,0,0,0,0,0,0,14,13,0,0,0,0,0,1,40,13,0,0,9,4
+Study 24,ASIA,HKG,Site 10,Subject 852,Cycle 3 Day 1,On Trial,,,,,,,,,,6,57,0,,,,0,0,0,19,0,0,0,19,26,2,0,0,0,0,0,0,31,10,0,0,2,8
+Study 24,ASIA,HKG,Site 10,Subject 853,Cycle 3 Day 1,On Trial,,,,,,,,,,6,60,0,,,,0,0,0,3,0,0,0,3,31,0,0,0,0,0,0,0,40,10,0,0,4,6
+Study 24,ASIA,HKG,Site 10,Subject 854,Unplanned visit (1),On Trial,,,,,,,,,,6,62,0,,,,0,1,0,1,0,0,0,2,27,0,0,0,0,0,0,0,40,16,0,0,7,9
+Study 24,ASIA,HKG,Site 87,Subject 627,,Screening,,,,,,,,,,0,2,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Study 24,ASIA,HKG,Site 110,Subject 893,Unplanned visit (1),On Trial,,,,,,,,,,4,47,0,,,,0,0,0,3,0,0,0,3,22,21,0,0,0,0,0,0,0,42,0,0,0,42
+Study 24,ASIA,HKG,Site 88,Subject 632,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,HKG,Site 88,Subject 633,Cycle 3 Day 1,On Trial,,,,,,,,,,6,50,0,,,,0,0,0,0,0,0,0,0,18,17,0,0,0,0,0,0,38,8,0,0,4,4
+Study 24,ASIA,HKG,Site 88,Subject 634,Cycle 2 Day 1,On Trial,,,,,,,,,,4,55,0,,,,1,0,0,0,0,0,1,2,18,13,0,0,0,0,0,0,36,9,0,0,6,3
+Study 24,ASIA,CHN,Site 113,Subject 911,Unplanned visit (3),On Trial,,,,,,,,,,6,64,0,,,,2,2,1,0,0,0,0,5,47,11,0,0,0,0,0,0,57,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 912,Unplanned visit (4),On Trial,,,,,,,,,,6,74,0,,,,0,2,1,0,1,0,0,4,35,8,0,0,0,0,0,0,64,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 913,Unplanned visit (6),On Trial,,,,,,,,,,6,105,0,,,,4,1,0,0,0,0,0,5,62,1,0,0,0,0,0,1,83,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 914,Unplanned visit (5),On Trial,,,,,,,,,,5,85,0,,,,1,0,0,0,4,0,0,5,49,4,0,0,0,0,0,1,68,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 915,Screening,Screen Failure,,,,,,,,,,0,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 916,Screening,Screen Failure,,,,,,,,,,0,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 917,Cycle 3 Day 1,On Trial,,,,,,,,,,6,66,0,,,,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,57,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6238,Unplanned visit (5),On Trial,,,,,,,,,,6,66,0,,,,5,0,0,0,0,0,0,5,34,0,0,0,0,0,0,0,58,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6239,Unplanned visit (5),On Trial,,,,,,,,,,6,67,0,,,,4,0,0,0,0,0,0,4,35,0,0,0,0,0,0,0,59,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6240,Screening,Screen Failure,,,,,,,,,,0,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6241,Unplanned visit (2),On Trial,,,,,,,,,,5,53,0,,,,3,0,0,0,0,0,0,3,28,0,0,0,0,0,0,0,46,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6242,Unplanned visit (1),On Trial,,,,,,,,,,3,45,0,,,,2,0,0,0,0,0,0,2,25,0,0,0,0,0,0,0,41,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6243,Unplanned visit (2),On Trial,,,,,,,,,,4,48,0,,,,2,0,0,0,0,0,0,2,24,0,0,0,0,0,0,0,41,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6244,Unplanned visit (3),On Trial,,,,,,,,,,4,55,0,,,,4,0,0,0,0,0,0,4,30,0,0,0,0,0,0,0,48,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6245,Unplanned visit (3),On Trial,,,,,,,,,,4,54,0,,,,4,0,0,0,0,0,0,4,30,0,0,0,0,0,0,0,48,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6246,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,0,,,,2,0,0,0,0,0,0,2,19,0,0,0,0,0,0,1,29,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6247,Unplanned visit (2),On Trial,,,,,,,,,,4,49,0,,,,2,0,0,0,0,0,0,2,28,0,0,0,0,0,0,1,44,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6248,Unplanned visit (1),On Trial,,,,,,,,,,3,41,0,,,,2,0,0,0,0,0,0,2,22,0,0,0,0,0,0,0,38,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6249,Screening,Screen Failure,,,,,,,,,,0,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6250,Unplanned visit (1),On Trial,,,,,,,,,,3,42,0,,,,3,0,0,0,0,0,0,3,24,0,0,0,0,0,0,0,37,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6251,Unplanned visit (1),On Trial,,,,,,,,,,3,45,0,,,,4,0,0,0,0,0,0,4,26,0,0,0,0,0,0,1,41,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6252,Screening,Screen Failure,,,,,,,,,,0,7,0,,,,2,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,ASIA,CHN,Site 113,Subject 6253,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,2,0,0,0,0,0,0,2,20,0,0,0,0,0,0,0,31,0,0,0,0,0
+Study 24,ASIA,CHN,Site 503,Subject 3706,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,ASIA,CHN,Site 503,Subject 3707,Screening,Screening,,,,,,,,,,1,4,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 24,ASIA,CHN,Site 503,Subject 3708,Screening,Screening,,,,,,,,,,1,4,0,,,,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 24,ASIA,CHN,Site 503,Subject 3709,Screening,Screening,,,,,,,,,,1,4,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 24,ASIA,CHN,Site 506,Subject 3722,Cycle 3 Day 1,On Trial,,,,,,,,,,6,45,0,,,,0,0,0,0,0,0,0,0,10,32,0,0,0,0,0,0,41,0,0,0,0,0
+Study 24,ASIA,CHN,Site 506,Subject 3723,Cycle 3 Day 1,On Trial,,,,,,,,,,6,44,0,,,,5,0,0,0,0,0,0,5,4,16,0,0,0,0,0,0,34,6,0,0,4,2
+Study 24,ASIA,CHN,Site 506,Subject 3724,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,1,33,0,0,0,0,0
+Study 24,ASIA,CHN,Site 506,Subject 3725,Cycle 1 Day 15,On Trial,,,,,,,,,,3,36,0,,,,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,1,32,0,0,0,0,0
+Study 24,ASIA,CHN,Site 506,Subject 3726,Cycle 1 Day 1,On Trial,,,,,,,,,,2,34,0,,,,2,0,0,0,0,0,0,2,20,0,0,0,0,0,0,0,4,26,0,0,1,25
+Study 24,ASIA,CHN,Site 507,Subject 3727,Cycle 1 Day 15,On Trial,,,,,,,,,,3,44,0,,,,0,0,0,3,0,0,0,3,17,23,0,0,0,0,0,1,0,28,11,0,0,39
+Study 24,ASIA,CHN,Site 507,Subject 3728,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,0,0,0,1,0,0,0,1,18,0,0,0,0,0,0,1,0,28,5,0,0,33
+Study 24,ASIA,CHN,Site 507,Subject 6384,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,CHN,Site 507,Subject 6385,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,CHN,Site 507,Subject 6386,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,CHN,Site 507,Subject 6387,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,CHN,Site 420,Subject 3234,Cycle 2 Day 15,On Trial,,,,,,,,,,5,44,0,,,,0,0,0,1,0,0,0,1,24,16,0,0,0,0,0,1,38,0,0,0,0,0
+Study 24,ASIA,CHN,Site 420,Subject 6457,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,0,,,,2,0,0,0,0,0,0,2,18,0,0,0,0,0,0,0,29,0,0,0,0,0
+Study 24,ASIA,CHN,Site 420,Subject 6458,Unplanned visit (6),On Trial,,,,,,,,,,4,62,0,,,,6,0,0,0,0,0,0,6,32,0,0,0,0,0,0,1,52,0,0,0,0,0
+Study 24,ASIA,CHN,Site 420,Subject 6459,Cycle 1 Day 1,On Trial,,,,,,,,,,2,26,0,,,,3,1,0,1,0,0,0,5,14,0,0,0,0,0,0,1,9,13,0,0,8,5
+Study 24,ASIA,CHN,Site 420,Subject 6460,Cycle 1 Day 1,On Trial,,,,,,,,,,2,28,0,,,,5,0,0,0,0,0,0,5,16,0,0,0,0,0,0,1,24,0,0,0,0,0
+Study 24,ASIA,CHN,Site 420,Subject 47696,Screening,Screening,,,,,,,,,,1,4,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0
+Study 24,ASIA,CHN,Site 421,Subject 3235,Screening,On Trial,,,,,,,,,,1,17,1,,,,1,0,0,9,0,0,0,10,15,0,0,0,0,0,0,0,0,19,0,0,0,19
+Study 24,ASIA,CHN,Site 421,Subject 3236,Cycle 1 Day 1,On Trial,,,,,,,,,,2,24,0,,,,0,0,0,14,0,0,0,14,14,0,0,0,0,0,0,2,0,20,0,0,0,20
+Study 24,ASIA,CHN,Site 423,Subject 3245,Cycle 1 Day 15,On Trial,,,,,,,,,,3,36,0,,,,0,0,0,3,0,0,0,3,25,8,0,0,0,0,0,0,0,32,0,0,0,32
+Study 24,ASIA,CHN,Site 423,Subject 3246,,Screening,,,,,,,,,,0,2,0,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Study 24,ASIA,CHN,Site 423,Subject 3247,Cycle 1 Day 15,On Trial,,,,,,,,,,3,36,0,,,,0,0,0,3,0,0,0,3,14,6,0,0,0,0,0,1,0,32,0,0,0,32
+Study 24,ASIA,CHN,Site 423,Subject 6489,Cycle 1 Day 15,On Trial,,,,,,,,,,3,32,0,,,,2,0,0,2,0,0,0,4,10,7,0,0,0,0,0,0,0,29,0,0,0,29
+Study 24,ASIA,CHN,Site 423,Subject 6490,Screening,On Trial,,,,,,,,,,1,26,0,,,,0,0,0,1,0,0,0,1,14,0,0,0,0,0,0,0,0,22,0,0,0,22
+Study 24,ASIA,CHN,Site 423,Subject 6491,Cycle 1 Day 1,On Trial,,,,,,,,,,2,28,0,,,,0,0,0,6,0,0,0,6,15,0,0,0,0,0,0,0,0,24,0,0,0,24
+Study 24,ASIA,CHN,Site 423,Subject 6492,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,CHN,Site 425,Subject 3256,Cycle 1 Day 15,On Trial,,,,,,,,,,3,30,0,,,,0,0,0,1,0,0,0,1,4,24,0,0,0,0,0,0,0,27,0,0,0,27
+Study 24,ASIA,CHN,Site 2183,Subject 47697,Screening,Screening,,,,,,,,,,1,10,0,,,,13,0,0,0,0,0,0,13,4,4,0,0,0,0,0,0,0,5,4,0,0,9
+Study 24,ASIA,CHN,Site 2183,Subject 47698,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,0,0,0,0,0,0,0,0,18,1,0,0,0,0,0,1,0,29,3,0,0,32
+Study 24,ASIA,CHN,Site 2183,Subject 47699,Cycle 2 Day 1,On Trial,,,,,,,,,,4,39,0,,,,7,0,0,0,0,0,0,7,19,1,0,0,0,0,0,1,0,31,4,0,0,35
+Study 24,ASIA,CHN,Site 2183,Subject 47700,Cycle 2 Day 1,On Trial,,,,,,,,,,4,40,0,,,,0,0,0,0,0,0,0,0,18,9,0,0,0,0,0,0,0,32,4,0,0,36
+Study 24,ASIA,CHN,Site 2183,Subject 47701,Cycle 2 Day 1,On Trial,,,,,,,,,,4,39,0,,,,0,0,0,0,0,0,0,0,19,1,0,0,0,0,0,0,0,35,0,0,0,35
+Study 24,ASIA,CHN,Site 2183,Subject 47702,Cycle 1 Day 15,On Trial,,,,,,,,,,3,70,0,,,,11,0,0,2,0,0,0,13,51,0,0,0,0,0,0,0,0,50,0,0,0,50
+Study 24,ASIA,CHN,Site 2184,Subject 47703,Cycle 2 Day 15,On Trial,,,,,,,,,,5,42,0,,,,5,0,0,2,0,0,0,7,17,21,0,0,0,0,0,0,37,0,0,0,0,0
+Study 24,ASIA,CHN,Site 2184,Subject 47704,Cycle 2 Day 15,On Trial,,,,,,,,,,5,42,0,,,,0,1,0,0,0,0,0,1,9,11,0,0,0,0,1,2,36,2,0,0,0,2
+Study 24,ASIA,CHN,Site 2184,Subject 47705,Cycle 2 Day 1,On Trial,,,,,,,,,,4,41,0,,,,1,0,0,0,0,0,0,1,14,7,0,0,0,0,0,2,30,7,0,0,4,3
+Study 24,ASIA,CHN,Site 2184,Subject 47706,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,CHN,Site 2184,Subject 47707,Cycle 1 Day 15,On Trial,,,,,,,,,,3,36,0,,,,0,1,0,1,0,0,0,2,20,0,0,0,0,0,0,2,31,2,0,0,1,1
+Study 24,ASIA,CHN,Site 2184,Subject 47708,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,1,1,0,4,0,0,0,6,19,0,0,0,0,0,1,2,32,0,0,0,0,0
+Study 24,ASIA,CHN,Site 2184,Subject 47709,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,2,1,0,0,0,0,0,3,19,0,0,0,0,0,0,2,30,1,0,0,1,0
+Study 24,ASIA,CHN,Site 2184,Subject 47710,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,ASIA,CHN,Site 2184,Subject 47711,Screening,Enrolled,,,,,,,,,,1,26,0,,,,1,1,0,1,0,0,0,3,14,0,0,0,0,0,1,1,19,4,0,0,3,1
+Study 24,ASIA,CHN,Site 2184,Subject 47712,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,ASIA,CHN,Site 426,Subject 3257,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,3,0,2,1,0,0,0,6,12,24,0,0,0,0,0,2,32,3,0,0,1,2
+Study 24,ASIA,CHN,Site 426,Subject 3258,Cycle 1 Day 15,On Trial,,,,,,,,,,3,38,0,,,,1,0,2,0,0,0,0,3,8,12,0,0,0,0,0,1,31,3,0,0,1,2
+Study 24,ASIA,CHN,Site 426,Subject 3259,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,2,0,0,0,0,0,0,2,7,0,0,0,0,0,0,2,11,1,0,0,0,1
+Study 24,ASIA,CHN,Site 426,Subject 3260,Cycle 1 Day 15,On Trial,,,,,,,,,,3,38,1,,,,2,0,3,0,0,0,0,5,7,13,0,0,0,0,0,1,32,2,0,0,0,2
+Study 24,ASIA,CHN,Site 426,Subject 47713,Cycle 1 Day 15,On Trial,,,,,,,,,,3,38,0,,,,3,0,0,1,0,0,0,4,20,0,0,0,0,0,0,2,25,9,0,0,2,7
+Study 24,ASIA,CHN,Site 426,Subject 47714,Cycle 1 Day 1,On Trial,,,,,,,,,,2,31,1,,,,4,0,0,1,0,0,0,5,14,0,0,0,0,0,0,2,4,23,0,0,0,23
+Study 24,ASIA,CHN,Site 426,Subject 47715,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,0,0,0
+Study 24,ASIA,CHN,Site 426,Subject 47716,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,2,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,7,0,0,0,7
+Study 24,ASIA,CHN,Site 2185,Subject 47717,Cycle 2 Day 15,On Trial,,,,,,,,,,5,40,0,,,,0,0,0,0,0,0,0,0,25,12,0,0,0,0,0,0,29,7,0,0,2,5
+Study 24,ASIA,CHN,Site 2185,Subject 47718,Cycle 2 Day 1,On Trial,,,,,,,,,,4,38,0,,,,0,0,1,0,0,0,0,1,18,0,0,0,0,0,0,0,27,4,0,0,2,2
+Study 24,ASIA,CHN,Site 2185,Subject 47719,Screening,Screening,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,0,0,0,0,0
+Study 24,ASIA,CHN,Site 2185,Subject 47720,Cycle 1 Day 1,On Trial,,,,,,,,,,2,30,0,,,,1,1,0,0,0,0,0,2,16,0,0,0,0,0,0,1,0,26,0,0,0,26
+Study 24,ASIA,CHN,Site 2185,Subject 47721,Cycle 1 Day 1,On Trial,,,,,,,,,,2,27,0,,,,1,0,0,0,0,0,0,1,14,0,0,0,0,0,0,1,0,23,0,0,0,23
+Study 24,ASIA,CHN,Site 2185,Subject 47722,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,CHN,Site 2185,Subject 47723,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,ASIA,CHN,Site 2186,Subject 47724,Cycle 3 Day 1,On Trial,,,,,,,,,,6,41,0,,,,2,0,0,2,0,0,0,4,22,17,0,0,0,0,0,0,24,14,0,0,6,8
+Study 24,ASIA,CHN,Site 2186,Subject 47725,Cycle 2 Day 15,On Trial,,,,,,,,,,5,40,0,,,,1,0,0,2,0,0,0,3,20,0,0,0,0,0,0,0,24,12,0,0,4,8
+Study 24,ASIA,CHN,Site 2186,Subject 47726,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,3,27,8,0,0,2,6
+Study 24,ASIA,CHN,Site 2186,Subject 47727,Cycle 1 Day 15,On Trial,,,,,,,,,,3,38,0,,,,1,0,0,0,0,0,0,1,21,0,0,0,0,0,0,0,0,33,0,0,0,33
+Study 24,ASIA,CHN,Site 2186,Subject 47728,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,0,,,,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,29,0,0,0,29
+Study 24,EMEA,DEU,Site 520,Subject 3767,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,2,,,,0,0,0,10,0,0,0,10,10,16,0,0,0,0,0,0,0,26,0,0,0,26
+Study 24,EMEA,DEU,Site 520,Subject 3768,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,0,,,,0,0,0,14,0,0,0,14,15,0,0,0,0,0,0,1,0,27,0,0,0,27
+Study 24,EMEA,DEU,Site 520,Subject 3769,Cycle 1 Day 1,On Trial,,,,,,,,,,2,39,1,,,,2,0,0,17,0,0,0,19,17,0,0,0,0,0,0,1,0,29,0,0,0,29
+Study 24,EMEA,DEU,Site 520,Subject 8867,Screening,Screening,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 24,EMEA,DEU,Site 520,Subject 8868,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,EMEA,DEU,Site 521,Subject 3770,Screening,Enrolled,,,,,,,,,,1,8,0,,,,1,0,0,3,0,0,0,4,1,3,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,EMEA,DEU,Site 521,Subject 3771,Cycle 3 Day 1,On Trial,,,,,,,,,,6,62,0,,,,1,5,0,0,0,0,0,6,25,31,0,0,0,0,0,0,55,0,0,0,0,0
+Study 24,EMEA,DEU,Site 521,Subject 3772,End of Treatment,Completed,,,,,,,,,,5,48,0,,,,5,6,0,0,0,0,0,11,9,13,0,0,0,0,0,1,45,0,0,0,0,0
+Study 24,EMEA,DEU,Site 521,Subject 3773,Cycle 2 Day 1,On Trial,,,,,,,,,,4,44,0,,,,0,0,1,0,0,0,0,1,20,0,0,0,0,0,0,1,39,0,0,0,0,0
+Study 24,EMEA,DEU,Site 521,Subject 8892,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,1,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,32,0,0,0,0,0
+Study 24,EMEA,DEU,Site 521,Subject 8893,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,1,,,,0,0,0,2,0,0,0,2,18,0,0,0,0,0,0,0,30,0,0,0,0,0
+Study 24,EMEA,DEU,Site 522,Subject 3774,Cycle 4 Day 1,On Trial,,,,,,,,,,7,61,0,,,,1,1,0,2,0,0,0,4,25,15,0,0,0,0,1,0,45,7,0,0,4,3
+Study 24,EMEA,DEU,Site 522,Subject 8927,Cycle 4 Day 1,On Trial,,,,,,,,,,7,50,1,,,,3,0,0,10,0,0,0,13,23,24,0,0,0,0,0,2,37,9,0,0,7,2
+Study 24,EMEA,DEU,Site 522,Subject 8928,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,31,5,0,0,2,3
+Study 24,EMEA,DEU,Site 875,Subject 8964,Cycle 5 Day 1,On Trial,,,,,,,,,,8,55,0,,,,0,0,0,0,0,0,0,0,26,27,0,0,0,0,0,0,46,6,0,0,3,3
+Study 24,EMEA,DEU,Site 875,Subject 8965,30 Day Safety Follow-up,On Trial,,,,,,,,,,8,54,0,,,,2,0,0,0,0,0,0,2,12,10,0,0,0,0,0,0,41,9,0,0,3,6
+Study 24,EMEA,DEU,Site 875,Subject 8966,Cycle 4 Day 1,On Trial,,,,,,,,,,7,51,0,,,,1,0,0,0,0,0,0,1,2,19,0,0,0,0,0,0,40,8,0,0,5,3
+Study 24,EMEA,DEU,Site 875,Subject 8967,Cycle 4 Day 1,On Trial,,,,,,,,,,7,51,0,,,,0,0,0,0,0,0,0,0,17,5,0,0,0,0,1,0,42,5,0,0,2,3
+Study 24,EMEA,DEU,Site 875,Subject 8968,Cycle 3 Day 1,On Trial,,,,,,,,,,6,45,0,,,,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,34,8,0,0,2,6
+Study 24,EMEA,DEU,Site 875,Subject 8969,Cycle 3 Day 1,On Trial,,,,,,,,,,6,49,0,,,,2,0,0,0,0,0,0,2,12,10,0,0,0,0,0,0,36,9,0,0,5,4
+Study 24,EMEA,DEU,Site 875,Subject 8970,Cycle 3 Day 1,On Trial,,,,,,,,,,6,50,1,,,,4,1,0,1,0,0,0,6,22,0,0,0,0,0,0,1,37,9,0,0,2,7
+Study 24,EMEA,DEU,Site 875,Subject 8971,Cycle 3 Day 1,On Trial,,,,,,,,,,6,49,0,,,,0,0,0,0,0,0,0,0,13,8,0,0,0,0,0,0,39,7,0,0,2,5
+Study 24,EMEA,DEU,Site 875,Subject 8972,Cycle 2 Day 15,On Trial,,,,,,,,,,5,47,0,,,,0,0,0,0,0,0,0,0,12,9,0,0,0,0,1,0,34,9,0,0,3,6
+Study 24,EMEA,DEU,Site 875,Subject 8973,Cycle 2 Day 15,On Trial,,,,,,,,,,5,58,0,,,,2,0,0,0,0,0,0,2,22,10,0,0,0,0,0,0,45,2,0,0,2,0
+Study 24,EMEA,DEU,Site 875,Subject 8974,Cycle 3 Day 1,On Trial,,,,,,,,,,6,50,0,,,,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,41,5,0,0,1,4
+Study 24,EMEA,DEU,Site 875,Subject 8975,Cycle 2 Day 15,On Trial,,,,,,,,,,5,46,0,,,,0,0,0,0,0,0,0,0,14,7,0,0,0,0,0,0,33,9,0,0,1,8
+Study 24,EMEA,DEU,Site 875,Subject 8976,Cycle 2 Day 15,On Trial,,,,,,,,,,5,47,0,,,,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,33,9,0,0,2,7
+Study 24,EMEA,DEU,Site 875,Subject 8977,Cycle 2 Day 1,On Trial,,,,,,,,,,4,43,0,,,,0,0,0,0,0,0,0,0,19,1,0,0,0,0,0,0,12,26,0,0,7,19
+Study 24,EMEA,DEU,Site 875,Subject 8978,Cycle 2 Day 15,On Trial,,,,,,,,,,5,48,0,,,,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,29,14,0,0,4,10
+Study 24,EMEA,DEU,Site 875,Subject 8979,Cycle 2 Day 1,On Trial,,,,,,,,,,4,45,0,,,,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,17,24,0,0,4,20
+Study 24,EMEA,DEU,Site 875,Subject 8980,Cycle 2 Day 1,On Trial,,,,,,,,,,4,44,1,,,,0,0,0,1,0,0,0,1,21,0,0,0,0,0,0,1,31,9,0,0,3,6
+Study 24,EMEA,DEU,Site 875,Subject 8981,Cycle 2 Day 1,On Trial,,,,,,,,,,4,50,0,,,,4,3,0,0,0,0,0,7,22,0,0,0,0,0,0,0,16,29,0,0,4,25
+Study 24,EMEA,DEU,Site 875,Subject 8982,Cycle 1 Day 15,On Trial,,,,,,,,,,3,40,0,,,,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,1,20,15,0,0,1,14
+Study 24,EMEA,DEU,Site 875,Subject 8983,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,1,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,29,0,0,0,29
+Study 24,EMEA,DEU,Site 875,Subject 8984,Screening,Enrolled,,,,,,,,,,1,26,0,,,,1,0,0,0,0,0,0,1,12,0,0,0,0,0,0,0,0,24,0,0,0,24
+Study 24,EMEA,DEU,Site 875,Subject 8985,Cycle 1 Day 1,On Trial,,,,,,,,,,2,37,0,,,,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,1,0,33,0,0,0,33
+Study 24,EMEA,DEU,Site 875,Subject 8986,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,0,0,0,1,0,0,0,1,20,0,0,0,0,0,0,0,0,31,0,0,0,31
+Study 24,EMEA,DEU,Site 876,Subject 8989,Cycle 1 Day 15,On Trial,,,,,,,,,,3,36,0,,,,1,0,0,0,0,0,0,1,6,27,0,0,0,0,0,0,0,33,0,0,0,33
+Study 24,EMEA,DEU,Site 876,Subject 8990,Cycle 1 Day 15,On Trial,,,,,,,,,,3,36,0,,,,0,0,0,0,0,0,0,0,2,16,0,0,0,0,0,0,0,33,0,0,0,33
+Study 24,EMEA,DEU,Site 876,Subject 8991,Cycle 1 Day 1,On Trial,,,,,,,,,,2,37,0,,,,0,0,0,0,0,0,0,0,9,12,0,0,0,0,0,2,0,33,0,0,0,33
+Study 24,EMEA,DEU,Site 876,Subject 8992,Screening,Screen Failure,,,,,,,,,,1,21,0,,,,2,0,0,0,0,0,0,2,8,5,0,0,0,0,0,0,0,18,0,0,0,18
+Study 24,EMEA,DEU,Site 876,Subject 8993,Cycle 1 Day 1,On Trial,,,,,,,,,,2,34,0,,,,1,0,0,0,0,0,0,1,13,5,0,0,0,0,0,2,0,30,0,0,0,30
+Study 24,EMEA,DEU,Site 876,Subject 8994,Screening,Enrolled,,,,,,,,,,1,24,0,,,,1,0,0,0,0,0,0,1,6,7,0,0,0,0,0,1,0,21,0,0,0,21
+Study 24,EMEA,DEU,Site 877,Subject 9060,Cycle 2 Day 15,On Trial,,,,,,,,,,5,45,0,,,,0,0,0,0,0,0,0,0,18,24,0,0,0,0,0,1,41,0,0,0,0,0
+Study 24,EMEA,DEU,Site 877,Subject 9061,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,EMEA,DEU,Site 877,Subject 9062,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,36,0,0,0,0,0
+Study 24,EMEA,DEU,Site 879,Subject 9110,Cycle 1 Day 15,On Trial,,,,,,,,,,3,41,0,,,,2,0,0,0,0,0,0,2,16,22,0,0,0,0,0,0,37,0,0,0,0,0
+Study 24,EMEA,DEU,Site 879,Subject 9111,Cycle 1 Day 1,On Trial,,,,,,,,,,2,37,0,,,,0,0,0,0,0,0,0,0,13,6,0,0,0,0,0,0,33,0,0,0,0,0
+Study 24,EMEA,DEU,Site 879,Subject 9112,Screening,Enrolled,,,,,,,,,,1,24,0,,,,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,21,0,0,0,0,0
+Study 24,EMEA,DEU,Site 879,Subject 9113,Screening,On Trial,,,,,,,,,,1,26,0,,,,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,24,0,0,0,0,0
+Study 24,EMEA,DEU,Site 880,Subject 9115,Screening,Screen Failure,,,,,,,,,,1,29,0,,,,0,0,0,0,0,0,0,0,3,11,0,0,0,0,0,0,18,0,3,0,0,3
+Study 24,EMEA,DEU,Site 880,Subject 9116,Cycle 2 Day 15,On Trial,,,,,,,,,,5,41,0,,,,1,0,0,0,0,0,0,1,5,33,0,0,0,0,0,0,0,15,22,0,0,37
+Study 24,EMEA,DEU,Site 880,Subject 9117,Cycle 1 Day 1,On Trial,,,,,,,,,,2,38,0,,,,2,0,0,0,0,0,0,2,6,14,0,0,0,0,0,0,0,22,9,0,0,31
+Study 24,EMEA,DEU,Site 880,Subject 9118,Cycle 1 Day 15,On Trial,,,,,,,,,,3,32,0,,,,1,1,0,0,1,0,0,3,6,7,0,0,0,0,0,0,0,16,6,0,0,22
+Study 24,EMEA,DEU,Site 880,Subject 9119,End of Treatment,On Trial,,,,,,,,,,4,52,0,,,,1,1,0,1,2,0,0,5,21,7,0,0,0,0,0,0,0,26,18,0,0,44
+Study 24,EMEA,DEU,Site 880,Subject 9120,Cycle 1 Day 15,On Trial,,,,,,,,,,3,41,0,,,,0,0,0,2,0,0,0,2,17,4,0,0,0,0,0,0,0,36,0,0,0,36
+Study 24,EMEA,DEU,Site 880,Subject 9121,Screening,Enrolled,,,,,,,,,,1,21,0,,,,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,15,0,0,0,15
+Study 24,EMEA,DEU,Site 880,Subject 9122,Screening,Enrolled,,,,,,,,,,1,25,0,,,,0,0,0,1,0,0,0,1,11,2,0,0,0,0,0,1,0,20,0,0,0,20
+Study 24,EMEA,DEU,Site 880,Subject 9123,Screening,Enrolled,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,EMEA,DEU,Site 880,Subject 9124,Screening,Enrolled,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,EMEA,DEU,Site 880,Subject 9125,Cycle 1 Day 15,On Trial,,,,,,,,,,3,28,0,,,,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,13,0,0,0,13
+Study 24,EMEA,DEU,Site 880,Subject 9126,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,EMEA,DEU,Site 883,Subject 9190,Cycle 3 Day 1,On Trial,,,,,,,,,,6,42,0,,,,8,0,0,0,0,0,0,8,20,17,0,0,0,0,0,0,0,13,23,0,0,36
+Study 24,EMEA,DEU,Site 883,Subject 9191,Cycle 2 Day 1,On Trial,,,,,,,,,,3,36,0,,,,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,12,20,0,0,32
+Study 24,EMEA,DEU,Site 883,Subject 9192,Cycle 2 Day 1,On Trial,,,,,,,,,,4,42,0,,,,9,0,0,0,0,0,0,9,19,0,0,0,0,0,0,0,0,19,16,0,0,35
+Study 24,EMEA,DEU,Site 884,Subject 9217,Cycle 2 Day 1,On Trial,,,,,,,,,,4,62,0,,,,0,0,0,3,0,0,0,3,23,35,0,0,0,0,0,2,0,19,29,0,0,48
+Study 24,EMEA,DEU,Site 884,Subject 9218,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,1,0,0,2,0,0,0,3,7,14,0,0,0,0,0,2,0,27,8,0,0,35
+Study 24,EMEA,DEU,Site 884,Subject 9219,Cycle 1 Day 15,On Trial,,,,,,,,,,3,33,0,,,,0,0,0,2,0,0,0,2,16,0,0,0,0,0,0,0,0,30,0,0,0,30
+Study 24,EMEA,DEU,Site 884,Subject 9220,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,33,0,0,0,33
+Study 24,EMEA,DEU,Site 887,Subject 9280,Cycle 2 Day 1,On Trial,,,,,,,,,,4,48,0,,,,0,0,0,2,1,0,0,3,20,25,0,0,0,0,0,1,0,40,4,0,0,44
+Study 24,EMEA,DEU,Site 887,Subject 9281,Cycle 1 Day 15,On Trial,,,,,,,,,,3,36,0,,,,0,0,0,0,0,0,0,0,17,2,0,0,0,0,0,0,0,33,0,0,0,33
+Study 24,EMEA,DEU,Site 888,Subject 9286,Screening,Enrolled,,,,,,,,,,1,22,0,,,,1,0,0,0,0,0,0,1,2,11,0,0,0,0,0,0,14,3,0,0,2,1
+Study 24,EMEA,DEU,Site 888,Subject 9287,End of Treatment,Discontinued,,,,,,,,,,6,110,0,,,,15,6,0,0,0,0,1,22,4,95,0,0,0,0,0,0,36,63,0,0,10,53
+Study 24,EMEA,DEU,Site 888,Subject 9288,Unplanned visit (12),On Trial,,,,,,,,,,4,110,0,,,,7,0,2,2,0,0,1,12,36,36,0,0,0,0,0,0,37,53,0,0,8,45
+Study 24,EMEA,DEU,Site 888,Subject 9289,Cycle 1 Day 1,Screen Failure,,,,,,,,,,2,40,0,,,,3,2,1,3,0,0,0,9,3,18,0,0,0,0,0,0,28,8,0,0,7,1
+Study 24,EMEA,DEU,Site 888,Subject 9290,Screening,Enrolled,,,,,,,,,,1,16,0,,,,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 24,EMEA,DEU,Site 888,Subject 9291,Cycle 3 Day 1,On Trial,,,,,,,,,,6,69,0,,,,0,1,0,12,0,0,0,13,11,49,0,0,0,0,0,0,41,18,0,0,5,13
+Study 24,EMEA,DEU,Site 888,Subject 9292,Screening,On Trial,,,,,,,,,,1,20,0,,,,4,0,0,6,0,0,0,10,8,1,0,0,0,0,0,0,15,1,0,0,0,1
+Study 24,EMEA,DEU,Site 888,Subject 9293,End of Treatment,On Trial,,,,,,,,,,4,41,0,,,,1,0,0,0,0,0,0,1,8,11,0,0,0,0,0,0,21,17,0,0,0,17
+Study 24,EMEA,DEU,Site 888,Subject 9294,Cycle 3 Day 1,On Trial,,,,,,,,,,6,51,1,,,,0,0,0,5,0,0,0,5,10,12,0,0,0,0,0,0,39,5,0,0,0,5
+Study 24,EMEA,DEU,Site 888,Subject 9295,Screening,Enrolled,,,,,,,,,,1,20,0,,,,0,0,0,1,0,0,0,1,9,0,0,0,0,0,1,0,13,0,0,0,0,0
+Study 24,EMEA,DEU,Site 888,Subject 9296,Cycle 1 Day 1,On Trial,,,,,,,,,,2,30,0,,,,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,24,0,0,0,24
+Study 24,EMEA,DEU,Site 888,Subject 9297,Cycle 2 Day 1,On Trial,,,,,,,,,,4,51,0,,,,0,0,0,2,0,0,0,2,15,9,0,0,0,0,0,0,33,14,0,0,4,10
+Study 24,EMEA,DEU,Site 888,Subject 9298,Cycle 2 Day 15,On Trial,,,,,,,,,,5,49,0,,,,2,0,0,3,0,0,0,5,21,0,0,0,0,0,0,0,0,41,0,0,0,41
+Study 24,EMEA,DEU,Site 888,Subject 9299,Cycle 2 Day 1,On Trial,,,,,,,,,,4,44,0,,,,1,0,0,1,0,0,0,2,20,0,0,0,0,0,0,1,3,36,0,0,8,28
+Study 24,EMEA,DEU,Site 888,Subject 9300,Cycle 2 Day 15,On Trial,,,,,,,,,,5,52,0,,,,2,0,0,0,0,0,0,2,3,18,0,0,0,0,0,1,30,17,0,0,8,9
+Study 24,EMEA,DEU,Site 888,Subject 9301,Cycle 2 Day 15,On Trial,,,,,,,,,,5,45,0,,,,1,1,0,4,0,0,0,6,19,0,0,0,0,0,0,1,0,36,0,0,0,36
+Study 24,EMEA,DEU,Site 888,Subject 9302,Cycle 2 Day 1,On Trial,,,,,,,,,,4,37,0,,,,1,1,0,5,0,0,0,7,3,14,0,0,0,0,0,1,0,30,0,0,0,30
+Study 24,EMEA,DEU,Site 888,Subject 9303,Unplanned visit (1),On Trial,,,,,,,,,,4,51,0,,,,0,0,0,1,0,0,0,1,22,0,0,0,0,0,1,1,0,43,0,0,0,43
+Study 24,EMEA,DEU,Site 888,Subject 9304,Cycle 2 Day 1,On Trial,,,,,,,,,,4,34,0,,,,0,0,0,0,0,0,0,0,2,11,0,0,0,0,0,0,0,25,0,0,0,25
+Study 24,EMEA,DEU,Site 888,Subject 9305,Cycle 1 Day 15,On Trial,,,,,,,,,,3,31,0,,,,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,24,0,0,0,24
+Study 24,EMEA,DEU,Site 888,Subject 9306,Cycle 1 Day 15,On Trial,,,,,,,,,,3,30,0,,,,1,0,0,0,0,0,0,1,14,0,0,0,0,0,0,0,0,23,0,0,0,23
+Study 24,EMEA,DEU,Site 888,Subject 9307,Cycle 1 Day 15,On Trial,,,,,,,,,,3,32,0,,,,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,27,0,0,0,27
+Study 24,EMEA,DEU,Site 888,Subject 9308,Screening,Enrolled,,,,,,,,,,1,24,0,,,,1,0,0,0,0,0,0,1,11,0,0,0,0,0,0,0,0,18,0,0,0,18
+Study 24,EMEA,DEU,Site 281,Subject 2364,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,32,0,0,0,32
+Study 24,EMEA,DEU,Site 281,Subject 2365,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,2,0,0,0,0,0,0,2,19,0,0,0,0,0,0,0,0,34,0,0,0,34
+Study 24,EMEA,DEU,Site 281,Subject 2366,Cycle 2 Day 1,On Trial,,,,,,,,,,4,46,0,,,,3,0,0,4,2,0,0,9,10,13,0,0,0,0,0,2,0,42,0,0,0,42
+Study 24,EMEA,DEU,Site 281,Subject 9328,Unplanned visit (1),On Trial,,,,,,,,,,3,49,0,,,,1,2,0,0,0,0,0,3,20,8,0,0,0,0,0,1,0,43,0,0,0,43
+Study 24,EMEA,DEU,Site 281,Subject 9329,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,1,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,31,0,0,0,31
+Study 24,EMEA,DEU,Site 281,Subject 9330,Screening,Enrolled,,,,,,,,,,1,23,0,,,,1,0,0,0,0,0,0,1,12,0,0,0,0,0,0,0,0,21,0,0,0,21
+Study 24,EMEA,DEU,Site 281,Subject 9331,Screening,Enrolled,,,,,,,,,,1,27,0,,,,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,1,0,24,0,0,0,24
+Study 24,EMEA,DEU,Site 281,Subject 9332,Cycle 1 Day 1,On Trial,,,,,,,,,,2,37,0,,,,0,1,0,1,0,0,0,2,19,0,0,0,0,0,0,1,0,33,0,0,0,33
+Study 24,EMEA,DEU,Site 281,Subject 9333,Cycle 1 Day 15,On Trial,,,,,,,,,,3,47,0,,,,0,0,1,0,3,0,0,4,15,10,0,0,0,0,0,0,0,43,0,0,0,43
+Study 24,EMEA,DEU,Site 281,Subject 9334,Screening,Enrolled,,,,,,,,,,1,25,0,,,,3,0,0,0,0,0,0,3,12,0,0,0,0,0,0,3,0,22,0,0,0,22
+Study 24,EMEA,DEU,Site 281,Subject 9335,Cycle 1 Day 1,On Trial,,,,,,,,,,2,37,0,,,,0,2,0,1,0,0,0,3,19,0,0,0,0,0,0,1,0,32,0,0,0,32
+Study 24,EMEA,DEU,Site 281,Subject 9336,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,33,0,0,0,33
+Study 24,EMEA,DEU,Site 281,Subject 9337,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,2,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,7,0,0,0,7
+Study 24,EMEA,DEU,Site 281,Subject 9338,Screening,Enrolled,,,,,,,,,,1,23,0,,,,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,21,0,0,0,21
+Study 24,EMEA,DEU,Site 281,Subject 9339,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,1,0,0,0,0,0,0,1,17,0,0,0,0,0,0,0,0,32,0,0,0,32
+Study 24,EMEA,DEU,Site 281,Subject 47729,Screening,Enrolled,,,,,,,,,,1,25,0,,,,1,0,0,0,0,0,0,1,13,0,0,0,0,0,0,1,0,22,0,0,0,22
+Study 24,EMEA,DEU,Site 281,Subject 47730,Screening,Enrolled,,,,,,,,,,1,25,0,,,,2,0,0,0,0,0,0,2,13,0,0,0,0,0,0,2,0,23,0,0,0,23
+Study 24,EMEA,DEU,Site 281,Subject 47731,Screening,Enrolled,,,,,,,,,,1,26,0,,,,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,1,0,23,0,0,0,23
+Study 24,EMEA,DEU,Site 281,Subject 47732,,Screening,,,,,,,,,,0,2,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Study 24,EMEA,DEU,Site 281,Subject 47733,Screening,Enrolled,,,,,,,,,,1,24,0,,,,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,22,0,0,0,22
+Study 24,EMEA,DEU,Site 281,Subject 47734,Screening,Enrolled,,,,,,,,,,1,23,0,,,,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,20,0,0,0,20
+Study 24,EMEA,DEU,Site 281,Subject 47735,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,2,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,7,0,0,0,7
+Study 24,EMEA,DEU,Site 281,Subject 47736,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,EMEA,DEU,Site 2187,Subject 47737,Cycle 3 Day 1,On Trial,,,,,,,,,,6,48,0,,,,20,0,0,3,0,0,0,23,12,32,0,0,0,0,0,0,35,6,0,0,2,4
+Study 24,EMEA,DEU,Site 2187,Subject 47738,Screening,Enrolled,,,,,,,,,,1,15,0,,,,2,0,0,0,0,0,0,2,2,5,0,0,0,0,0,0,10,1,0,0,1,0
+Study 24,EMEA,DEU,Site 2187,Subject 47739,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,33,0,0,4,1,0,0,38,14,6,0,0,0,0,0,1,23,10,0,0,3,7
+Study 24,EMEA,DEU,Site 2187,Subject 47740,Cycle 1 Day 1,On Trial,,,,,,,,,,2,31,0,,,,23,0,0,3,2,0,0,28,11,5,0,0,0,0,0,1,14,11,0,0,2,9
+Study 24,EMEA,DEU,Site 2187,Subject 47741,Screening,Enrolled,,,,,,,,,,1,17,0,,,,0,0,0,0,1,0,0,1,3,6,0,0,0,0,0,0,14,0,0,0,0,0
+Study 24,EMEA,DEU,Site 2187,Subject 47742,Cycle 1 Day 1,On Trial,,,,,,,,,,2,31,0,,,,1,1,0,1,0,0,0,3,14,0,0,0,0,0,0,1,16,9,0,0,1,8
+Study 24,EMEA,DEU,Site 2187,Subject 47743,Screening,Enrolled,,,,,,,,,,1,21,0,,,,23,0,0,0,2,0,0,25,5,5,0,0,0,0,0,0,15,3,0,0,3,0
+Study 24,EMEA,DEU,Site 904,Subject 9600,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,0,0,0,15,0,0,0,15,3,25,0,0,0,0,0,0,0,26,0,0,0,26
+Study 24,EMEA,DEU,Site 904,Subject 9601,Screening,Enrolled,,,,,,,,,,1,20,0,,,,0,0,0,0,0,0,0,0,1,10,0,0,0,0,0,0,0,16,0,0,0,16
+Study 24,EMEA,DEU,Site 904,Subject 9602,,Screening,,,,,,,,,,0,3,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,2
+Study 24,EMEA,DEU,Site 904,Subject 9603,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,EMEA,DEU,Site 286,Subject 2386,Cycle 4 Day 1,On Trial,,,,,,,,,,7,50,0,,,,4,1,0,0,0,0,0,5,20,28,0,0,0,0,0,0,37,10,0,0,6,4
+Study 24,EMEA,DEU,Site 286,Subject 2387,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,4,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,3,3,0,0,1,2
+Study 24,EMEA,DEU,Site 286,Subject 2388,Cycle 2 Day 15,On Trial,,,,,,,,,,5,44,0,,,,0,0,0,0,0,0,0,0,18,2,0,0,0,0,0,0,30,10,0,0,3,7
+Study 24,EMEA,DEU,Site 286,Subject 2389,Cycle 2 Day 15,On Trial,,,,,,,,,,5,48,0,,,,3,1,0,1,0,0,0,5,22,2,0,0,0,0,1,0,31,13,0,0,3,10
+Study 24,EMEA,DEU,Site 286,Subject 2390,Cycle 1 Day 15,On Trial,,,,,,,,,,3,36,0,,,,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,19,15,0,0,1,14
+Study 24,EMEA,DEU,Site 286,Subject 9776,Cycle 1 Day 15,On Trial,,,,,,,,,,3,33,0,,,,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,3,26,0,0,1,25
+Study 24,EMEA,DEU,Site 286,Subject 9777,Screening,Enrolled,,,,,,,,,,1,22,0,,,,2,0,0,1,0,0,0,3,12,0,0,0,0,0,0,0,3,18,0,0,1,17
+Study 24,EMEA,DEU,Site 286,Subject 9778,Screening,Enrolled,,,,,,,,,,1,21,0,,,,1,0,0,0,0,0,0,1,12,0,0,0,0,0,0,0,0,19,0,0,0,19
+Study 24,EMEA,ISR,Site 2188,Subject 47744,Unplanned visit (6),On Trial,,,,,,,,,,6,74,0,,,,2,0,0,7,0,0,0,9,12,52,0,0,0,0,0,1,52,11,0,0,3,8
+Study 24,EMEA,ISR,Site 2188,Subject 47745,Cycle 3 Day 1,On Trial,,,,,,,,,,6,43,0,,,,0,1,0,4,0,0,0,5,15,3,0,0,0,0,0,0,33,6,0,0,4,2
+Study 24,EMEA,ISR,Site 2188,Subject 47746,Cycle 2 Day 1,On Trial,,,,,,,,,,4,44,0,,,,0,0,0,1,0,0,0,1,20,0,0,0,0,0,0,1,29,9,0,0,1,8
+Study 24,EMEA,ISR,Site 524,Subject 3778,Cycle 1 Day 15,On Trial,,,,,,,,,,3,40,0,,,,1,0,0,0,5,0,0,6,16,21,0,0,0,0,0,1,0,35,0,0,0,35
+Study 24,EMEA,ISR,Site 525,Subject 3782,Cycle 3 Day 1,On Trial,,,,,,,,,,6,52,0,,,,0,4,1,0,0,0,0,5,30,19,0,0,0,0,0,3,41,5,0,0,5,0
+Study 24,EMEA,ISR,Site 525,Subject 47747,Screening,Screen Failure,,,,,,,,,,1,22,0,,,,0,0,0,0,0,0,0,0,7,6,0,0,0,0,0,0,19,1,0,0,1,0
+Study 24,EMEA,ISR,Site 525,Subject 47748,Cycle 3 Day 1,On Trial,,,,,,,,,,6,50,0,,,,1,0,2,0,0,0,0,3,10,14,0,0,0,0,0,0,39,6,0,1,2,5
+Study 24,EMEA,ISR,Site 525,Subject 47749,Cycle 3 Day 1,On Trial,,,,,,,,,,6,47,0,,,,0,3,1,3,0,0,0,7,22,0,0,0,0,0,0,0,34,8,0,0,4,4
+Study 24,EMEA,ISR,Site 1791,Subject 34337,Cycle 3 Day 1,On Trial,,,,,,,,,,6,51,0,,,,3,0,0,1,0,0,0,4,29,13,0,0,0,0,0,0,32,6,0,0,3,3
+Study 24,EMEA,ISR,Site 1791,Subject 34338,Cycle 3 Day 1,On Trial,,,,,,,,,,6,50,0,,,,0,0,0,1,0,0,0,1,16,4,0,0,0,0,0,0,32,4,0,0,2,2
+Study 24,EMEA,ISR,Site 1791,Subject 34339,Cycle 3 Day 1,On Trial,,,,,,,,,,6,51,0,,,,0,1,0,0,0,0,0,1,15,4,0,0,0,0,0,1,30,8,0,0,5,3
+Study 24,EMEA,PRT,Site 349,Subject 2829,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,0,,,,0,0,0,7,0,0,0,7,15,15,0,0,0,0,0,0,0,30,0,0,0,30
+Study 24,EMEA,PRT,Site 349,Subject 2830,Screening,Screen Failure,,,,,,,,,,1,13,0,,,,1,0,0,2,0,0,0,3,4,4,0,0,0,0,0,1,0,10,0,0,0,10
+Study 24,EMEA,PRT,Site 1846,Subject 35377,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,EMEA,PRT,Site 1846,Subject 35378,Screening,Screening,,,,,,,,,,1,4,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 24,EMEA,PRT,Site 530,Subject 3799,Cycle 1 Day 1,On Trial,,,,,,,,,,2,38,0,,,,3,0,0,4,3,0,0,10,21,10,0,0,0,0,0,0,0,29,0,0,0,29
+Study 24,EMEA,PRT,Site 530,Subject 35413,Cycle 1 Day 1,On Trial,,,,,,,,,,2,30,0,,,,3,0,0,0,1,0,0,4,13,1,0,0,0,0,0,1,0,21,0,0,0,21
+Study 24,EMEA,PRT,Site 530,Subject 35414,Cycle 1 Day 1,On Trial,,,,,,,,,,2,30,0,,,,2,0,0,6,0,0,0,8,9,0,0,0,0,0,0,0,0,16,0,0,0,16
+Study 24,EMEA,PRT,Site 530,Subject 35415,Cycle 1 Day 1,On Trial,,,,,,,,,,2,30,0,,,,1,0,0,2,0,0,0,3,15,0,0,0,0,0,0,0,0,20,0,0,0,20
+Study 24,EMEA,PRT,Site 530,Subject 35416,Screening,Screening,,,,,,,,,,1,4,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 24,AMERICA,CAN,Site 1962,Subject 38936,Screening,Screening,,,,,,,,,,1,6,0,,,,0,0,0,1,0,0,0,1,5,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 24,AMERICA,CAN,Site 1962,Subject 38937,Screening,Enrolled,,,,,,,,,,1,22,1,,,,0,0,0,2,0,0,0,2,11,0,0,0,0,0,0,0,0,18,0,0,0,18
+Study 24,AMERICA,CAN,Site 952,Subject 13635,Cycle 1 Day 15,On Trial,,,,,,,,,,3,35,0,,,,0,0,0,2,7,0,0,9,30,0,0,0,0,0,0,2,29,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 952,Subject 13636,,Screening,,,,,,,,,,0,2,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 952,Subject 13637,Cycle 1 Day 15,On Trial,,,,,,,,,,3,31,0,,,,0,0,0,3,0,0,0,3,14,0,0,0,0,0,1,1,25,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 952,Subject 13638,Screening,Screening,,,,,,,,,,1,4,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 952,Subject 13639,Screening,On Trial,,,,,,,,,,2,29,0,,,,0,0,0,3,0,0,0,3,13,0,0,0,0,0,0,1,24,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 952,Subject 13640,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 953,Subject 13650,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 953,Subject 13651,Cycle 3 Day 1,On Trial,,,,,,,,,,6,53,0,,,,2,3,0,0,0,0,0,5,25,20,0,0,0,0,1,0,32,12,0,0,7,5
+Study 24,AMERICA,CAN,Site 953,Subject 13652,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,0,3,0,1,0,0,0,4,21,0,0,0,0,0,0,0,32,4,0,0,1,3
+Study 24,AMERICA,CAN,Site 953,Subject 13653,Cycle 1 Day 15,On Trial,,,,,,,,,,3,44,0,,,,0,1,0,0,0,0,0,1,23,0,0,0,0,0,0,0,34,5,0,0,1,4
+Study 24,AMERICA,CAN,Site 953,Subject 13654,Screening,Enrolled,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 953,Subject 13655,Cycle 1 Day 1,On Trial,,,,,,,,,,2,39,0,,,,0,1,0,0,0,0,0,1,21,0,0,0,0,0,0,0,32,2,0,0,2,0
+Study 24,AMERICA,CAN,Site 953,Subject 13656,Cycle 1 Day 15,On Trial,,,,,,,,,,3,39,0,,,,0,1,0,0,0,0,0,1,17,0,0,0,0,0,0,1,23,4,0,0,2,2
+Study 24,AMERICA,CAN,Site 953,Subject 47750,Cycle 1 Day 15,On Trial,,,,,,,,,,3,41,0,,,,0,1,1,0,0,0,0,2,21,0,0,0,0,0,0,3,28,6,0,0,3,3
+Study 24,AMERICA,CAN,Site 953,Subject 47751,Cycle 1 Day 1,On Trial,,,,,,,,,,2,38,0,,,,0,0,0,1,0,0,0,1,21,0,0,0,0,0,0,1,31,1,0,0,1,0
+Study 24,AMERICA,CAN,Site 953,Subject 47752,Cycle 1 Day 15,On Trial,,,,,,,,,,3,43,0,,,,0,1,0,0,0,0,0,1,19,0,0,0,0,0,0,1,27,6,0,0,2,4
+Study 24,AMERICA,CAN,Site 953,Subject 47753,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,0,1,0,0,0,0,0,1,16,0,0,0,0,0,0,2,21,4,0,0,4,0
+Study 24,AMERICA,CAN,Site 954,Subject 13657,Screening,Screen Failure,,,,,,,,,,0,8,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,7,0,0,0,7
+Study 24,AMERICA,CAN,Site 954,Subject 13658,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,1,0,0,1,0,0,0,2,6,29,0,0,0,0,0,2,0,34,0,0,0,34
+Study 24,AMERICA,CAN,Site 955,Subject 13667,Cycle 5 Day 1,On Trial,,,,,,,,,,8,60,0,,,,0,0,0,2,0,0,0,2,16,37,0,0,0,0,2,0,48,3,0,0,1,2
+Study 24,AMERICA,CAN,Site 955,Subject 13668,Cycle 3 Day 1,On Trial,,,,,,,,,,6,47,0,,,,0,1,0,3,2,0,0,6,13,6,0,0,0,0,0,1,36,6,0,0,6,0
+Study 24,AMERICA,CAN,Site 955,Subject 13669,Screening,Screen Failure,,,,,,,,,,0,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 955,Subject 13670,Cycle 2 Day 1,On Trial,,,,,,,,,,4,45,0,,,,0,0,0,0,0,0,0,0,14,5,0,0,0,0,0,0,30,9,0,0,9,0
+Study 24,AMERICA,CAN,Site 955,Subject 13671,Cycle 2 Day 15,On Trial,,,,,,,,,,5,43,0,,,,0,0,0,4,0,0,0,4,18,1,0,0,0,0,0,0,27,11,0,0,9,2
+Study 24,AMERICA,CAN,Site 955,Subject 38951,Cycle 2 Day 1,On Trial,,,,,,,,,,4,48,0,,,,1,0,0,9,2,0,0,12,22,0,0,0,0,0,0,0,25,17,0,0,11,6
+Study 24,AMERICA,CAN,Site 955,Subject 38952,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,21,6,0,0,6,0
+Study 24,AMERICA,CAN,Site 955,Subject 38953,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,6,1,0,0,1,0
+Study 24,AMERICA,CAN,Site 955,Subject 47754,Screening,Enrolled,,,,,,,,,,0,7,0,,,,0,0,0,1,0,0,0,1,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,AMERICA,CAN,Site 955,Subject 47755,Cycle 1 Day 15,On Trial,,,,,,,,,,3,38,0,,,,0,0,0,4,3,0,0,7,18,0,0,0,0,0,0,0,29,6,0,0,3,3
+Study 24,AMERICA,CAN,Site 955,Subject 47756,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,1,,,,0,0,0,2,0,0,0,2,18,0,0,0,0,0,0,0,27,4,0,0,3,1
+Study 24,AMERICA,CAN,Site 955,Subject 47757,Cycle 1 Day 1,On Trial,,,,,,,,,,2,32,0,,,,0,0,0,21,1,0,0,22,14,0,0,0,0,0,0,0,0,29,0,0,1,28
+Study 24,AMERICA,CAN,Site 955,Subject 47758,Screening,Enrolled,,,,,,,,,,1,23,0,,,,2,0,0,1,0,0,0,3,12,0,0,0,0,0,0,1,11,8,0,0,8,0
+Study 24,AMERICA,CAN,Site 955,Subject 47759,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,7,0,0,10,0,0,0,17,16,0,0,0,0,0,0,6,17,14,0,0,9,5
+Study 24,AMERICA,CAN,Site 955,Subject 47760,Cycle 1 Day 1,On Trial,,,,,,,,,,2,33,0,,,,3,0,0,4,0,0,0,7,16,0,0,0,0,0,0,0,0,30,0,0,0,30
+Study 24,AMERICA,CAN,Site 955,Subject 47761,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,0,0,0
+Study 24,AMERICA,CAN,Site 955,Subject 47762,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,AMERICA,CAN,Site 963,Subject 13826,Cycle 4 Day 1,On Trial,,,,,,,,,,6,51,0,,,,4,0,0,0,0,0,0,4,8,40,0,0,0,0,0,0,26,19,1,0,10,10
+Study 24,AMERICA,CAN,Site 963,Subject 13827,Cycle 4 Day 1,On Trial,,,,,,,,,,7,53,0,,,,2,0,0,2,0,0,0,4,8,16,0,0,0,0,0,0,22,18,9,0,15,12
+Study 24,AMERICA,CAN,Site 963,Subject 13828,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,3,0,3,0,1,2
+Study 24,AMERICA,CAN,Site 963,Subject 13829,Cycle 4 Day 1,On Trial,,,,,,,,,,7,59,0,,,,10,1,0,0,0,0,0,11,12,16,0,0,0,0,0,0,16,18,17,0,16,19
+Study 24,AMERICA,CAN,Site 963,Subject 13830,Screening,Screen Failure,,,,,,,,,,0,7,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,5,0,2,3
+Study 24,AMERICA,CAN,Site 963,Subject 13831,Screening,Screening,,,,,,,,,,0,5,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,3,0,2,1
+Study 24,AMERICA,CAN,Site 963,Subject 13832,Cycle 4 Day 1,On Trial,,,,,,,,,,7,54,0,,,,3,0,0,1,0,0,0,4,5,20,0,0,0,0,0,0,22,15,12,0,12,15
+Study 24,AMERICA,CAN,Site 963,Subject 13833,Cycle 3 Day 1,On Trial,,,,,,,,,,6,53,0,,,,1,0,0,0,0,0,0,1,9,17,0,0,0,0,0,1,2,12,35,0,0,47
+Study 24,AMERICA,CAN,Site 963,Subject 13834,Cycle 2 Day 15,On Trial,,,,,,,,,,5,45,0,,,,1,0,0,0,0,0,0,1,5,15,0,0,0,0,0,0,0,22,19,0,1,40
+Study 24,AMERICA,CAN,Site 963,Subject 13835,Cycle 2 Day 1,On Trial,,,,,,,,,,4,44,1,,,,7,0,0,13,0,0,0,20,16,4,0,0,0,0,0,1,0,32,0,0,1,31
+Study 24,AMERICA,CAN,Site 963,Subject 13836,Cycle 2 Day 15,On Trial,,,,,,,,,,5,45,0,,,,0,0,0,1,0,0,0,1,11,9,0,0,0,0,0,0,2,23,16,0,0,39
+Study 24,AMERICA,CAN,Site 963,Subject 13837,Cycle 2 Day 1,On Trial,,,,,,,,,,4,46,0,,,,1,0,1,5,0,0,0,7,11,10,0,0,0,0,0,0,0,42,0,0,1,41
+Study 24,AMERICA,CAN,Site 963,Subject 13838,,Screening,,,,,,,,,,0,2,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+Study 24,AMERICA,CAN,Site 963,Subject 13839,Cycle 2 Day 1,On Trial,,,,,,,,,,4,43,0,,,,1,0,0,0,0,0,0,1,15,4,0,0,0,0,0,0,0,33,1,0,0,34
+Study 24,AMERICA,CAN,Site 963,Subject 39017,Cycle 1 Day 15,On Trial,,,,,,,,,,3,37,0,,,,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,32,1,0,0,33
+Study 24,AMERICA,CAN,Site 963,Subject 39018,Cycle 1 Day 1,On Trial,,,,,,,,,,2,26,0,,,,0,0,0,1,0,0,0,1,11,0,0,0,0,0,0,1,0,18,0,0,0,18
+Study 24,AMERICA,CAN,Site 963,Subject 39019,,Enrolled,,,,,,,,,,0,11,0,,,,1,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,0,8,0,0,0,8
+Study 24,AMERICA,MEX,Site 986,Subject 14214,Screening,Enrolled,,,,,,,,,,1,22,0,,,,0,1,0,0,0,0,0,1,20,0,0,0,0,0,0,0,0,18,0,0,0,18
+Study 24,AMERICA,USA,Site 1018,Subject 14933,Screening,Screen Failure,,,,,,,,,,0,8,0,,,,1,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,AMERICA,USA,Site 1018,Subject 14934,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,4,0,0,0,0,0,0,4,33,0,0,0,0,0,0,1,32,0,0,0,0,0
+Study 24,AMERICA,USA,Site 1018,Subject 14935,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,6,2,0,0,0,0,0,8,18,0,0,0,0,0,0,1,32,0,0,0,0,0
+Study 24,AMERICA,USA,Site 1018,Subject 14936,Cycle 1 Day 1,On Trial,,,,,,,,,,2,41,0,,,,8,0,0,0,0,0,0,8,23,0,0,0,0,0,0,1,37,0,0,0,0,0
+Study 24,AMERICA,USA,Site 178,Subject 1600,Cycle 3 Day 1,On Trial,,,,,,,,,,6,63,0,,,,2,2,0,0,0,0,0,4,2,54,0,0,0,0,0,0,41,11,0,0,4,7
+Study 24,AMERICA,USA,Site 178,Subject 3393,Unplanned visit (9),On Trial,,,,,,,,,,6,89,0,,,,0,0,1,0,0,0,0,1,8,37,0,0,0,0,0,0,41,34,0,0,6,28
+Study 24,AMERICA,USA,Site 178,Subject 3394,Cycle 3 Day 1,On Trial,,,,,,,,,,6,56,0,,,,0,4,1,0,0,0,0,5,1,24,0,0,0,0,0,0,35,11,0,0,7,4
+Study 24,AMERICA,USA,Site 178,Subject 40402,Cycle 2 Day 1,On Trial,,,,,,,,,,4,50,0,,,,0,0,1,0,0,0,0,1,2,22,0,0,0,0,0,0,29,13,0,0,3,10
+Study 24,AMERICA,USA,Site 178,Subject 40403,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,1,0,0,3,0,0,0,4,15,3,0,0,0,0,0,1,1,30,0,0,2,28
+Study 24,AMERICA,USA,Site 326,Subject 2652,Cycle 2 Day 1,On Trial,,,,,,,,,,4,48,0,,,,3,0,2,5,1,0,0,11,11,32,0,0,0,0,0,2,0,12,30,0,0,42
+Study 24,AMERICA,USA,Site 326,Subject 2653,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,1,,,,10,0,0,14,1,0,0,25,12,7,0,0,0,0,0,2,0,30,1,0,0,31
+Study 24,AMERICA,USA,Site 326,Subject 2654,Cycle 1 Day 1,On Trial,,,,,,,,,,2,38,0,,,,1,1,0,4,0,0,0,6,10,11,0,0,0,0,0,1,0,32,0,0,0,32
+Study 24,AMERICA,USA,Site 326,Subject 2655,,Screening,,,,,,,,,,0,3,0,,,,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,2,0,0,0,2
+Study 24,AMERICA,USA,Site 327,Subject 2664,Cycle 7 Day 1,On Trial,,,,,,,,,,10,62,0,,,,3,0,0,1,0,0,0,4,6,43,0,0,0,0,0,1,44,14,0,0,4,10
+Study 24,AMERICA,USA,Site 327,Subject 2665,Cycle 5 Day 1,On Trial,,,,,,,,,,7,54,0,,,,2,0,0,0,0,0,0,2,3,17,0,0,0,0,0,0,39,8,0,0,4,4
+Study 24,AMERICA,USA,Site 536,Subject 3821,Screening,Screen Failure,,,,,,,,,,1,21,0,,,,2,0,0,0,3,0,0,5,7,3,0,0,0,0,0,0,0,1,0,16,0,17
+Study 24,AMERICA,USA,Site 536,Subject 3822,30 Day Safety Follow-up,Discontinued,,,,,,,,,,4,46,0,,,,12,0,3,1,7,0,0,23,23,18,0,0,0,0,0,0,0,13,18,9,0,40
+Study 24,AMERICA,USA,Site 536,Subject 3823,Cycle 2 Day 1,On Trial,,,,,,,,,,4,44,0,,,,3,0,2,4,1,0,0,10,16,4,0,0,0,0,0,0,0,12,25,0,0,37
+Study 24,AMERICA,USA,Site 536,Subject 3824,Screening,Screen Failure,,,,,,,,,,0,7,0,,,,1,0,0,0,1,0,0,2,3,1,0,0,0,0,0,0,0,5,1,0,0,6
+Study 24,AMERICA,USA,Site 536,Subject 40719,Screening,Screening,,,,,,,,,,0,7,0,,,,2,0,0,0,2,0,0,4,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,AMERICA,USA,Site 536,Subject 40720,Screening,Screening,,,,,,,,,,0,7,0,,,,1,0,0,0,2,0,0,3,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,AMERICA,USA,Site 536,Subject 40721,Screening,Screening,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,AMERICA,USA,Site 536,Subject 40722,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,2,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 24,AMERICA,USA,Site 2008,Subject 41054,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,1,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,AMERICA,USA,Site 594,Subject 4014,Cycle 4 Day 1,On Trial,,,,,,,,,,7,52,0,,,,3,12,1,1,0,0,0,17,11,38,0,0,0,0,0,0,35,12,0,1,6,7
+Study 24,AMERICA,USA,Site 594,Subject 4015,Cycle 1 Day 1,On Trial,,,,,,,,,,2,44,0,,,,2,0,0,8,0,0,0,10,21,0,0,0,0,0,0,0,0,36,0,0,0,36
+Study 24,AMERICA,USA,Site 338,Subject 2749,Cycle 1 Day 15,On Trial,,,,,,,,,,3,43,0,,,,3,0,0,1,0,0,0,4,15,25,0,0,0,0,0,0,39,0,0,0,0,0
+Study 24,AMERICA,USA,Site 1034,Subject 15652,Cycle 7 Day 1,On Trial,,,,,,,,,,10,53,0,,,,0,4,0,0,7,0,0,11,15,35,0,0,0,0,2,0,40,7,2,0,6,3
+Study 24,AMERICA,USA,Site 1034,Subject 15653,Cycle 7 Day 1,On Trial,,,,,,,,,,10,55,0,,,,0,1,0,1,0,0,0,2,4,19,0,0,0,0,1,0,40,6,5,0,8,3
+Study 24,AMERICA,USA,Site 1034,Subject 15654,Cycle 6 Day 1,On Trial,,,,,,,,,,9,52,0,,,,3,2,0,0,0,0,0,5,6,13,0,0,0,0,3,0,38,8,3,0,8,3
+Study 24,AMERICA,USA,Site 1034,Subject 15655,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,5,0,1,0,1,0
+Study 24,AMERICA,USA,Site 1034,Subject 15656,Cycle 2 Day 15,On Trial,,,,,,,,,,5,47,0,,,,1,1,0,0,0,0,0,2,8,11,0,0,0,0,0,0,27,9,4,0,5,8
+Study 24,AMERICA,USA,Site 1034,Subject 15657,Cycle 1 Day 1,On Trial,,,,,,,,,,2,35,0,,,,0,0,0,3,0,0,0,3,12,5,0,0,0,0,0,0,5,9,18,0,6,21
+Study 24,AMERICA,USA,Site 1034,Subject 15658,Cycle 2 Day 1,On Trial,,,,,,,,,,4,36,0,,,,1,0,0,3,0,0,0,4,17,0,0,0,0,0,0,1,2,30,1,0,2,29
+Study 24,AMERICA,USA,Site 1034,Subject 15659,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,AMERICA,USA,Site 2013,Subject 41288,30 Day Safety Follow-up,On Trial,,,,,,,,,,9,123,0,,,,0,6,0,0,0,0,0,6,3,97,0,0,0,0,0,3,56,4,44,0,15,33
+Study 24,AMERICA,USA,Site 2013,Subject 41289,Unplanned visit (8),On Trial,,,,,,,,,,9,90,1,,,,2,0,1,1,0,0,0,4,7,36,0,0,0,0,1,1,53,12,13,0,8,17
+Study 24,AMERICA,USA,Site 2013,Subject 41290,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,6,0,1,0,1,0
+Study 24,AMERICA,USA,Site 2013,Subject 41291,Unplanned visit (1),Screen Failure,,,,,,,,,,1,29,1,,,,0,0,0,3,0,0,0,3,0,15,0,0,0,0,0,0,23,0,3,0,3,0
+Study 24,AMERICA,USA,Site 2013,Subject 41292,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,7,0,0,0,0,0
+Study 24,AMERICA,USA,Site 2013,Subject 41293,Cycle 2 Day 15,On Trial,,,,,,,,,,5,56,1,,,,2,2,0,3,0,0,0,7,10,18,0,0,0,0,0,2,0,17,33,0,0,50
+Study 24,AMERICA,USA,Site 2014,Subject 41295,Screening,Screen Failure,,,,,,,,,,1,19,0,,,,0,0,0,1,0,0,0,1,10,0,0,0,0,0,0,1,0,14,0,0,0,14
+Study 24,AMERICA,USA,Site 2015,Subject 41299,Unplanned visit (6),On Trial,,,,,,,,,,8,94,0,,,,4,1,1,1,1,0,0,8,37,48,0,0,0,0,0,0,72,12,0,0,3,9
+Study 24,AMERICA,USA,Site 2015,Subject 41300,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,10,0,0,0,0,0
+Study 24,AMERICA,USA,Site 2015,Subject 41301,Cycle 3 Day 1,On Trial,,,,,,,,,,6,57,0,,,,1,0,0,0,0,0,0,1,5,19,0,0,0,0,0,0,48,3,0,0,3,0
+Study 24,AMERICA,USA,Site 2015,Subject 41302,Cycle 3 Day 1,On Trial,,,,,,,,,,6,48,0,,,,3,0,0,0,0,0,0,3,4,15,0,0,0,0,0,0,40,2,0,0,2,0
+Study 24,AMERICA,USA,Site 2015,Subject 41303,Cycle 2 Day 1,On Trial,,,,,,,,,,4,48,0,,,,3,0,0,3,0,0,0,6,17,3,0,0,0,0,0,0,35,5,0,0,2,3
+Study 24,AMERICA,USA,Site 2015,Subject 41304,Cycle 2 Day 1,On Trial,,,,,,,,,,4,36,0,,,,2,0,0,1,0,0,0,3,12,3,0,0,0,0,0,0,24,8,0,0,4,4
+Study 24,AMERICA,USA,Site 2015,Subject 41305,Cycle 1 Day 1,On Trial,,,,,,,,,,2,34,0,,,,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,27,1,0,0,1,0
+Study 24,AMERICA,USA,Site 1037,Subject 15713,Cycle 1 Day 1,On Trial,,,,,,,,,,2,36,0,,,,8,0,0,0,0,0,0,8,33,0,0,0,0,0,0,0,0,33,0,0,0,33
+Study 24,AMERICA,USA,Site 1037,Subject 15714,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,AMERICA,USA,Site 2189,Subject 47763,Cycle 3 Day 1,On Trial,,,,,,,,,,6,64,0,,,,0,0,0,0,0,0,0,0,25,33,0,0,0,0,0,0,38,16,4,0,5,15
+Study 24,AMERICA,USA,Site 2189,Subject 47764,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,6,0,0,0,0,0
+Study 24,AMERICA,USA,Site 1042,Subject 15782,Cycle 1 Day 1,On Trial,,,,,,,,,,2,29,0,,,,4,0,0,6,0,0,0,10,20,0,0,0,0,0,0,2,0,18,0,0,0,18
+Study 24,AMERICA,USA,Site 2190,Subject 47765,,Screening,,,,,,,,,,0,3,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,2
+Study 24,AMERICA,USA,Site 2190,Subject 47766,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,AMERICA,USA,Site 2024,Subject 41576,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,1,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,7,0,0,0,7
+Study 24,AMERICA,USA,Site 2191,Subject 47767,Screening,On Trial,,,,,,,,,,1,24,0,,,,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,14,0,0,0,14
+Study 24,AMERICA,USA,Site 2025,Subject 41610,,Screening,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 24,AMERICA,USA,Site 2030,Subject 41800,Screening,Screen Failure,,,,,,,,,,0,12,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,10,0,0,0,0,0
+Study 24,AMERICA,USA,Site 2030,Subject 41801,30 Day Safety Follow-up,On Trial,,,,,,,,,,8,86,0,,,,6,9,1,6,0,0,0,22,9,30,0,0,0,0,2,0,40,29,0,0,7,22
+Study 24,AMERICA,USA,Site 2030,Subject 41802,Unplanned visit (7),On Trial,,,,,,,,,,7,87,0,,,,1,1,0,2,0,0,0,4,26,41,0,0,0,0,1,0,36,39,0,0,6,33
+Study 24,AMERICA,USA,Site 2030,Subject 41803,Follow-up 1,On Trial,,,,,,,,,,4,61,0,,,,3,0,0,2,0,0,0,5,17,15,0,0,0,0,0,0,32,21,0,0,8,13
+Study 24,AMERICA,USA,Site 2030,Subject 41804,Cycle 4 Day 1,On Trial,,,,,,,,,,7,84,0,,,,4,0,0,4,0,0,0,8,36,6,0,0,0,0,0,0,36,38,0,0,4,34
+Study 24,AMERICA,USA,Site 2030,Subject 41805,Cycle 4 Day 1,On Trial,,,,,,,,,,7,73,0,,,,1,1,0,3,0,0,0,5,30,0,0,0,0,0,1,0,27,33,0,0,10,23
+Study 24,AMERICA,USA,Site 2030,Subject 41806,Screening,Screening,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 24,AMERICA,USA,Site 2030,Subject 41807,Screening,Screening,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 24,AMERICA,USA,Site 2030,Subject 41808,Screening,Screening,,,,,,,,,,1,5,0,,,,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 24,AMERICA,USA,Site 2036,Subject 41877,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,7,0,0,7
+Study 24,AMERICA,USA,Site 2036,Subject 41878,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,7,0,0,7
+Study 24,AMERICA,USA,Site 2043,Subject 42069,,Enrolled,,,,,,,,,,0,8,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0
+,,,112,661,Total:,,,,,,,,,,,2535,26899,24,,,,887,374,96,631,109,0,3,Site 113,9335,5841,0,0,,,,,13849,7367,1480,813,1178,8482
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

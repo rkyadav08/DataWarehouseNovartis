@@ -1,0 +1,59 @@
+﻿Project Name,Region,Country,Site ID,Subject ID,Latest Visit (SV) (Source: Rave EDC: BO4),Subject Status (Source: PRIMARY Form),Input files,,,,,,,,,CPMD,,,,,,,,,,,,,,,,,,,,,,SSM,,,,,
+,,,,,,,Missing Visits,Missing Page,# Coded terms,# Uncoded Terms,# Open issues in LNR,# Open Issues reported for 3rd party reconciliation in EDRR,Inactivated forms and folders,# eSAE dashboard review for DM,# eSAE dashboard review for safety,Visit status,Page status (Source: (Rave EDC : BO4)),,,,,Queries status (Source:(Rave EDC : BO4)),,,,,,,,Page Action Status (Source: (Rave EDC : BO4)),,,,,,Protocol Deviations (Source:(Rave EDC : BO4)),,PI Signatures (Source: (Rave EDC : BO4)),,,,,
+,,,,,,,,,,,,,,,,# Expected Visits (Rave EDC : BO4),# Pages Entered,# Pages with Non-Conformant data,# Total CRFs with queries & Non-Conformant data,# Total CRFs without queries & Non-Conformant data,% Clean Entered CRF,# DM Queries,# Clinical Queries,# Medical Queries,# Site Queries,# Field Monitor Queries,# Coding Queries,# Safety Queries,#Total Queries,# CRFs Require Verification (SDV),# Forms Verified,# CRFs Frozen,# CRFs Not Frozen,# CRFs Locked,# CRFs Unlocked,# PDs Confirmed,# PDs Proposed,# CRFs Signed,CRFs overdue for signs within 45 days of Data entry,CRFs overdue for signs between 45 to 90 days of Data entry,CRFs overdue for signs beyond 90 days of Data entry,Broken Signatures,CRFs Never Signed
+Responsible LF for action,,,,,,,,,,,,,,,,,,Site/CRA,,,,DM,CSE/CDD,CDMD/Medical Lead,Site/CRA,CRA,Coder,Safety Team,,CRA,,,DM,,,CD LF,,Investigator,,,,,
+Study 6,EMEA,ISR,Site 62,Subject 380,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,9,0,0,0,0,0
+Study 6,EMEA,ISR,Site 62,Subject 381,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,7,1,0,0,0,1
+Study 6,EMEA,ISR,Site 62,Subject 382,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,7,1,0,0,0,1
+Study 6,EMEA,ISR,Site 62,Subject 383,Screening,Screen Failure,,,,,,,,,,1,17,0,,,,0,0,0,1,0,0,0,1,6,4,0,0,0,0,0,0,13,0,0,0,0,0
+Study 6,EMEA,ISR,Site 62,Subject 384,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,6,2,0,0,1,1
+Study 6,ASIA,AUS,Site 14,Subject 25,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,9,0,0,0,0,0
+Study 6,ASIA,AUS,Site 14,Subject 26,Cycle 2 Week 7 (1),On Trial,,,,,,,,,,9,105,0,,,,1,3,0,1,0,0,0,5,6,35,0,0,0,0,0,0,83,19,0,0,8,11
+Study 6,ASIA,AUS,Site 14,Subject 27,Safety follow-up (1),Follow-Up,,,,,,,,,,11,122,0,,,,3,1,0,1,0,0,0,5,12,81,0,0,0,0,0,0,82,38,0,0,11,27
+Study 6,ASIA,AUS,Site 14,Subject 28,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,1,0,0,0,1
+Study 6,ASIA,AUS,Site 14,Subject 29,Cycle 2 Week 1 (1),On Trial,,,,,,,,,,7,84,0,,,,2,0,0,1,0,0,0,3,4,22,0,0,0,0,0,0,58,22,0,0,7,15
+Study 6,ASIA,AUS,Site 14,Subject 30,Cycle 1 Week 7 (1),On Trial,,,,,,,,,,5,71,0,,,,1,0,0,6,0,0,0,7,4,20,0,0,0,0,0,0,56,13,0,0,6,7
+Study 6,ASIA,AUS,Site 14,Subject 31,Cycle 1 Week 7 (1),On Trial,,,,,,,,,,5,69,0,,,,1,0,0,7,0,0,0,8,1,21,0,0,0,0,0,0,27,27,13,0,2,38
+Study 6,ASIA,AUS,Site 14,Subject 32,Cycle 1 Week 5 (1),On Trial,,,,,,,,,,4,68,0,,,,2,0,0,1,1,0,0,4,5,19,0,0,0,0,0,0,37,29,0,0,19,10
+Study 6,ASIA,AUS,Site 14,Subject 33,Cycle 1 Week 5 (1),On Trial,,,,,,,,,,4,72,0,,,,0,0,0,4,4,0,0,8,10,17,0,0,0,0,0,0,41,28,0,0,16,12
+Study 6,ASIA,AUS,Site 14,Subject 34,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,10,0,0,0,10
+Study 6,ASIA,AUS,Site 14,Subject 35,Screening,Screening,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,7,0,0,0,7
+Study 6,ASIA,AUS,Site 14,Subject 36,Screening,Screening,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,5,0,0,0,5
+Study 6,ASIA,AUS,Site 15,Subject 39,Cycle 3 Week 1 (1),On Trial,,,,,,,,,,11,119,0,,,,0,0,0,8,0,0,0,8,81,19,0,0,0,0,0,0,29,27,37,21,20,65
+Study 6,ASIA,AUS,Site 15,Subject 40,Cycle 2 Week 5 (1),On Trial,,,,,,,,,,9,95,0,,,,0,0,0,4,0,0,0,4,16,14,0,0,0,0,0,0,19,16,42,15,2,71
+Study 6,ASIA,AUS,Site 15,Subject 41,Cycle 1 Week 7 (1),On Trial,,,,,,,,,,5,66,0,,,,0,0,0,1,0,0,0,1,21,1,0,0,0,0,0,0,0,11,51,0,0,62
+Study 6,ASIA,AUS,Site 15,Subject 42,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 6,ASIA,SGP,Site 349,Subject 2829,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,9,0,0,0,0,0
+Study 6,ASIA,SGP,Site 349,Subject 2830,Safety follow-up (1),Discontinued,,,,,,,,,,7,143,6,,,,1,0,5,59,4,0,2,71,53,71,0,0,0,0,1,0,99,18,0,0,10,8
+Study 6,ASIA,SGP,Site 349,Subject 2831,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,9,1,0,0,1,0
+Study 6,ASIA,SGP,Site 349,Subject 2832,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 6,ASIA,SGP,Site 349,Subject 2833,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 6,ASIA,SGP,Site 349,Subject 2834,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,1,0,0,0,1,2,3,0,0,0,0,0,0,9,0,0,0,0,0
+Study 6,ASIA,SGP,Site 349,Subject 2835,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,2,58,1,,,,2,0,0,40,0,0,0,42,14,9,0,0,0,0,0,0,46,8,0,0,0,8
+Study 6,ASIA,SGP,Site 350,Subject 2836,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,2,6,0,0,8
+Study 6,ASIA,TWN,Site 351,Subject 2837,Cycle 2 Week 1 (1),On Trial,,,,,,,,,,7,78,2,,,,0,0,1,17,0,0,0,18,47,19,0,0,0,0,0,0,72,0,0,0,0,0
+Study 6,ASIA,TWN,Site 351,Subject 2838,Cycle 1 Week 8 (1),On Trial,,,,,,,,,,6,70,0,,,,0,0,0,15,0,0,0,15,26,0,0,0,0,0,0,0,64,0,0,0,0,0
+Study 6,ASIA,TWN,Site 351,Subject 2839,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,9,0,0,0,0,0
+Study 6,ASIA,CHN,Site 165,Subject 1512,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,9,1,0,0,0,1
+Study 6,ASIA,CHN,Site 165,Subject 1513,Cycle 4 Week 1 (1),On Trial,,,,,,,,,,15,190,0,,,,10,0,0,0,0,0,0,10,22,138,0,0,0,0,2,0,171,4,0,0,3,1
+Study 6,ASIA,CHN,Site 165,Subject 2586,Unplanned Visit (5),Discontinued,,,,,,,,,,2,76,0,,,,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,69,0,0,0,0,0
+Study 6,ASIA,CHN,Site 165,Subject 2587,Screening,Screening,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,10,0,0,0,0,0
+Study 6,ASIA,CHN,Site 168,Subject 1520,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,3,0,0,0,3,3,2,0,0,0,0,0,0,14,0,0,0,0,0
+Study 6,AMERICA,USA,Site 20,Subject 82,Cycle 2 Week 1 (1),On Trial,,,,,,,,,,7,91,0,,,,2,0,0,14,3,0,0,19,59,21,0,0,0,0,0,0,58,30,0,0,7,23
+Study 6,AMERICA,USA,Site 20,Subject 1601,Cycle 1 Week 8 (1),On Trial,,,,,,,,,,6,78,0,,,,3,0,0,2,1,0,0,6,32,2,0,0,0,0,0,0,57,19,0,0,6,13
+Study 6,AMERICA,USA,Site 20,Subject 1602,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,1,0,0,1,0
+Study 6,AMERICA,USA,Site 20,Subject 1603,Screening,Screen Failure,,,,,,,,,,1,17,0,,,,0,0,0,2,0,0,0,2,1,10,0,0,0,0,0,0,14,0,0,0,0,0
+Study 6,AMERICA,USA,Site 20,Subject 2840,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,0,0,0
+Study 6,AMERICA,USA,Site 20,Subject 2841,Screening,Discontinued,,,,,,,,,,1,53,0,,,,0,0,0,14,0,0,0,14,29,6,0,0,0,0,0,0,40,6,0,0,0,6
+Study 6,AMERICA,USA,Site 20,Subject 2842,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,9,0,0,0,0,0
+Study 6,ASIA,JPN,Site 191,Subject 1668,Cycle 1 Week 8 (1),On Trial,,,,,,,,,,6,71,0,,,,0,0,0,12,0,0,0,12,14,44,0,0,0,0,0,0,54,11,0,0,1,10
+Study 6,ASIA,JPN,Site 191,Subject 1669,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,9,0,0,0,0,0
+Study 6,ASIA,JPN,Site 352,Subject 2843,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,3,63,0,,,,1,0,0,11,0,0,0,12,25,25,0,0,0,0,0,0,0,49,4,0,0,53
+Study 6,ASIA,JPN,Site 193,Subject 1698,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,3,62,0,,,,0,0,0,1,0,0,0,1,19,39,0,0,0,0,2,0,0,49,11,0,0,60
+Study 6,ASIA,JPN,Site 193,Subject 2780,Screening,Screening,,,,,,,,,,1,31,0,,,,0,0,0,10,0,0,0,10,12,10,0,0,0,0,0,0,0,30,0,0,0,30
+Study 6,ASIA,JPN,Site 193,Subject 2781,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,0,0,0,1,0,0,0,1,3,3,0,0,0,0,0,0,0,11,0,0,0,11
+Study 6,ASIA,JPN,Site 194,Subject 1699,Cycle 1 Week 8 (1),On Trial,,,,,,,,,,6,83,0,,,,0,0,0,14,0,0,0,14,15,58,0,0,0,0,0,0,76,4,0,0,1,3
+Study 6,ASIA,JPN,Site 194,Subject 1700,Screening,Screening,,,,,,,,,,1,34,0,,,,0,0,0,5,0,0,0,5,21,0,0,0,0,0,0,0,0,33,0,0,1,32
+Study 6,ASIA,JPN,Site 345,Subject 2803,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,2,50,0,,,,1,0,1,1,0,0,0,3,45,0,0,0,0,0,0,0,17,29,0,0,5,24
+,,,14,53,Total:,,,,,,,,,,,171,2372,9,,,,30,4,7,257,13,0,2,313,640,805,0,0,,,,,1443,563,164,36,128,635
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

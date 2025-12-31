@@ -1,0 +1,15 @@
+﻿Project Name,Region,Country,Site ID,Subject ID,Latest Visit (SV) (Source: Rave EDC: BO4),Subject Status (Source: PRIMARY Form),Input files,,,,,,,,,CPMD,,,,,,,,,,,,,,,,,,,,,,SSM,,,,,
+,,,,,,,Missing Visits,Missing Page,# Coded terms,# Uncoded Terms,# Open issues in LNR,# Open Issues reported for 3rd party reconciliation in EDRR,Inactivated forms and folders,# eSAE dashboard review for DM,# eSAE dashboard review for safety,Visit status,Page status (Source: (Rave EDC : BO4)),,,,,Queries status (Source:(Rave EDC : BO4)),,,,,,,,Page Action Status (Source: (Rave EDC : BO4)),,,,,,Protocol Deviations (Source:(Rave EDC : BO4)),,PI Signatures (Source: (Rave EDC : BO4)),,,,,
+,,,,,,,,,,,,,,,,# Expected Visits (Rave EDC : BO4),# Pages Entered,# Pages with Non-Conformant data,# Total CRFs with queries & Non-Conformant data,# Total CRFs without queries & Non-Conformant data,% Clean Entered CRF,# DM Queries,# Clinical Queries,# Medical Queries,# Site Queries,# Field Monitor Queries,# Coding Queries,# Safety Queries,#Total Queries,# CRFs Require Verification (SDV),# Forms Verified,# CRFs Frozen,# CRFs Not Frozen,# CRFs Locked,# CRFs Unlocked,# PDs Confirmed,# PDs Proposed,# CRFs Signed,CRFs overdue for signs within 45 days of Data entry,CRFs overdue for signs between 45 to 90 days of Data entry,CRFs overdue for signs beyond 90 days of Data entry,Broken Signatures,CRFs Never Signed
+Responsible LF for action,,,,,,,,,,,,,,,,,,Site/CRA,,,,DM,CSE/CDD,CDMD/Medical Lead,Site/CRA,CRA,Coder,Safety Team,,CRA,,,DM,,,CD LF,,Investigator,,,,,
+Study 14,AMERICA,CAN,Site 502,Subject 3704,Day 7,,,,,,,,,,,5,82,0,,,,1,0,0,3,0,0,0,4,0,69,0,0,0,0,0,0,10,59,0,0,5,54
+Study 14,AMERICA,CAN,Site 502,Subject 3705,Screening,,,,,,,,,,,1,13,0,,,,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,12,0,0,0,12
+Study 14,AMERICA,CAN,Site 503,Subject 3706,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,8,0,0,0,0,0
+,,,2,3,Total:,,,,,,,,,,,7,104,0,,,,1,0,0,3,0,0,0,4,6,79,0,0,,,,,18,71,0,0,5,66
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

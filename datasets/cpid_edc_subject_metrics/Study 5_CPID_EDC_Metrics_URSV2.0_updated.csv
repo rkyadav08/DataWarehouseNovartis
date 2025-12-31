@@ -1,0 +1,684 @@
+﻿Project Name,Region,Country,Site ID,Subject ID,Latest Visit (SV) (Source: Rave EDC: BO4),Subject Status (Source: PRIMARY Form),Input files,,,,,,,,,CPMD,,,,,,,,,,,,,,,,,,,,,,SSM,,,,,
+,,,,,,,Missing Visits,Missing Page,# Coded terms,# Uncoded Terms,# Open issues in LNR,# Open Issues reported for 3rd party reconciliation in EDRR,Inactivated forms and folders,# eSAE dashboard review for DM,# eSAE dashboard review for safety,Visit status,Page status (Source: (Rave EDC : BO4)),,,,,Queries status (Source:(Rave EDC : BO4)),,,,,,,,Page Action Status (Source: (Rave EDC : BO4)),,,,,,Protocol Deviations (Source:(Rave EDC : BO4)),,PI Signatures (Source: (Rave EDC : BO4)),,,,,
+,,,,,,,,,,,,,,,,# Expected Visits (Rave EDC : BO4),# Pages Entered,# Pages with Non-Conformant data,# Total CRFs with queries & Non-Conformant data,# Total CRFs without queries & Non-Conformant data,% Clean Entered CRF,# DM Queries,# Clinical Queries,# Medical Queries,# Site Queries,# Field Monitor Queries,# Coding Queries,# Safety Queries,#Total Queries,# CRFs Require Verification (SDV),# Forms Verified,# CRFs Frozen,# CRFs Not Frozen,# CRFs Locked,# CRFs Unlocked,# PDs Confirmed,# PDs Proposed,# CRFs Signed,CRFs overdue for signs within 45 days of Data entry,CRFs overdue for signs between 45 to 90 days of Data entry,CRFs overdue for signs beyond 90 days of Data entry,Broken Signatures,CRFs Never Signed
+Responsible LF for action,,,,,,,,,,,,,,,,,,Site/CRA,,,,DM,CSE/CDD,CDMD/Medical Lead,Site/CRA,CRA,Coder,Safety Team,,CRA,,,DM,,,CD LF,,Investigator,,,,,
+Study 5,ASIA,AUS,Site 2,Subject 2,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,10,92,0,,,,0,3,0,0,0,0,0,3,12,71,0,0,0,0,5,0,81,1,0,0,1,0
+Study 5,ASIA,AUS,Site 2,Subject 3,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,116,0,,,,0,0,0,0,0,0,0,0,6,24,0,0,0,0,0,0,107,0,0,0,0,0
+Study 5,ASIA,AUS,Site 2,Subject 4,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,9,77,0,,,,0,0,0,0,0,0,0,0,11,10,0,0,0,0,1,0,71,0,0,0,0,0
+Study 5,ASIA,AUS,Site 2,Subject 5,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,AUS,Site 2,Subject 99,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,AUS,Site 3,Subject 6,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,AUS,Site 3,Subject 7,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,6,0,0,0,6
+Study 5,ASIA,AUS,Site 28,Subject 107,Long term safety FU 1 (1),Follow-Up,,,,,,,,,,13,119,0,,,,0,0,0,0,0,0,0,0,3,109,0,0,0,0,0,0,101,10,0,0,10,0
+Study 5,ASIA,AUS,Site 28,Subject 108,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,AUS,Site 28,Subject 2233,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,AUS,Site 28,Subject 2234,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,AUS,Site 28,Subject 2235,Cycle 2 Week 1 (1),On Trial,,,,,,,,,,6,67,0,,,,0,0,0,0,0,0,0,0,1,9,0,0,0,0,1,0,40,17,5,0,6,16
+Study 5,ASIA,AUS,Site 259,Subject 2236,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,ASIA,SGP,Site 260,Subject 2237,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,8,0,0,8
+Study 5,ASIA,SGP,Site 261,Subject 2238,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,SGP,Site 261,Subject 2239,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,SGP,Site 261,Subject 2240,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,8,0,0,0,0,0
+Study 5,ASIA,SGP,Site 261,Subject 2241,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,SGP,Site 261,Subject 2242,Long term safety FU 1 (1),Follow-Up,,,,,,,,,,15,128,0,,,,0,0,0,0,0,0,0,0,10,109,0,0,0,0,0,0,102,16,0,0,9,7
+Study 5,ASIA,SGP,Site 261,Subject 2243,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,118,0,,,,0,0,0,0,0,0,0,0,0,30,0,0,0,0,1,0,97,7,6,0,8,5
+Study 5,ASIA,SGP,Site 261,Subject 2244,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,SGP,Site 261,Subject 2245,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,107,0,,,,0,0,0,1,0,0,0,1,0,21,0,0,0,0,0,0,69,17,13,0,9,21
+Study 5,ASIA,SGP,Site 261,Subject 2246,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,95,0,,,,0,0,0,1,0,0,0,1,0,17,0,0,0,0,0,0,66,12,10,0,4,18
+Study 5,ASIA,SGP,Site 261,Subject 2247,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,SGP,Site 261,Subject 2248,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,SGP,Site 261,Subject 2249,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3,0,5,0,1,4
+Study 5,ASIA,SGP,Site 261,Subject 2250,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,3,5,0,0,8
+Study 5,ASIA,SGP,Site 261,Subject 2251,Screening,Enrolled,,,,,,,,,,1,32,0,,,,0,0,0,1,0,0,0,1,3,2,0,0,0,0,0,0,0,29,0,0,0,29
+Study 5,ASIA,TWN,Site 262,Subject 2252,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 262,Subject 2253,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 262,Subject 2254,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 262,Subject 2255,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 262,Subject 2256,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 262,Subject 2257,Cycle 4 Week 1 (1),Discontinued,,,,,,,,,,10,85,0,,,,0,0,0,0,0,0,0,0,12,53,0,0,0,0,1,0,71,7,0,0,6,1
+Study 5,ASIA,TWN,Site 262,Subject 2258,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 262,Subject 2259,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 262,Subject 2260,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,ASIA,TWN,Site 263,Subject 2261,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,1,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 263,Subject 2262,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,109,0,,,,0,0,0,0,0,0,0,0,22,30,0,0,0,0,0,0,78,14,5,2,6,15
+Study 5,ASIA,TWN,Site 263,Subject 2263,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 263,Subject 2264,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 263,Subject 2265,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 263,Subject 2266,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 263,Subject 2267,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,7,0,1,0,1,0
+Study 5,ASIA,TWN,Site 263,Subject 2268,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,7,0,1,0,1,0
+Study 5,ASIA,TWN,Site 263,Subject 2269,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,48,0,,,,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,23,21,0,0,44
+Study 5,ASIA,TWN,Site 264,Subject 2270,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 264,Subject 2271,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 264,Subject 2272,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 264,Subject 2273,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 264,Subject 2274,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 264,Subject 2275,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 264,Subject 2276,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 264,Subject 2277,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 264,Subject 2278,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4,4,0,0,1,3
+Study 5,ASIA,TWN,Site 265,Subject 2279,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 265,Subject 2280,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 265,Subject 2281,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 265,Subject 2282,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 265,Subject 2283,Last Fraction (EOT1) (1),Discontinued,,,,,,,,,,3,40,0,,,,0,0,0,0,0,0,0,0,11,27,0,0,0,0,0,0,38,0,0,0,0,0
+Study 5,ASIA,TWN,Site 265,Subject 2284,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 265,Subject 2285,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,TWN,Site 265,Subject 2286,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0
+Study 5,ASIA,MYS,Site 266,Subject 2287,Screening,Screen Failure,,,,,,,,,,1,26,0,,,,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,23,0,0,0,0,0
+Study 5,ASIA,MYS,Site 266,Subject 2288,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,MYS,Site 266,Subject 2289,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,MYS,Site 266,Subject 2290,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,MYS,Site 266,Subject 2291,Cycle 3 Week 1 (1),On Trial,,,,,,,,,,8,82,0,,,,0,0,0,0,0,0,0,0,16,61,0,0,0,0,1,0,64,12,0,0,0,12
+Study 5,ASIA,MYS,Site 266,Subject 2292,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,MYS,Site 266,Subject 2293,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,ASIA,MYS,Site 267,Subject 2294,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,7,0,0,7
+Study 5,EMEA,AUT,Site 14,Subject 25,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,11,115,0,,,,0,0,0,3,1,0,0,4,46,58,0,0,0,0,1,0,58,23,15,2,18,22
+Study 5,EMEA,AUT,Site 15,Subject 39,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,AUT,Site 15,Subject 40,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,AUT,Site 15,Subject 41,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,8,0,0,0,0,0
+Study 5,EMEA,AUT,Site 15,Subject 42,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,AUT,Site 15,Subject 43,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,AUT,Site 15,Subject 44,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,AUT,Site 15,Subject 45,Cycle 3 Week 1 (1),On Trial,,,,,,,,,,8,68,0,,,,7,0,0,0,0,0,0,7,28,35,0,0,0,0,0,0,54,8,0,0,0,8
+Study 5,EMEA,BEL,Site 268,Subject 2295,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2296,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2297,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2298,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,108,0,,,,0,0,0,0,0,0,0,0,3,98,0,0,0,0,0,0,96,4,1,0,3,2
+Study 5,EMEA,BEL,Site 268,Subject 2299,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,119,0,,,,0,0,0,0,0,0,0,0,4,21,0,0,0,0,0,0,91,19,1,0,11,9
+Study 5,EMEA,BEL,Site 268,Subject 2300,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2301,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2302,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2303,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2304,Cycle 3 Week 3 (1),On Trial,,,,,,,,,,9,84,0,,,,0,0,0,0,0,0,0,0,3,12,0,0,0,0,0,0,66,12,1,0,2,11
+Study 5,EMEA,BEL,Site 268,Subject 2305,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2306,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2307,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,BEL,Site 268,Subject 2308,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,4,5,0,0,9
+Study 5,EMEA,BEL,Site 268,Subject 2309,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,EMEA,BEL,Site 268,Subject 2310,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,EMEA,BEL,Site 269,Subject 2311,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,6,0,6
+Study 5,EMEA,BEL,Site 269,Subject 2312,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,CZE,Site 270,Subject 2313,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,CZE,Site 270,Subject 2314,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,CZE,Site 270,Subject 2315,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,EMEA,CZE,Site 271,Subject 2316,Screening,Screen Failure,,,,,,,,,,1,14,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,12,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2317,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2318,Cycle 4 Week 3 (1),On Trial,,,,,,,,,,11,97,0,,,,0,0,0,0,0,0,0,0,2,89,0,0,0,0,0,0,90,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2319,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2320,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2321,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2322,Cycle 2 Week 3 (1),On Trial,,,,,,,,,,7,68,0,,,,0,0,0,0,0,0,0,0,1,10,0,0,0,0,1,0,63,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2323,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2324,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,1,0,0,0,1
+Study 5,EMEA,CZE,Site 271,Subject 2325,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,CZE,Site 271,Subject 2326,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,6,0,0,1,5
+Study 5,EMEA,CZE,Site 271,Subject 2327,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4,5,0,0,1,4
+Study 5,EMEA,CZE,Site 272,Subject 2328,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,EMEA,CZE,Site 272,Subject 2329,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,EMEA,CZE,Site 272,Subject 2330,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,EMEA,CZE,Site 272,Subject 2331,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,EMEA,CZE,Site 272,Subject 2332,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,EMEA,CZE,Site 272,Subject 2333,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,EMEA,FRA,Site 273,Subject 2334,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,FRA,Site 273,Subject 2335,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,2,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,FRA,Site 274,Subject 2336,EOT2/Safety FU (42D) (1),On Trial,,,,,,,,,,12,103,0,,,,0,0,0,3,0,0,0,3,21,71,0,0,0,0,1,0,77,14,0,0,3,11
+Study 5,EMEA,FRA,Site 275,Subject 2337,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,6,0,0,2,1,1
+Study 5,EMEA,FRA,Site 276,Subject 2338,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,FRA,Site 277,Subject 2339,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,137,0,,,,0,0,0,0,0,0,0,0,25,100,0,0,0,0,0,0,76,23,5,20,13,35
+Study 5,EMEA,FRA,Site 277,Subject 2340,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,FRA,Site 277,Subject 2341,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,FRA,Site 277,Subject 2342,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,9,0,9
+Study 5,EMEA,FRA,Site 277,Subject 2343,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,FRA,Site 277,Subject 2344,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,6,0,6
+Study 5,EMEA,FRA,Site 277,Subject 2345,Cycle 4 Week 1 (1),On Trial,,,,,,,,,,10,89,0,,,,0,0,0,1,3,0,0,4,8,12,0,0,0,0,1,0,1,18,16,46,0,80
+Study 5,EMEA,FRA,Site 277,Subject 2346,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,1,0,0,1,3,0,0,0,0,0,0,0,0,0,0,7,0,7
+Study 5,EMEA,FRA,Site 277,Subject 2347,Cycle 2 Week 1 (1),On Trial,,,,,,,,,,5,65,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,1,27,9,23,0,59
+Study 5,EMEA,FRA,Site 277,Subject 2348,Cycle 2 Week 3 (1),On Trial,,,,,,,,,,7,66,0,,,,0,0,0,0,3,0,0,3,10,2,0,0,0,0,0,0,0,31,15,15,0,61
+Study 5,EMEA,FRA,Site 277,Subject 2349,,,,,,,,,,,,0,2,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+Study 5,EMEA,FRA,Site 278,Subject 2350,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,3,0,5,0,8
+Study 5,EMEA,FRA,Site 278,Subject 2351,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,3,0,5,0,8
+Study 5,EMEA,FRA,Site 278,Subject 2352,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,3,0,5,0,8
+Study 5,EMEA,FRA,Site 278,Subject 2353,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,4,0,4,0,8
+Study 5,EMEA,FRA,Site 278,Subject 2354,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,6,0,2,0,8
+Study 5,EMEA,DEU,Site 279,Subject 2355,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,DEU,Site 279,Subject 2356,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,DEU,Site 279,Subject 2357,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,DEU,Site 280,Subject 2358,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,3,0,4,0,1,3
+Study 5,EMEA,DEU,Site 280,Subject 2359,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,3,0,4,0,1,3
+Study 5,EMEA,DEU,Site 280,Subject 2360,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,7,0,0,0,7
+Study 5,EMEA,DEU,Site 280,Subject 2361,Screening,,,,,,,,,,,1,12,0,,,,0,0,0,2,0,0,0,2,2,0,0,0,0,0,0,0,0,10,0,0,0,10
+Study 5,EMEA,DEU,Site 280,Subject 2362,Screening,,,,,,,,,,,1,22,0,,,,0,0,0,5,0,0,0,5,3,0,0,0,0,0,0,0,0,18,0,0,0,18
+Study 5,EMEA,DEU,Site 280,Subject 2363,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,EMEA,DEU,Site 281,Subject 2364,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,DEU,Site 281,Subject 2365,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,47,0,,,,0,1,0,0,0,0,0,1,34,10,0,0,0,0,0,0,3,23,18,0,2,39
+Study 5,EMEA,DEU,Site 281,Subject 2366,First Fraction (SBRT) (1),On Trial,,,,,,,,,,2,26,0,,,,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,23,0,0,0,23
+Study 5,EMEA,DEU,Site 282,Subject 2367,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,DEU,Site 282,Subject 2368,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,DEU,Site 282,Subject 2369,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,EMEA,DEU,Site 282,Subject 2370,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,EMEA,DEU,Site 282,Subject 2371,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,5,1,1,0,2,0
+Study 5,EMEA,DEU,Site 282,Subject 2372,Cycle 3 Week 3 (1),On Trial,,,,,,,,,,9,83,1,,,,0,0,0,4,0,0,0,4,40,36,0,0,0,0,0,0,13,17,38,7,23,39
+Study 5,EMEA,DEU,Site 282,Subject 2373,Cycle 2 Week 3 (1),On Trial,,,,,,,,,,7,67,0,,,,0,0,0,3,0,0,0,3,5,40,0,0,0,0,0,0,1,20,21,20,1,60
+Study 5,EMEA,DEU,Site 282,Subject 2374,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,7,1,0,0,8
+Study 5,EMEA,DEU,Site 283,Subject 2375,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 5,EMEA,DEU,Site 283,Subject 2376,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 5,EMEA,HUN,Site 284,Subject 2377,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 284,Subject 2378,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 284,Subject 2379,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 284,Subject 2380,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,112,0,,,,0,0,0,0,0,0,0,0,17,87,0,0,0,0,0,0,92,11,0,0,6,5
+Study 5,EMEA,HUN,Site 284,Subject 2381,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 284,Subject 2382,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 284,Subject 2383,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 284,Subject 2384,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,6,0,0,1,5
+Study 5,EMEA,HUN,Site 285,Subject 2385,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 286,Subject 2386,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 286,Subject 2387,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 286,Subject 2388,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 286,Subject 2389,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,HUN,Site 286,Subject 2390,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 287,Subject 2391,Screening,Discontinued,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,2,2,0
+Study 5,EMEA,ISR,Site 287,Subject 2392,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,5,0,0,3,3,0
+Study 5,EMEA,ISR,Site 287,Subject 2393,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,6,0,0,2,2,0
+Study 5,EMEA,ISR,Site 287,Subject 2394,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6,0,0,2,2,0
+Study 5,EMEA,ISR,Site 287,Subject 2395,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,6,0,0,2,2,0
+Study 5,EMEA,ISR,Site 287,Subject 2396,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,6,0,0,2,2,0
+Study 5,EMEA,ISR,Site 287,Subject 2397,EOT2/Safety FU (42D) (1),On Trial,,,,,,,,,,12,109,0,,,,0,0,0,0,0,0,0,0,11,12,0,0,0,0,0,0,44,9,14,33,6,50
+Study 5,EMEA,ISR,Site 288,Subject 2398,Cycle 4 Week 1 (1),On Trial,,,,,,,,,,10,80,0,,,,1,0,0,0,0,0,0,1,31,42,0,0,0,0,0,0,65,8,0,0,0,8
+Study 5,EMEA,ISR,Site 289,Subject 2399,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 289,Subject 2400,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 289,Subject 2401,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 289,Subject 2402,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 289,Subject 2403,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 289,Subject 2404,Screening,Screen Failure,,,,,,,,,,1,9,1,,,,0,0,0,2,0,0,0,2,3,0,0,0,0,0,0,0,2,5,0,0,1,4
+Study 5,EMEA,ISR,Site 290,Subject 2405,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 290,Subject 2406,Long term safety FU 1 (1),Follow-Up,,,,,,,,,,15,139,0,,,,0,3,1,2,0,0,0,6,36,94,0,0,0,0,1,0,106,13,1,8,12,10
+Study 5,EMEA,ISR,Site 290,Subject 2407,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 290,Subject 2408,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 290,Subject 2409,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,5,1,1,0,1,1
+Study 5,EMEA,ISR,Site 290,Subject 2410,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,6,0,1,0,0,1
+Study 5,EMEA,ISR,Site 290,Subject 2411,Screening,,,,,,,,,,,1,8,0,,,,0,0,0,1,0,0,0,1,3,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 5,EMEA,ISR,Site 290,Subject 2412,Screening,,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 5,EMEA,ISR,Site 291,Subject 2413,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ISR,Site 291,Subject 2414,Screening,,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,5,1,0,0,1,0
+Study 5,EMEA,ISR,Site 291,Subject 2415,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,EMEA,ISR,Site 291,Subject 2416,Screening,,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 5,EMEA,ITA,Site 292,Subject 2417,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 292,Subject 2418,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 292,Subject 2419,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,109,0,,,,0,0,0,2,0,0,0,2,45,55,0,0,0,0,1,0,75,24,0,0,14,10
+Study 5,EMEA,ITA,Site 292,Subject 2420,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 293,Subject 2421,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,10,0,0,0,10,7,0,0,0,0,0,0,1,0,6,0,0,0,6
+Study 5,EMEA,ITA,Site 294,Subject 2422,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 294,Subject 2423,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 294,Subject 2424,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2425,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2426,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2427,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2428,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2429,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2430,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2431,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2432,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 295,Subject 2433,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,EMEA,ITA,Site 296,Subject 2434,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ITA,Site 296,Subject 2435,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ITA,Site 297,Subject 2436,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2437,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2438,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,1,0,0,1,8,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2439,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2440,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2441,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2442,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,1,0,0,1,8,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2443,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,100,0,,,,0,0,0,0,16,0,0,16,49,38,0,0,0,0,1,0,80,5,0,0,1,4
+Study 5,EMEA,ITA,Site 297,Subject 2444,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2445,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2446,Cycle 3 Week 3 (1),On Trial,,,,,,,,,,9,87,0,,,,0,0,0,0,6,0,0,6,48,33,0,0,0,0,0,0,61,19,0,0,6,13
+Study 5,EMEA,ITA,Site 297,Subject 2447,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2448,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2449,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2450,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,1,0,0,1,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2451,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2452,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2453,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,4,63,0,,,,0,1,0,0,0,0,0,1,4,1,0,0,0,0,1,0,40,14,0,0,4,10
+Study 5,EMEA,ITA,Site 297,Subject 2454,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2455,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2456,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,4,49,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,27,14,0,0,6,8
+Study 5,EMEA,ITA,Site 297,Subject 2457,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2458,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,9,0,0,0,0,0
+Study 5,EMEA,ITA,Site 297,Subject 2459,Last Fraction (EOT1) (1),On Trial,,,,,,,,,,3,42,4,,,,5,0,0,0,0,0,0,5,6,0,0,0,0,0,0,0,4,35,0,0,1,34
+Study 5,EMEA,ITA,Site 297,Subject 2460,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,5,0,0,1,4
+Study 5,EMEA,ITA,Site 297,Subject 2461,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,4,0,0,1,3
+Study 5,EMEA,ITA,Site 297,Subject 2462,Screening,,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 5,EMEA,ITA,Site 297,Subject 2463,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 5,EMEA,SVK,Site 298,Subject 2464,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,146,0,,,,0,0,0,0,0,0,0,0,4,126,0,0,0,0,0,0,129,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2465,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2466,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2467,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2468,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2469,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2470,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2471,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2472,Cycle 2 Week 3 (1),On Trial,,,,,,,,,,7,82,0,,,,0,3,0,1,0,0,0,4,41,36,0,0,0,0,1,0,64,12,0,0,4,8
+Study 5,EMEA,SVK,Site 299,Subject 2473,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2474,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,SVK,Site 299,Subject 2475,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4,4,0,0,1,3
+Study 5,EMEA,SVK,Site 299,Subject 2476,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,5,0,0,1,4
+Study 5,EMEA,ESP,Site 300,Subject 2477,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2478,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2479,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2480,Efficacy FU 3 (1),Follow-Up,,,,,,,,,,16,135,0,,,,0,0,0,0,0,0,0,0,18,109,0,0,0,0,0,0,121,6,0,0,1,5
+Study 5,EMEA,ESP,Site 300,Subject 2481,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2482,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,9,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2483,Screening,Discontinued,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,9,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2484,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2485,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2486,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2487,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,145,0,,,,0,0,0,0,0,0,0,0,6,30,0,0,0,0,0,0,123,5,0,0,5,0
+Study 5,EMEA,ESP,Site 300,Subject 2488,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,138,0,,,,0,0,0,0,0,0,0,0,5,23,0,0,0,0,0,0,125,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2489,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2490,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2491,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,13,124,0,,,,0,0,0,0,0,0,0,0,5,23,0,0,0,0,0,0,110,6,0,0,1,5
+Study 5,EMEA,ESP,Site 300,Subject 2492,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2493,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2494,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2495,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2496,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,108,0,,,,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,100,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2497,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2498,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,109,0,,,,0,0,0,0,0,0,0,0,4,16,0,0,0,0,0,0,101,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2499,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2500,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2501,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2502,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2503,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2504,Cycle 4 Week 3 (1),On Trial,,,,,,,,,,11,97,0,,,,0,0,0,0,0,0,0,0,1,20,0,0,0,0,0,0,88,2,0,0,2,0
+Study 5,EMEA,ESP,Site 300,Subject 2505,Cycle 3 Week 3 (1),On Trial,,,,,,,,,,9,84,0,,,,0,0,0,0,0,0,0,0,1,18,0,0,0,0,0,0,76,1,0,0,1,0
+Study 5,EMEA,ESP,Site 300,Subject 2506,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2507,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2508,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2509,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2510,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2511,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 300,Subject 2512,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,4,49,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,43,2,0,0,2,0
+Study 5,EMEA,ESP,Site 301,Subject 2513,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 301,Subject 2514,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,119,0,,,,0,1,0,1,0,0,0,2,32,79,0,0,0,0,1,0,100,10,0,0,4,6
+Study 5,EMEA,ESP,Site 301,Subject 2515,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 302,Subject 2516,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ESP,Site 302,Subject 2517,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ESP,Site 302,Subject 2518,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,112,0,,,,0,0,0,0,0,0,0,0,35,63,0,0,0,0,0,0,0,7,28,56,0,91
+Study 5,EMEA,ESP,Site 302,Subject 2519,Screening,,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,6,0,6
+Study 5,EMEA,ESP,Site 302,Subject 2520,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,5,0,7
+Study 5,EMEA,ESP,Site 302,Subject 2521,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7,0,0,7
+Study 5,EMEA,ESP,Site 302,Subject 2522,Screening,,,,,,,,,,,1,8,1,,,,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,6,0,0,6
+Study 5,EMEA,ESP,Site 302,Subject 2523,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7,0,0,7
+Study 5,EMEA,ESP,Site 302,Subject 2524,Screening,,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,6,0,0,0,6
+Study 5,EMEA,ESP,Site 302,Subject 2525,Screening,,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 5,EMEA,ESP,Site 302,Subject 2526,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,EMEA,ESP,Site 303,Subject 2527,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2528,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2529,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2530,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2531,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2532,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2533,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2534,Screening,Screen Failure,,,,,,,,,,0,7,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2535,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2536,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,EMEA,ESP,Site 303,Subject 2537,Screening,,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2,3,0,0,5
+Study 5,EMEA,ESP,Site 303,Subject 2538,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,EMEA,ESP,Site 304,Subject 2539,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 304,Subject 2540,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 304,Subject 2541,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,EMEA,ESP,Site 305,Subject 2542,Cycle 1 Week 3 (1),Discontinued,,,,,,,,,,5,61,0,,,,1,1,0,0,0,0,0,2,9,49,0,0,0,0,0,0,56,1,0,0,0,1
+Study 5,EMEA,ESP,Site 305,Subject 2543,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6,1,0,0,0,1
+Study 5,EMEA,ESP,Site 305,Subject 2544,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,4,2,0,0,1,1
+Study 5,EMEA,ESP,Site 305,Subject 2545,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,EMEA,ESP,Site 306,Subject 2546,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2547,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2548,Screening,Discontinued,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,9,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2549,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,128,0,,,,0,0,0,0,0,0,0,0,8,110,0,0,0,0,1,0,112,5,0,0,5,0
+Study 5,EMEA,ESP,Site 306,Subject 2550,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2551,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,123,0,,,,0,0,0,0,0,0,0,0,2,21,0,0,0,0,1,0,104,6,0,0,1,5
+Study 5,EMEA,ESP,Site 306,Subject 2552,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2553,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,102,0,,,,0,0,0,0,0,0,0,0,1,16,0,0,0,0,1,0,94,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2554,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2555,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,105,0,,,,0,0,0,0,0,0,0,0,13,31,0,0,0,0,0,0,95,2,0,0,2,0
+Study 5,EMEA,ESP,Site 306,Subject 2556,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2557,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2558,Cycle 2 Week 1 (1),On Trial,,,,,,,,,,6,61,0,,,,0,0,0,0,0,0,0,0,2,9,0,0,0,0,0,0,49,8,0,0,1,7
+Study 5,EMEA,ESP,Site 306,Subject 2559,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,53,0,,,,0,0,0,1,0,0,0,1,1,7,0,0,0,0,0,0,50,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2560,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,EMEA,ESP,Site 306,Subject 2561,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,EMEA,ESP,Site 306,Subject 2562,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,EMEA,ESP,Site 307,Subject 2563,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,5,0,0,3,0,3
+Study 5,EMEA,ESP,Site 307,Subject 2564,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,5,0,0,3,0,3
+Study 5,EMEA,ESP,Site 307,Subject 2565,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,5,0,0,3,1,2
+Study 5,EMEA,ESP,Site 307,Subject 2566,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,0,0,6,2,4
+Study 5,EMEA,ESP,Site 307,Subject 2567,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ESP,Site 307,Subject 2568,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ESP,Site 307,Subject 2569,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,10,115,0,,,,0,0,0,1,0,0,0,1,25,77,0,0,0,0,0,0,0,18,23,61,0,102
+Study 5,EMEA,ESP,Site 307,Subject 2570,Cycle 4 Week 3 (1),On Trial,,,,,,,,,,11,90,0,,,,0,0,0,0,0,0,0,0,3,14,0,0,0,0,0,0,0,17,14,50,0,81
+Study 5,EMEA,ESP,Site 307,Subject 2571,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ESP,Site 307,Subject 2572,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ESP,Site 307,Subject 2573,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ESP,Site 307,Subject 2574,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,EMEA,ESP,Site 307,Subject 2575,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,7,0,0,8
+Study 5,EMEA,ESP,Site 307,Subject 2576,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,EMEA,ESP,Site 307,Subject 2577,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 5,EMEA,GBR,Site 308,Subject 2578,,,,,,,,,,,,0,2,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Study 5,EMEA,GBR,Site 309,Subject 2579,Last Fraction (EOT1) (1),Follow-Up,,,,,,,,,,3,36,0,,,,0,0,0,2,0,0,0,2,29,5,0,0,0,0,0,0,0,32,2,0,0,34
+Study 5,EMEA,GBR,Site 310,Subject 2580,Screening,,,,,,,,,,,1,24,0,,,,2,0,0,2,0,0,0,4,5,0,0,0,0,0,0,0,0,21,0,0,0,21
+Study 5,EMEA,CHE,Site 311,Subject 2581,Unplanned visit (1),Discontinued,,,,,,,,,,11,111,0,,,,0,0,0,0,0,0,0,0,1,102,0,0,0,0,2,0,96,2,0,4,6,0
+Study 5,EMEA,CHE,Site 312,Subject 2582,Cycle 3 Week 3 (1),On Trial,,,,,,,,,,9,70,0,,,,0,0,0,1,0,0,0,1,25,39,0,0,0,0,0,0,39,11,14,0,3,22
+Study 5,EMEA,CHE,Site 312,Subject 2583,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,EMEA,CHE,Site 313,Subject 2584,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,110,0,,,,0,0,0,0,0,0,0,0,1,102,0,0,0,0,1,0,101,1,0,0,1,0
+Study 5,EMEA,NLD,Site 314,Subject 2585,Cycle 3 Week 1 (1),On Trial,,,,,,,,,,8,78,0,,,,0,0,0,6,5,0,0,11,1,70,0,0,0,0,0,0,70,1,0,0,1,0
+Study 5,AMERICA,ARG,Site 165,Subject 1512,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,ARG,Site 165,Subject 1513,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,ARG,Site 165,Subject 2586,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,ARG,Site 165,Subject 2587,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,ARG,Site 165,Subject 2588,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,5,3,0,0,8
+Study 5,AMERICA,ARG,Site 165,Subject 2589,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,6,2,0,0,8
+Study 5,AMERICA,ARG,Site 165,Subject 2590,First Fraction (SBRT) (1),On Trial,,,,,,,,,,2,27,2,,,,0,0,0,9,0,0,0,9,12,5,0,0,0,0,0,0,0,22,2,0,0,24
+Study 5,AMERICA,ARG,Site 165,Subject 2591,Screening,,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 5,AMERICA,ARG,Site 315,Subject 2592,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 5,AMERICA,ARG,Site 315,Subject 2593,,,,,,,,,,,,0,2,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Study 5,AMERICA,ARG,Site 315,Subject 2594,Screening,,,,,,,,,,,1,4,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,2
+Study 5,AMERICA,ARG,Site 316,Subject 2595,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,4,1,0,6
+Study 5,AMERICA,ARG,Site 316,Subject 2596,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,4,1,0,6
+Study 5,AMERICA,ARG,Site 316,Subject 2597,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,5
+Study 5,AMERICA,ARG,Site 316,Subject 2598,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,2,1,0,0,3,1,3,0,0,0,0,0,0,0,5,2,0,0,7
+Study 5,AMERICA,ARG,Site 316,Subject 2599,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,4,0,0,0,4,2,2,0,0,0,0,0,1,0,5,2,0,0,7
+Study 5,AMERICA,ARG,Site 316,Subject 2600,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,0,0,0,7
+Study 5,AMERICA,CAN,Site 317,Subject 2601,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 317,Subject 2602,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 317,Subject 2603,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,114,0,,,,0,0,0,0,0,0,0,0,1,106,0,0,0,0,0,0,105,1,0,0,1,0
+Study 5,AMERICA,CAN,Site 317,Subject 2604,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 317,Subject 2605,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 317,Subject 2606,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 317,Subject 2607,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 317,Subject 2608,Cycle 4 Week 3 (1),On Trial,,,,,,,,,,11,97,0,,,,0,0,0,1,0,0,0,1,0,11,0,0,0,0,0,0,74,15,0,0,3,12
+Study 5,AMERICA,CAN,Site 317,Subject 2609,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 317,Subject 2610,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 317,Subject 2611,Screening,Screen Failure,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,9,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 318,Subject 2612,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,9,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 318,Subject 2613,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 318,Subject 2614,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 318,Subject 2615,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 318,Subject 2616,Cycle 3 Week 3 (1),On Trial,,,,,,,,,,9,89,0,,,,0,0,0,1,0,0,0,1,0,82,0,0,0,0,0,0,82,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 319,Subject 2617,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 320,Subject 2618,EOT2/Safety FU (42D) (1),On Trial,,,,,,,,,,12,119,0,,,,0,0,0,0,1,0,0,1,1,108,0,0,0,0,0,1,106,2,0,0,2,0
+Study 5,AMERICA,CAN,Site 320,Subject 2619,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 320,Subject 2620,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 320,Subject 2621,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 320,Subject 2622,Unplanned visit (1),On Trial,,,,,,,,,,9,84,0,,,,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,74,0,1,0,1,0
+Study 5,AMERICA,CAN,Site 321,Subject 2623,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 321,Subject 2624,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,13,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 321,Subject 2625,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 322,Subject 2626,Efficacy FU 3 (1),Survival,,,,,,,,,,15,128,0,,,,0,0,0,3,0,0,0,3,2,117,0,0,0,0,0,0,96,15,2,0,6,11
+Study 5,AMERICA,CAN,Site 322,Subject 2627,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 322,Subject 2628,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 322,Subject 2629,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,120,0,,,,0,0,0,4,0,0,0,4,0,25,0,0,0,0,0,0,89,19,4,0,12,11
+Study 5,AMERICA,CAN,Site 322,Subject 2630,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,127,0,,,,0,0,0,2,0,0,0,2,0,25,0,0,0,0,1,0,97,17,2,0,9,10
+Study 5,AMERICA,CAN,Site 322,Subject 2631,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 322,Subject 2632,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 322,Subject 2633,Cycle 4 Week 1 (1),On Trial,,,,,,,,,,10,96,0,,,,0,0,0,0,0,0,0,0,5,15,0,0,0,0,0,0,54,17,19,0,6,30
+Study 5,AMERICA,CAN,Site 322,Subject 2634,Cycle 3 Week 3 (1),On Trial,,,,,,,,,,9,73,0,,,,0,0,0,0,0,0,0,0,1,14,0,0,0,0,0,0,47,13,8,0,3,18
+Study 5,AMERICA,CAN,Site 322,Subject 2635,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,CAN,Site 322,Subject 2636,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,0,3,0,0,0,3
+Study 5,AMERICA,CAN,Site 323,Subject 2637,Screening,Discontinued,,,,,,,,,,0,11,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,9,0,9
+Study 5,AMERICA,BRA,Site 324,Subject 2638,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2639,Screening,Screen Failure,,,,,,,,,,1,14,0,,,,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,12,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2640,Cycle 2 Week 3 (1),On Trial,,,,,,,,,,7,71,0,,,,0,0,0,0,0,0,0,0,4,55,0,0,0,0,0,0,65,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2641,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2642,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2643,Screening,,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2644,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2645,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2646,Screening,,,,,,,,,,,1,7,0,,,,0,0,0,2,0,0,0,2,0,3,0,0,0,0,0,0,5,0,0,0,0,0
+Study 5,AMERICA,BRA,Site 324,Subject 2647,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,2,0,0,0,2,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,USA,Site 18,Subject 63,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 18,Subject 64,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 18,Subject 65,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 18,Subject 66,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 18,Subject 67,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,USA,Site 18,Subject 68,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,3
+Study 5,AMERICA,USA,Site 19,Subject 77,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 19,Subject 78,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,61,0,,,,0,0,0,12,4,0,0,16,17,36,0,0,0,0,0,0,38,9,0,0,6,3
+Study 5,AMERICA,USA,Site 325,Subject 2648,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 325,Subject 2649,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 325,Subject 2650,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 325,Subject 2651,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 326,Subject 2652,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 326,Subject 2653,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 326,Subject 2654,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,110,0,,,,0,0,0,0,0,0,0,0,2,24,0,0,0,0,0,0,100,2,0,0,2,0
+Study 5,AMERICA,USA,Site 326,Subject 2655,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,118,0,,,,0,1,0,0,0,0,0,1,0,26,0,0,0,0,0,0,109,1,0,0,1,0
+Study 5,AMERICA,USA,Site 326,Subject 2656,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,121,0,,,,0,0,0,0,0,0,0,0,12,102,0,0,0,0,1,0,112,1,0,0,1,0
+Study 5,AMERICA,USA,Site 326,Subject 2657,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,118,0,,,,0,0,0,0,0,0,0,0,2,23,0,0,0,0,0,0,110,0,0,0,0,0
+Study 5,AMERICA,USA,Site 326,Subject 2658,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 326,Subject 2659,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,USA,Site 326,Subject 2660,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 326,Subject 2661,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 326,Subject 2662,Last Fraction (EOT1) (1),Discontinued,,,,,,,,,,3,56,2,,,,0,0,0,1,0,0,0,1,8,10,0,0,0,0,0,0,40,7,0,0,6,1
+Study 5,AMERICA,USA,Site 326,Subject 2663,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,AMERICA,USA,Site 179,Subject 1604,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 179,Subject 1605,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,97,0,,,,0,0,0,1,0,0,0,1,0,19,0,0,0,0,0,0,85,5,0,0,5,0
+Study 5,AMERICA,USA,Site 179,Subject 1606,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,116,0,,,,0,0,0,2,1,0,0,3,1,106,0,0,0,0,0,0,93,13,0,0,7,6
+Study 5,AMERICA,USA,Site 179,Subject 1607,Cycle 3 Week 1 (1),On Trial,,,,,,,,,,8,78,0,,,,0,0,0,0,1,0,0,1,0,14,0,0,0,0,0,0,53,20,0,0,3,17
+Study 5,AMERICA,USA,Site 327,Subject 2664,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,7,0,7
+Study 5,AMERICA,USA,Site 327,Subject 2665,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,9,0,0,0,0,0
+Study 5,AMERICA,USA,Site 327,Subject 2666,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,56,0,,,,0,0,0,2,0,0,0,2,9,11,0,0,0,0,0,0,0,26,20,4,0,50
+Study 5,AMERICA,USA,Site 327,Subject 2667,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 328,Subject 2668,Cycle 4 Week 1 (1),On Trial,,,,,,,,,,10,96,0,,,,1,2,0,6,0,0,0,9,0,89,0,0,0,0,0,0,86,2,0,0,2,0
+Study 5,AMERICA,USA,Site 328,Subject 2669,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 180,Subject 1610,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 181,Subject 1614,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 181,Subject 2670,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 181,Subject 2671,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 181,Subject 2672,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6,2,0,0,2,0
+Study 5,AMERICA,USA,Site 181,Subject 2673,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 181,Subject 2674,Unplanned visit (6),Follow-Up,,,,,,,,,,12,135,0,,,,0,0,0,1,0,0,0,1,8,113,0,0,0,0,0,0,93,28,0,0,13,15
+Study 5,AMERICA,USA,Site 181,Subject 2675,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 181,Subject 2676,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,AMERICA,USA,Site 181,Subject 2677,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,AMERICA,USA,Site 181,Subject 2678,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 181,Subject 2679,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,1,0,0,1,0
+Study 5,AMERICA,USA,Site 181,Subject 2680,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,7,1,0,0,1,0
+Study 5,AMERICA,USA,Site 181,Subject 2681,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,61,0,,,,0,0,0,0,0,0,0,0,3,7,0,0,0,0,0,0,13,41,0,0,12,29
+Study 5,AMERICA,USA,Site 181,Subject 2682,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 329,Subject 2683,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2684,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2685,Long term safety FU 1 (1),Follow-Up,,,,,,,,,,15,140,0,,,,0,0,0,0,0,0,0,0,6,124,0,0,0,0,3,0,89,19,2,19,12,28
+Study 5,AMERICA,USA,Site 329,Subject 2686,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,99,0,,,,0,0,0,0,0,0,0,0,1,23,0,0,0,0,3,0,65,4,9,13,9,17
+Study 5,AMERICA,USA,Site 329,Subject 2687,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2688,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2689,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2690,EOT2/Safety FU (42D) (1),Survival,,,,,,,,,,12,112,0,,,,0,1,2,0,0,0,0,3,1,22,0,0,0,0,1,0,65,5,1,30,9,27
+Study 5,AMERICA,USA,Site 329,Subject 2691,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2692,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2693,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2694,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,115,0,,,,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,60,11,14,22,9,38
+Study 5,AMERICA,USA,Site 329,Subject 2695,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,114,0,,,,0,0,0,0,0,0,0,0,4,23,0,0,0,0,1,0,40,15,17,32,6,58
+Study 5,AMERICA,USA,Site 329,Subject 2696,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2697,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,1,1,0
+Study 5,AMERICA,USA,Site 329,Subject 2698,Cycle 4 Week 3 (1),On Trial,,,,,,,,,,11,97,0,,,,0,0,0,1,0,0,0,1,1,20,0,0,0,0,0,0,36,13,20,20,6,47
+Study 5,AMERICA,USA,Site 329,Subject 2699,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,AMERICA,USA,Site 329,Subject 2700,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,USA,Site 24,Subject 90,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 24,Subject 2701,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 24,Subject 2702,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,9,0,9
+Study 5,AMERICA,USA,Site 330,Subject 2703,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 331,Subject 2704,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 331,Subject 2705,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 331,Subject 2706,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 331,Subject 2707,Screening,Screen Failure,,,,,,,,,,1,21,0,,,,0,0,0,6,0,0,0,6,0,5,0,0,0,0,0,0,18,0,0,0,0,0
+Study 5,AMERICA,USA,Site 331,Subject 2708,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,3,0,0,0,3,3,3,0,0,0,0,0,0,5,3,2,0,4,1
+Study 5,AMERICA,USA,Site 331,Subject 2709,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,8,1,0,0,9
+Study 5,AMERICA,USA,Site 187,Subject 1635,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,1,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 187,Subject 1636,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 187,Subject 2710,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 187,Subject 2711,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 187,Subject 2712,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,7,0,0,0,7
+Study 5,AMERICA,USA,Site 187,Subject 2713,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,AMERICA,USA,Site 189,Subject 1639,,,,,,,,,,,,0,3,0,,,,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Study 5,AMERICA,USA,Site 332,Subject 2714,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 332,Subject 2715,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 332,Subject 2716,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 332,Subject 2717,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 332,Subject 2718,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,2,0,0,0,2,2,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 333,Subject 2719,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 333,Subject 2720,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 333,Subject 2721,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,149,0,,,,0,1,0,0,0,0,0,1,1,134,0,0,0,0,0,0,127,7,0,0,3,4
+Study 5,AMERICA,USA,Site 333,Subject 2722,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 333,Subject 2723,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 333,Subject 2724,Cycle 3 Week 3 (1),On Trial,,,,,,,,,,9,87,0,,,,0,0,0,1,0,0,0,1,1,37,0,0,0,0,0,0,77,1,0,0,0,1
+Study 5,AMERICA,USA,Site 333,Subject 2725,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 333,Subject 2726,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 333,Subject 2727,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 333,Subject 2728,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,51,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,45,2,0,0,1,1
+Study 5,AMERICA,USA,Site 334,Subject 2729,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 335,Subject 2730,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 335,Subject 2731,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,114,0,,,,0,0,0,0,2,0,0,2,8,99,0,0,0,0,0,0,104,3,0,0,2,1
+Study 5,AMERICA,USA,Site 335,Subject 2732,Screening,Discontinued,,,,,,,,,,1,12,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,10,0,0,0,0,0
+Study 5,AMERICA,USA,Site 335,Subject 2733,Cycle 4 Week 1 (1),On Trial,,,,,,,,,,8,91,0,,,,0,0,0,0,0,0,0,0,2,16,0,0,0,0,0,0,75,8,0,0,1,7
+Study 5,AMERICA,USA,Site 335,Subject 2734,Screening,Screen Failure,,,,,,,,,,1,26,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,24,0,0,0,0,0
+Study 5,AMERICA,USA,Site 335,Subject 2735,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 335,Subject 2736,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,54,0,,,,0,0,0,0,0,0,0,0,3,8,0,0,0,0,1,0,48,2,0,0,0,2
+Study 5,AMERICA,USA,Site 335,Subject 2737,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,1,0,8,0,0,0,0,0
+Study 5,AMERICA,USA,Site 335,Subject 2738,Screening,,,,,,,,,,,1,5,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0
+Study 5,AMERICA,USA,Site 336,Subject 2739,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 336,Subject 2740,Cycle 2 Week 1 (1),On Trial,,,,,,,,,,6,65,0,,,,0,1,0,10,0,0,0,11,14,44,0,0,0,0,0,0,0,28,20,9,0,57
+Study 5,AMERICA,USA,Site 336,Subject 2741,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,AMERICA,USA,Site 336,Subject 2742,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,AMERICA,USA,Site 336,Subject 2743,Screening,,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,5
+Study 5,AMERICA,USA,Site 337,Subject 2744,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 337,Subject 2745,Cycle 4 Week 1 (1),On Trial,,,,,,,,,,10,101,0,,,,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,18,10,60,0,88
+Study 5,AMERICA,USA,Site 337,Subject 2746,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 337,Subject 2747,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 337,Subject 2748,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,AMERICA,USA,Site 338,Subject 2749,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,1,6,0,8
+Study 5,AMERICA,USA,Site 338,Subject 2750,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,3,3,0,8
+Study 5,AMERICA,USA,Site 338,Subject 2751,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,4,54,0,,,,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,27,22,2,0,51
+Study 5,AMERICA,USA,Site 338,Subject 2752,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,4,54,0,,,,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,22,25,1,0,48
+Study 5,AMERICA,USA,Site 338,Subject 2753,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,1,0,0,8
+Study 5,AMERICA,USA,Site 338,Subject 2754,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,AMERICA,USA,Site 338,Subject 2755,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,AMERICA,USA,Site 338,Subject 2756,Screening,,,,,,,,,,,1,17,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,14,0,0,0,14
+Study 5,AMERICA,USA,Site 338,Subject 2757,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,USA,Site 338,Subject 2758,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,USA,Site 338,Subject 2759,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,USA,Site 339,Subject 2760,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,AMERICA,USA,Site 339,Subject 2761,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,3,1,0,0,4,4,3,0,0,0,0,0,0,0,0,7,0,0,7
+Study 5,AMERICA,USA,Site 339,Subject 2762,Screening,Enrolled,,,,,,,,,,1,26,1,,,,0,0,0,2,0,0,0,2,2,1,0,0,0,0,0,0,0,15,0,0,0,15
+Study 5,AMERICA,USA,Site 340,Subject 2763,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,56,0,,,,0,0,0,0,0,0,0,0,47,3,0,0,0,0,0,0,0,24,26,0,0,50
+Study 5,AMERICA,USA,Site 340,Subject 2764,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,AMERICA,USA,Site 340,Subject 2765,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,USA,Site 340,Subject 2766,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,USA,Site 340,Subject 2767,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,USA,Site 340,Subject 2768,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,AMERICA,USA,Site 341,Subject 2769,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,4,5,0,9
+Study 5,AMERICA,USA,Site 342,Subject 2770,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,2,0,0,0,2,4,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,AMERICA,USA,Site 343,Subject 2771,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,AMERICA,USA,Site 343,Subject 2772,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,ASIA,JPN,Site 191,Subject 1668,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1669,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1670,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1671,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1672,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1673,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1674,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1675,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1676,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 191,Subject 1677,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,ASIA,JPN,Site 191,Subject 1678,,,,,,,,,,,,0,3,0,,,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,2
+Study 5,ASIA,JPN,Site 192,Subject 1689,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,JPN,Site 192,Subject 1690,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,14,113,1,,,,0,0,0,1,0,0,0,1,3,102,0,0,0,0,0,0,0,6,0,98,0,104
+Study 5,ASIA,JPN,Site 192,Subject 1691,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,JPN,Site 192,Subject 1692,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,JPN,Site 192,Subject 1693,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,JPN,Site 192,Subject 2773,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,JPN,Site 192,Subject 2774,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,JPN,Site 192,Subject 2775,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,JPN,Site 192,Subject 2776,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,8,0,8
+Study 5,ASIA,JPN,Site 192,Subject 2777,Cycle 1 Week 3 (1),On Trial,,,,,,,,,,5,53,0,,,,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,23,24,3,0,50
+Study 5,ASIA,JPN,Site 192,Subject 2778,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,5,3,0,0,8
+Study 5,ASIA,JPN,Site 25,Subject 91,Screening,Screen Failure,,,,,,,,,,1,15,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,12,0,0,0,0,0
+Study 5,ASIA,JPN,Site 25,Subject 92,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 25,Subject 1694,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,125,0,,,,0,2,0,0,0,0,0,2,3,109,0,0,0,0,0,0,114,0,0,0,0,0
+Study 5,ASIA,JPN,Site 25,Subject 1695,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 25,Subject 1696,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 25,Subject 1697,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,4,49,1,,,,0,0,0,4,0,0,0,4,4,4,0,0,0,0,0,0,33,11,0,0,1,10
+Study 5,ASIA,JPN,Site 25,Subject 2779,Screening,Screen Failure,,,,,,,,,,1,7,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,5,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 1698,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2780,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2781,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2782,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2783,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2784,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2785,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2786,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2787,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2788,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2789,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2790,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2791,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2792,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 193,Subject 2793,Cycle 1 Week 1 (1),On Trial,,,,,,,,,,4,46,0,,,,0,0,0,0,0,0,0,0,28,15,0,0,0,0,0,0,43,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2794,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2795,Screening,Discontinued,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,9,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2796,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2797,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2798,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2799,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2800,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2801,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 344,Subject 2802,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 345,Subject 2803,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 345,Subject 2804,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 345,Subject 2805,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 345,Subject 2806,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 345,Subject 2807,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 345,Subject 2808,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,6,0,0,0,0,0
+Study 5,ASIA,JPN,Site 345,Subject 2809,Screening,,,,,,,,,,,1,8,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,4,0,0,1,3
+Study 5,ASIA,JPN,Site 196,Subject 1712,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 196,Subject 1713,EOT2/Safety FU (42D) (1),Follow-Up,,,,,,,,,,12,96,0,,,,0,0,0,1,0,0,0,1,9,79,0,0,0,0,0,0,54,34,0,0,3,31
+Study 5,ASIA,JPN,Site 196,Subject 1714,Screening,,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6,1,0,0,1,0
+Study 5,ASIA,JPN,Site 196,Subject 1715,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,8
+Study 5,ASIA,JPN,Site 197,Subject 1717,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,7,0,1,0,1,0
+Study 5,ASIA,JPN,Site 197,Subject 1718,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 197,Subject 1719,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 197,Subject 1720,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 197,Subject 1721,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 197,Subject 1722,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 197,Subject 2810,Cycle 4 Week 1 (1),On Trial,,,,,,,,,,10,84,0,,,,0,0,0,0,0,0,0,0,18,42,0,0,0,0,0,0,49,19,10,0,4,25
+Study 5,ASIA,JPN,Site 198,Subject 1723,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 198,Subject 1724,Efficacy FU 1 (1),Follow-Up,,,,,,,,,,13,113,0,,,,0,0,0,1,0,0,0,1,7,98,0,0,0,0,1,0,104,0,0,0,0,0
+Study 5,ASIA,JPN,Site 198,Subject 1725,Efficacy FU 2 (1),Follow-Up,,,,,,,,,,6,71,0,,,,0,0,0,0,0,0,0,0,5,61,0,0,0,0,1,0,67,0,0,0,0,0
+Study 5,ASIA,JPN,Site 198,Subject 1726,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 1744,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 1745,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 1746,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 1747,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 1748,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 1749,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 1750,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 1751,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 2811,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 2812,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,JPN,Site 200,Subject 2813,Last Fraction (EOT1) (1),On Trial,,,,,,,,,,3,35,0,,,,1,0,0,0,0,0,0,1,3,3,0,0,0,0,0,0,23,8,0,0,0,8
+Study 5,ASIA,CHN,Site 346,Subject 2814,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,2,0,0,2,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,CHN,Site 346,Subject 2815,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,CHN,Site 346,Subject 2816,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,CHN,Site 346,Subject 2817,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,CHN,Site 346,Subject 2818,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,ASIA,CHN,Site 346,Subject 2819,Screening,,,,,,,,,,,1,6,0,,,,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,4
+Study 5,ASIA,CHN,Site 346,Subject 2820,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,ASIA,CHN,Site 346,Subject 2821,,,,,,,,,,,,0,1,0,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Study 5,ASIA,CHN,Site 347,Subject 2822,Screening,Screen Failure,,,,,,,,,,1,11,0,,,,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,CHN,Site 347,Subject 2823,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,CHN,Site 347,Subject 2824,Screening,Screen Failure,,,,,,,,,,1,10,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0,0
+Study 5,ASIA,CHN,Site 348,Subject 2825,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,ASIA,CHN,Site 348,Subject 2826,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,ASIA,CHN,Site 348,Subject 2827,Screening,Screen Failure,,,,,,,,,,1,9,0,,,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0,0,0,0
+Study 5,ASIA,CHN,Site 348,Subject 2828,Screening,Screen Failure,,,,,,,,,,1,8,0,,,,0,0,0,1,0,0,0,1,1,4,0,0,0,0,0,0,0,6,0,0,0,6
+,,,112,678,Total:,,,,,,,,,,,1691,16372,14,,,,20,21,3,156,55,0,0,255,1630,6478,0,0,,,,,10611,Site 485,679,Site 1654,469,Site 899
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
