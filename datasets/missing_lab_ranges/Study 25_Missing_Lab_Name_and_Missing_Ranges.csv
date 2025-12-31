@@ -1,0 +1,9 @@
+﻿Study,Country,Site number,Subject,Visit,Form Name,Lab category,Lab Date,Test Name,Test description,Issue,Comments
+Study 25,ARG,Site 31,Subject 118,Unplanned Visit (5),Form 1,CHEMISTRY,31-MAR-2025,ALP,"Alkaline
+phosphatase",Ranges/ Units not entered,Action for CRA
+Study 25,ARG,Site 31,Subject 118,Unplanned Visit (5),Form 1,CHEMISTRY,31-MAR-2025,ALT,"Alanine
+aminotransferase",Ranges/ Units not entered,Action for CRA
+Study 25,ARG,Site 31,Subject 118,Unplanned Visit (5),Form 1,CHEMISTRY,31-MAR-2025,AST,"Aspartate
+aminotransferase",Ranges/ Units not entered,Action for CRA
+Study 25,ARG,Site 31,Subject 118,Unplanned Visit (5),Form 1,CHEMISTRY,31-MAR-2025,BILI,Bilirubin,Ranges/ Units not entered,Action for CRA
+Study 25,TUR,Site 2225,Subject 48077,Unplanned Visit (4),Form 2,CHEMISTRY,,,,,

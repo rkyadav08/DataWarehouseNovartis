@@ -1,0 +1,353 @@
+﻿stydy,Country,Site number,Subject,Visit,Form Name,Lab category,Lab Date,Test Name,Test description,Issue,Comments
+Study 6,AUS,Site 14,Subject 29,Screening,Form 1,CHEMISTRY,07-AUG-2025,HBVDNA,"Hepatitis B Virus
+DNA",Ranges/ Units not entered,Action for CRA
+Study 6,AUS,Site 14,Subject 30,Screening,Form 1,CHEMISTRY,21-AUG-2025,HBVDNA,"Hepatitis B Virus
+DNA",Ranges/ Units not entered,Action for CRA
+Study 6,AUS,Site 14,Subject 31,Screening,Form 1,CHEMISTRY,21-AUG-2025,HBVDNA,"Hepatitis B Virus
+DNA",Ranges/ Units not entered,Action for CRA
+Study 6,AUS,Site 14,Subject 32,Screening,Form 1,CHEMISTRY,28-AUG-2025,HBVDNA,"Hepatitis B Virus
+DNA",Ranges/ Units not entered,Action for CRA
+Study 6,AUS,Site 14,Subject 33,Screening,Form 1,CHEMISTRY,04-SEP-2025,HBVDNA,"Hepatitis B Virus
+DNA",Ranges/ Units not entered,Action for CRA
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,BASO,Basophils (absolute),Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,HCT,Hematocrit,Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,HGB,Hemoglobin,Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,MONO,"Monocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,PLAT,Platelets,Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,RBC,Erythrocytes,Missing Lab name,Action for Site
+Study 6,AUS,Site 15,Subject 39,Unplanned Visit (1),Form 2,HEMATOLOGY,09-SEP-2025,WBC,Leukocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 1 (1),Form 3,CHEMISTRY,26-MAY-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 1 (1),Form 4,HEMATOLOGY,26-MAY-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 1 (1),Form 5,URINALYSIS,26-MAY-2025,URBCQ,"Urine red blood cells
+(value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 1 (1),Form 5,URINALYSIS,26-MAY-2025,UWBCQ,"Urine white blood
+cells (value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 3 (1),Form 3,CHEMISTRY,09-JUN-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 3 (1),Form 4,HEMATOLOGY,09-JUN-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 3 (1),Form 5,URINALYSIS,09-JUN-2025,URBCQ,"Urine red blood cells
+(value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 3 (1),Form 5,URINALYSIS,09-JUN-2025,UWBCQ,"Urine white blood
+cells (value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 5 (1),Form 3,CHEMISTRY,23-JUN-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 5 (1),Form 4,HEMATOLOGY,23-JUN-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 5 (1),Form 5,URINALYSIS,23-JUN-2025,URBCQ,"Urine red blood cells
+(value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 5 (1),Form 5,URINALYSIS,23-JUN-2025,UWBCQ,"Urine white blood
+cells (value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 7 (1),Form 3,CHEMISTRY,07-JUL-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 7 (1),Form 4,HEMATOLOGY,07-JUL-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 7 (1),Form 5,URINALYSIS,07-JUL-2025,URBCQ,"Urine red blood cells
+(value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 1 Week 7 (1),Form 5,URINALYSIS,07-JUL-2025,UWBCQ,"Urine white blood
+cells (value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 1 (1),Form 3,CHEMISTRY,21-JUL-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 1 (1),Form 4,HEMATOLOGY,21-JUL-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 3 (1),Form 3,CHEMISTRY,05-AUG-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 3 (1),Form 4,HEMATOLOGY,05-AUG-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 5 (1),Form 3,CHEMISTRY,19-AUG-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 5 (1),Form 4,HEMATOLOGY,19-AUG-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 5 (1),Form 5,URINALYSIS,19-AUG-2025,UEPICHPF,"Urine epithelial cells
+/HPF",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 5 (1),Form 5,URINALYSIS,19-AUG-2025,UCASTQ,Urine CAST (value),Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 7 (1),Form 3,CHEMISTRY,01-SEP-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 7 (1),Form 4,HEMATOLOGY,01-SEP-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 2 Week 7 (1),Form 5,URINALYSIS,01-SEP-2025,UCASTQ,Urine CAST (value),Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 3 Week 1 (1),Form 3,CHEMISTRY,15-SEP-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 3 Week 1 (1),Form 4,HEMATOLOGY,15-SEP-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 3 Week 1 (1),Form 5,URINALYSIS,15-SEP-2025,UEPICHPF,"Urine epithelial cells
+/HPF",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 3 Week 1 (1),Form 5,URINALYSIS,15-SEP-2025,BACT,Bacteria (HPF),Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 3 Week 1 (1),Form 5,URINALYSIS,15-SEP-2025,UCASTQ,Urine CAST (value),Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 3 Week 5 (1),Form 3,CHEMISTRY,14-OCT-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Cycle 3 Week 5 (1),Form 4,HEMATOLOGY,14-OCT-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Screening,Form 3,CHEMISTRY,06-MAY-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Screening,Form 4,HEMATOLOGY,06-MAY-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Screening,Form 5,URINALYSIS,06-MAY-2025,URBCQ,"Urine red blood cells
+(value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Screening,Form 5,URINALYSIS,06-MAY-2025,UWBCQ,"Urine white blood
+cells (value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 1513,Screening,Form 5,URINALYSIS,06-MAY-2025,UCASTQ,Urine CAST (value),Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 2586,Cycle 1 Week 1 (1),Form 3,CHEMISTRY,11-AUG-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 2586,Cycle 1 Week 1 (1),Form 4,HEMATOLOGY,11-AUG-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,ALB,Albumin,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,ALP,"Alkaline
+phosphatase",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,ALT,"Alanine
+aminotransferase",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,AST,"Aspartate
+aminotransferase",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,BICARB,Bicarbonate,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,BILI,Bilirubin,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,CA,Calcium,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,CHOL,Cholesterol,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,CL,Chloride,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,CREAT,Creatinine,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,CYSTATC,Cystatin C,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,GLUCSF,"Glucose, serum,
+fasting",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,HDL,HDL cholesterol,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,K,Potassium,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,LDH,"Lactate
+dehydrogenase",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,LDL,"LDL cholesterol
+(assayed)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,MG,Magnesium,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,PHOS,Phosphate,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,SODIUM,Sodium,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,TPROT,Total protein,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,TRIG,Triglycerides,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,URATE,Uric acid,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 3,CHEMISTRY,18-JUL-2025,UREA,Urea,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,BASO,Basophils (absolute),Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,HCT,Hematocrit,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,HGB,Hemoglobin,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,MONO,"Monocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,PLAT,Platelets,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,RBC,Erythrocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 4,HEMATOLOGY,18-JUL-2025,WBC,Leukocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 6,URINALYSIS,18-JUL-2025,UPHST,Urine pH dipstick,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 6,URINALYSIS,18-JUL-2025,USPGRST,"Urine specific
+gravity dipstick",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 5,URINALYSIS,18-JUL-2025,URBCQ,"Urine red blood cells
+(value)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Screening,Form 5,URINALYSIS,18-JUL-2025,UWBCQ,"Urine white blood
+cells (value)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,ALB,Albumin,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,ALP,"Alkaline
+phosphatase",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,ALT,"Alanine
+aminotransferase",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,AST,"Aspartate
+aminotransferase",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,BILI,Bilirubin,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,BUN,Blood urea nitrogen,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,CA,Calcium,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,CHOL,Cholesterol,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,CL,Chloride,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,CREAT,Creatinine,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,GLUCSF,"Glucose, serum,
+fasting",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,HDL,HDL cholesterol,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,K,Potassium,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,LDH,"Lactate
+dehydrogenase",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,LDL,"LDL cholesterol
+(assayed)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,MG,Magnesium,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,SODIUM,Sodium,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,TPROT,Total protein,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,TRIG,Triglycerides,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,URATE,Uric acid,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 7,CHEMISTRY,20-AUG-2025,UREA,Urea,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,BASO,Basophils (absolute),Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,BASOLE,"Basophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,EOSLE,"Eosinophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,HGB,Hemoglobin,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,LYMLE,"Lymphocytes
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,MONO,"Monocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,MONOLE,"Monocytes
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,NEUTLE,"Neutrophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,PLAT,Platelets,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (1),Form 8,HEMATOLOGY,18-AUG-2025,RBC,Erythrocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,BASO,Basophils (absolute),Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,BASOLE,"Basophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,EOSLE,"Eosinophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,HGB,Hemoglobin,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,LYMLE,"Lymphocytes
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,MONO,"Monocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,MONOLE,"Monocytes
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,NEUTLE,"Neutrophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,PLAT,Platelets,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,RBC,Erythrocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 9,HEMATOLOGY,13-AUG-2025,WBC,Leukocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,BASO,Basophils (absolute),Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,BASOLE,"Basophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,EOSLE,"Eosinophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,LYMLE,"Lymphocytes
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,MONO,"Monocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,MONOLE,"Monocytes
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,NEUTLE,"Neutrophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,PLAT,Platelets,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,RBC,Erythrocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 10,HEMATOLOGY,12-AUG-2025,WBC,Leukocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,BASO,Basophils (absolute),Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,BASOLE,"Basophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,EOSLE,"Eosinophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,HBA1CHGB,"Hemoglobin
+A1C/Hemoglobin",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,HGB,Hemoglobin,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,LYMLE,"Lymphocytes
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,MONO,"Monocytes
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,MONOLE,"Monocytes
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,NEUTLE,"Neutrophils
+/leukocytes",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,PLAT,Platelets,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,RBC,Erythrocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 11,HEMATOLOGY,20-AUG-2025,WBC,Leukocytes,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 12,URINALYSIS,13-AUG-2025,UPHST,Urine pH dipstick,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (3),Form 12,URINALYSIS,13-AUG-2025,USPGRST,"Urine specific
+gravity dipstick",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 13,URINALYSIS,20-AUG-2025,UPHST,Urine pH dipstick,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 13,URINALYSIS,20-AUG-2025,USPGRST,"Urine specific
+gravity dipstick",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 14,URINALYSIS,20-AUG-2025,UPHST,Urine pH dipstick,Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 14,URINALYSIS,20-AUG-2025,USPGRST,"Urine specific
+gravity dipstick",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (4),Form 15,CHEMISTRY,20-AUG-2025,PSA,"Prostate Specific
+Antigen",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2586,Unplanned Visit (2),Form 16,CHEMISTRY,12-AUG-2025,PSA,"Prostate Specific
+Antigen",Missing Lab name,Action for Site
+Study 6,CHN,Site 165,Subject 2587,Screening,Form 3,CHEMISTRY,20-OCT-2025,HBA1C,Hemoglobin A1C,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 165,Subject 2587,Screening,Form 3,CHEMISTRY,20-OCT-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,ALB,Albumin,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,ALP,"Alkaline
+phosphatase",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,ALT,"Alanine
+aminotransferase",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,AST,"Aspartate
+aminotransferase",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,BICARB,Bicarbonate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,BILI,Bilirubin,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,CA,Calcium,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,CHOL,Cholesterol,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,CL,Chloride,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,CREAT,Creatinine,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,CYSTATC,Cystatin C,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,GLUCSF,"Glucose, serum,
+fasting",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,HDL,HDL cholesterol,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,K,Potassium,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,LDH,"Lactate
+dehydrogenase",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,LDL,"LDL cholesterol
+(assayed)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,MG,Magnesium,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,PHOS,Phosphate,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,SODIUM,Sodium,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,TPROT,Total protein,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,TRIG,Triglycerides,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,URATE,Uric acid,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 3,CHEMISTRY,13-AUG-2025,UREA,Urea,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 17,HEMATOLOGY,13-AUG-2025,APTT,"Activated partial
+thromboplastin time",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 17,HEMATOLOGY,13-AUG-2025,INR,"Prothrombin intl.
+normalized ratio",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 17,HEMATOLOGY,13-AUG-2025,PTI,Prothrombin time,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,BASO,Basophils (absolute),Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,BASOLE,"Basophils
+/leukocytes",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,EOS,"Eosinophils
+(absolute)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,EOSLE,"Eosinophils
+/leukocytes",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,HCT,Hematocrit,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,HGB,Hemoglobin,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,LYM,"Lymphocytes
+(absolute)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,LYMLE,"Lymphocytes
+/leukocytes",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,MONO,"Monocytes
+(absolute)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,MONOLE,"Monocytes
+/leukocytes",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,NEUT,"Neutrophils
+(absolute)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,NEUTLE,"Neutrophils
+/leukocytes",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,PLAT,Platelets,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,RBC,Erythrocytes,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 4,HEMATOLOGY,13-AUG-2025,WBC,Leukocytes,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 6,URINALYSIS,13-AUG-2025,UPHST,Urine pH dipstick,Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 6,URINALYSIS,13-AUG-2025,USPGRST,"Urine specific
+gravity dipstick",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 5,URINALYSIS,13-AUG-2025,BACT,Bacteria (HPF),Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 5,URINALYSIS,13-AUG-2025,UCASTQ,Urine CAST (value),Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 5,URINALYSIS,13-AUG-2025,UEPICHPF,"Urine epithelial cells
+/HPF",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 5,URINALYSIS,13-AUG-2025,URBCQ,"Urine red blood cells
+(value)",Ranges/ Units not entered,Action for CRA
+Study 6,CHN,Site 168,Subject 1520,Screening,Form 5,URINALYSIS,13-AUG-2025,UWBCQ,"Urine white blood
+cells (value)",Ranges/ Units not entered,Action for CRA
+Study 6,JPN,Site 345,Subject 2803,Screening,Form 1,CHEMISTRY,16-OCT-2025,HBVDNA,"Hepatitis B Virus
+DNA",Ranges/ Units not entered,Action for CRA
