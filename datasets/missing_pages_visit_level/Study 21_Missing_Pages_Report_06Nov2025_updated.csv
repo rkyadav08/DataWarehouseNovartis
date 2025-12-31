@@ -1,0 +1,224 @@
+﻿Study 21,Country,Site Number,Subject Name,oss,vlss,fss,Visit Name,folder_name,Subject Stat,Visit date,# of Days Missing
+Study 21,INDIA,Site 456,Subject 5701,,,,Month33,,Subject continuing,Missing visit date,
+Study 21,INDIA,Site 456,Subject 5701,,,,Month33,,Subject continuing,Missing visit date,
+Study 21,INDIA,Site 456,Subject 5701,,,,Month33,,Subject continuing,Missing visit date,
+Study 21,INDIA,Site 456,Subject 5721,,,,Month27,,Subject continuing,26 SEP 2025,40
+Study 21,INDIA,Site 789,Subject 5844,,,,EOS,,,Missing visit date,
+Study 21,INDIA,Site 789,Subject 5844,,,,EOS,,,Missing visit date,
+Study 21,INDIA,Site 789,Subject 5844,,,,EOS,,,Missing visit date,
+Study 21,INDIA,Site 789,Subject 5856,,,,EOS,,,Missing visit date,
+Study 21,INDIA,Site 789,Subject 5856,,,,EOS,,,Missing visit date,
+Study 21,INDIA,Site 789,Subject 5856,,,,EOS,,,Missing visit date,
+Study 21,MAURITIUS,Site 59,Subject 6065,,,,Month21,,Subject continuing,Missing visit date,
+Study 21,MAURITIUS,Site 59,Subject 6065,,,,Month21,,Subject continuing,Missing visit date,
+Study 21,MAURITIUS,Site 59,Subject 6065,,,,Month27,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,MAURITIUS,Site 59,Subject 6065,,,,Month27,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,CROATIA,Site 502,Subject 6302,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,FRANCE,Site 825,Subject 6905,,,,Month33,,Subject continuing,17 SEP 2025,49
+Study 21,ITALY,Site 464,Subject 3523,,,,Month39,,Missed visit - subject unavailable,Missing visit date,
+Study 21,ITALY,Site 842,Subject 7159,,,,Month39,,Subject continuing,25 AUG 2025,72
+Study 21,ITALY,Site 842,Subject 7162,,,,Month39,,Subject continuing,01 SEP 2025,65
+Study 21,NETHERLANDS,Site 155,Subject 7303,,,,Month33,,Subject continuing,8 OCT 2025,28
+Study 21,NETHERLANDS,Site 156,Subject 7326,,,,Month33,,Subject continuing,21 AUG 2025,76
+Study 21,NETHERLANDS,Site 156,Subject 7326,,,,Month33,,Subject continuing,21 AUG 2025,76
+Study 21,NETHERLANDS,Site 848,Subject 7570,,,,Month45,,Subject continuing,Missing visit date,
+Study 21,NETHERLANDS,Site 848,Subject 7570,,,,Month45,,Subject continuing,Missing visit date,
+Study 21,NETHERLANDS,Site 848,Subject 7570,,,,Month45,,Subject continuing,Missing visit date,
+Study 21,NETHERLANDS,Site 160,Subject 7732,,,,Month33,,Subject continuing,27 OCT 2025,9
+Study 21,NETHERLANDS,Site 160,Subject 7736,,,,EOS,,,Missing visit date,
+Study 21,NETHERLANDS,Site 160,Subject 7736,,,,EOS,,,Missing visit date,
+Study 21,NETHERLANDS,Site 160,Subject 7736,,,,EOS,,,Missing visit date,
+Study 21,NETHERLANDS,Site 160,Subject 7736,,,,EOS,,,Missing visit date,
+Study 21,NETHERLANDS,Site 855,Subject 7835,,,,Unplanned Visit (1),,,Missing visit date,
+Study 21,NETHERLANDS,Site 855,Subject 7835,,,,Unplanned Visit (1),,,Missing visit date,
+Study 21,NETHERLANDS,Site 855,Subject 7844,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,NETHERLANDS,Site 855,Subject 7844,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,PORTUGAL,Site 575,Subject 8243,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,PORTUGAL,Site 575,Subject 8243,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,PORTUGAL,Site 575,Subject 8243,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,PORTUGAL,Site 575,Subject 8243,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,PORTUGAL,Site 781,Subject 8263,,,,Month27,,Subject continuing,22 SEP 2025,44
+Study 21,SPAIN,Site 522,Subject 8933,,,,Unplanned Visit (1),,,28 FEB 2024,616
+Study 21,SPAIN,Site 875,Subject 8976,,,,Month33,,Subject continuing,27 OCT 2025,9
+Study 21,SPAIN,Site 878,Subject 9101,,,,Month33,,Subject continuing,14 OCT 2025,22
+Study 21,SPAIN,Site 890,Subject 9347,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,SPAIN,Site 890,Subject 9363,,,,Month27,,Subject discontinued from treatment at this visit,17 SEP 2025,49
+Study 21,SPAIN,Site 895,Subject 9459,,,,Month39,,Subject continuing,17 SEP 2025,49
+Study 21,SPAIN,Site 895,Subject 9459,,,,Month39,,Subject continuing,17 SEP 2025,49
+Study 21,SPAIN,Site 895,Subject 9459,,,,Month39,,Subject continuing,17 SEP 2025,49
+Study 21,SPAIN,Site 897,Subject 9496,,,,Month33,,Subject continuing,11 SEP 2025,55
+Study 21,ARGENTINA,Site 356,Subject 10281,,,,EOS,,,Missing visit date,
+Study 21,ARGENTINA,Site 356,Subject 10281,,,,EOS,,,Missing visit date,
+Study 21,ARGENTINA,Site 356,Subject 10281,,,,EOS,,,Missing visit date,
+Study 21,ARGENTINA,Site 356,Subject 10281,,,,EOS,,,Missing visit date,
+Study 21,ARGENTINA,Site 436,Subject 10541,,,,Month33,,Subject continuing,Missing visit date,
+Study 21,ARGENTINA,Site 436,Subject 10541,,,,Month33,,Subject continuing,Missing visit date,
+Study 21,ARGENTINA,Site 436,Subject 10541,,,,Month33,,Subject continuing,Missing visit date,
+Study 21,ARGENTINA,Site 436,Subject 10541,,,,Month33,,Subject continuing,Missing visit date,
+Study 21,ARGENTINA,Site 174,Subject 10676,,,,Month39,,Subject continuing,10 SEP 2025,56
+Study 21,ARGENTINA,Site 174,Subject 10676,,,,Month39,,Subject continuing,10 SEP 2025,56
+Study 21,ARGENTINA,Site 913,Subject 10991,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,ARGENTINA,Site 913,Subject 10991,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,ARGENTINA,Site 913,Subject 10991,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,ARGENTINA,Site 913,Subject 10991,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,ARGENTINA,Site 913,Subject 10993,,,,Month39,,Subject continuing,22 OCT 2025,14
+Study 21,ARGENTINA,Site 913,Subject 10993,,,,Month39,,Subject continuing,22 OCT 2025,14
+Study 21,ARGENTINA,Site 913,Subject 10993,,,,Month39,,Subject continuing,22 OCT 2025,14
+Study 21,BRAZIL,Site 923,Subject 11839,,,,Month33,,Subject continuing,5 SEP 2025,61
+Study 21,BRAZIL,Site 924,Subject 11904,,,,EOS,,,Missing visit date,
+Study 21,BRAZIL,Site 924,Subject 11904,,,,EOS,,,Missing visit date,
+Study 21,BRAZIL,Site 924,Subject 11904,,,,EOS,,,Missing visit date,
+Study 21,BRAZIL,Site 924,Subject 11904,,,,EOS,,,Missing visit date,
+Study 21,BRAZIL,Site 927,Subject 12317,,,,Month27,,Subject continuing,2 OCT 2025,34
+Study 21,BRAZIL,Site 928,Subject 12326,,,,Month39,,Subject continuing,20 OCT 2025,16
+Study 21,BRAZIL,Site 930,Subject 12464,,,,Month39,,Subject continuing,29 OCT 2025,7
+Study 21,BRAZIL,Site 933,Subject 12858,,,,Screening,,Subject continuing,31 MAY 2023,889
+Study 21,BRAZIL,Site 940,Subject 13137,,,,Month39,,Subject continuing,15 SEP 2025,51
+Study 21,BRAZIL,Site 941,Subject 13181,,,,Month39,,Subject continuing,15 SEP 2025,51
+Study 21,CANADA,Site 979,Subject 14033,,,,EOS,,,Missing visit date,
+Study 21,CANADA,Site 984,Subject 14164,,,,Month39,,Subject continuing,3 SEP 2025,63
+Study 21,CHILE,Site 994,Subject 14541,,,,Month27,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,ICELAND,Site 1008,Subject 14794,,,,Month33,,Missed visit - subject unavailable,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 330,Subject 15418,,,,Month33,,Subject continuing,13 OCT 2025,23
+Study 21,UNITED STATES OF AMERICA,Site 330,Subject 15428,,,,Month33,,Subject continuing,31 OCT 2025,5
+Study 21,UNITED STATES OF AMERICA,Site 538,Subject 3827,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 538,Subject 3827,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 538,Subject 3827,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 538,Subject 3827,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1038,Subject 15737,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1038,Subject 15737,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1061,Subject 16180,,,,Month33,,Subject continuing,1 OCT 2025,35
+Study 21,UNITED STATES OF AMERICA,Site 1067,Subject 16262,,,,Unplanned Visit (1),,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1067,Subject 16262,,,,Unplanned Visit (1),,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1084,Subject 16508,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1084,Subject 16508,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1084,Subject 16508,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1089,Subject 16588,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1089,Subject 16588,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1089,Subject 16588,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1089,Subject 16588,,,,Month39,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1090,Subject 16633,,,,Month27,,Subject continuing,24 OCT 2025,12
+Study 21,UNITED STATES OF AMERICA,Site 1093,Subject 16684,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1093,Subject 16684,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1099,Subject 16753,,,,EOS,,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1110,Subject 16879,,,,Month45,,Subject continuing,5 NOV 2025,0
+Study 21,UNITED STATES OF AMERICA,Site 1025,Subject 17140,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1025,Subject 17140,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1138,Subject 17401,,,,Month21,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1026,Subject 17594,,,,Month27,,Missed visit - subject unavailable,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1026,Subject 17594,,,,Month33,,Missed visit - subject unavailable,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1026,Subject 17594,,,,Month33,,Missed visit - subject unavailable,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1161,Subject 17722,,,,Month21,,Missed visit - subject unavailable,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1161,Subject 17722,,,,Month21,,Missed visit - subject unavailable,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1168,Subject 17789,,,,Unplanned Visit (1),,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1168,Subject 17789,,,,Unplanned Visit (1),,,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1178,Subject 17833,,,,Month39,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1178,Subject 17833,,,,Month39,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1178,Subject 17836,,,,Month39,,Subject discontinued from study at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1182,Subject 17896,,,,Month21,,Subject discontinued from study at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1182,Subject 17896,,,,Month21,,Subject discontinued from study at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1227,Subject 18647,,,,Month27,,Subject continuing,15 OCT 2025,21
+Study 21,UNITED STATES OF AMERICA,Site 1230,Subject 18683,,,,Month27,,Subject continuing,03 SEP 2025,63
+Study 21,UNITED STATES OF AMERICA,Site 1261,Subject 19209,,,,Month33,,Missed visit - subject unavailable,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1264,Subject 19255,,,,Month27,,Subject continuing,13 OCT 2025,23
+Study 21,UNITED STATES OF AMERICA,Site 1264,Subject 19255,,,,Month27,,Subject continuing,13 OCT 2025,23
+Study 21,UNITED STATES OF AMERICA,Site 1267,Subject 19283,,,,Month21,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1267,Subject 19283,,,,Month21,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1267,Subject 19286,,,,Month9,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1267,Subject 19286,,,,Month9,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1270,Subject 19298,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1270,Subject 19298,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1270,Subject 19298,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1270,Subject 19298,,,,Month33,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1275,Subject 19410,,,,Month27,,Subject discontinued from study at this visit,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1279,Subject 19438,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1279,Subject 19438,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1279,Subject 19438,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,UNITED STATES OF AMERICA,Site 1279,Subject 19438,,,,Month27,,Subject continuing,Missing visit date,
+Study 21,CHINA,Site 191,Subject 1683,,,,Month27,,Subject continuing,23 OCT 2025,13
+Study 21,CHINA,Site 195,Subject 19906,,,,Month9,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,CHINA,Site 1313,Subject 20223,,,,Month27,,Subject continuing,29 OCT 2025,7
+Study 21,CHINA,Site 1313,Subject 20223,,,,Month27,,Subject continuing,29 OCT 2025,7
+Study 21,CHINA,Site 1318,Subject 20252,,,,Month27,,Subject continuing,23 OCT 2025,13
+Study 21,CHINA,Site 1318,Subject 20252,,,,Month27,,Subject continuing,23 OCT 2025,13
+Study 21,CHINA,Site 1318,Subject 20252,,,,Month27,,Subject continuing,23 OCT 2025,13
+Study 21,AUSTRALIA,Site 1335,Subject 20372,,,,Month27,,Subject discontinued from treatment at this visit,1 SEP 2025,65
+Study 21,BELGIUM,Site 1355,Subject 20693,,,,Month33,,Subject continuing,19 SEP 2025,47
+Study 21,BULGARIA,Site 1369,Subject 21120,,,,Month39,,Subject continuing,29 SEP 2025,37
+Study 21,COLOMBIA,Site 546,Subject 21877,,,,Month27,,Subject continuing,27 AUG 2025,70
+Study 21,COLOMBIA,Site 546,Subject 21877,,,,Month27,,Subject continuing,27 AUG 2025,70
+Study 21,COLOMBIA,Site 548,Subject 22082,,,,Month27,,Subject continuing,20 OCT 2025,16
+Study 21,COLOMBIA,Site 548,Subject 22082,,,,Month27,,Subject continuing,20 OCT 2025,16
+Study 21,COLOMBIA,Site 548,Subject 22084,,,,Month27,,Subject continuing,20 OCT 2025,16
+Study 21,COLOMBIA,Site 548,Subject 22084,,,,Month27,,Subject continuing,20 OCT 2025,16
+Study 21,COLOMBIA,Site 548,Subject 22086,,,,Month27,,Subject continuing,21 OCT 2025,15
+Study 21,COLOMBIA,Site 548,Subject 22086,,,,Month27,,Subject continuing,21 OCT 2025,15
+Study 21,CZECHIA,Site 1405,Subject 22639,,,,Unplanned Visit (2),,,Missing visit date,
+Study 21,CZECHIA,Site 1405,Subject 22639,,,,Unplanned Visit (2),,,Missing visit date,
+Study 21,CZECHIA,Site 1413,Subject 22874,,,,Month27,,Subject continuing,02 SEP 2025,64
+Study 21,CZECHIA,Site 1415,Subject 22969,,,,EOS,,,Missing visit date,
+Study 21,CZECHIA,Site 1415,Subject 22969,,,,EOS,,,Missing visit date,
+Study 21,CZECHIA,Site 1415,Subject 22969,,,,EOS,,,Missing visit date,
+Study 21,CZECHIA,Site 1415,Subject 22969,,,,EOS,,,Missing visit date,
+Study 21,CZECHIA,Site 1415,Subject 22984,,,,Month27,,Subject continuing,4 SEP 2025,62
+Study 21,CZECHIA,Site 1415,Subject 22984,,,,Month27,,Subject continuing,4 SEP 2025,62
+Study 21,CZECHIA,Site 1415,Subject 22984,,,,Month27,,Subject continuing,4 SEP 2025,62
+Study 21,DENMARK,Site 1426,Subject 23261,,,,Month27,,Subject continuing,30 SEP 2025,36
+Study 21,DENMARK,Site 1426,Subject 23261,,,,Month33,,Subject continuing,Missing visit date,
+Study 21,HUNGARY,Site 1432,Subject 23392,,,,Unplanned Visit (1),,,18 MAY 2022,1267
+Study 21,HUNGARY,Site 1433,Subject 23444,,,,Month33,,Subject continuing,8 SEP 2025,58
+Study 21,HUNGARY,Site 1433,Subject 23444,,,,Month33,,Subject continuing,8 SEP 2025,58
+Study 21,HUNGARY,Site 1433,Subject 23444,,,,Month33,,Subject continuing,8 SEP 2025,58
+Study 21,ISRAEL,Site 1456,Subject 24066,,,,Month27,,Subject continuing,18 SEP 2025,48
+Study 21,ISRAEL,Site 1458,Subject 24105,,,,Month33,,Subject continuing,2 NOV 2025,3
+Study 21,ISRAEL,Site 1458,Subject 24147,,,,Month27,,Subject continuing,27 OCT 2025,9
+Study 21,ISRAEL,Site 1458,Subject 24173,,,,Month27,,Subject continuing,26 OCT 2025,10
+Study 21,LATVIA,Site 1464,Subject 24283,,,,Month27,,Subject continuing,18 SEP 2025,48
+Study 21,LITHUANIA,Site 1471,Subject 24644,,,,Month33,,Subject continuing,7 OCT 2025,29
+Study 21,MEXICO,Site 1488,Subject 25044,,,,Month33,,Subject continuing,15 OCT 2025,21
+Study 21,MEXICO,Site 1488,Subject 25044,,,,Month33,,Subject continuing,15 OCT 2025,21
+Study 21,MEXICO,Site 1492,Subject 25119,,,,Unplanned Visit (1),,,24 JUN 2024,499
+Study 21,MEXICO,Site 1494,Subject 25161,,,,EOS,,,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25531,,,,Month9,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25531,,,,Month9,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month15,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month15,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month15,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month15,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month21,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month21,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month21,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month21,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month27,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month27,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month27,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1509,Subject 25538,,,,Month27,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,POLAND,Site 1510,Subject 25553,,,,Unplanned Visit (1),,,2 MAR 2023,979
+Study 21,POLAND,Site 1510,Subject 25553,,,,Unplanned Visit (2),,,9 MAR 2023,972
+Study 21,POLAND,Site 1510,Subject 25553,,,,Unplanned Visit (3),,,21 MAR 2023,960
+Study 21,POLAND,Site 1510,Subject 25553,,,,Unplanned Visit (4),,,14 APR 2023,936
+Study 21,POLAND,Site 1510,Subject 25553,,,,Unplanned Visit (5),,,17 MAY 2023,903
+Study 21,POLAND,Site 1527,Subject 26526,,,,Month15,,Subject discontinued from treatment at this visit,21 FEB 2024,623
+Study 21,POLAND,Site 1527,Subject 26526,,,,Month15,,Subject discontinued from treatment at this visit,21 FEB 2024,623
+Study 21,SOUTH AFRICA,Site 1559,Subject 27402,,,,Unplanned Visit (7),,,Missing visit date,
+Study 21,SOUTH AFRICA,Site 1559,Subject 27402,,,,Unplanned Visit (7),,,Missing visit date,
+Study 21,SOUTH AFRICA,Site 1572,Subject 27715,,,,EOS,,,Missing visit date,
+Study 21,SOUTH AFRICA,Site 1572,Subject 27715,,,,EOS,,,Missing visit date,
+Study 21,SOUTH AFRICA,Site 1572,Subject 27715,,,,EOS,,,Missing visit date,
+Study 21,SOUTH AFRICA,Site 1572,Subject 27715,,,,EOS,,,Missing visit date,
+Study 21,KOREA (THE REPUBLIC OF),Site 1580,Subject 27937,,,,Month33,,Subject continuing,16 OCT 2025,20
+Study 21,THAILAND,Site 1609,Subject 28565,,,,Month33,,Subject continuing,15 OCT 2025,21
+Study 21,TURKEY,Site 1623,Subject 28893,,,,Month21,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,TURKEY,Site 1623,Subject 28893,,,,Month21,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,TURKEY,Site 1624,Subject 28967,,,,Month9,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,TURKEY,Site 1624,Subject 28967,,,,Month9,,Subject discontinued from treatment at this visit,Missing visit date,
+Study 21,SERBIA,Site 1625,Subject 29031,,,,Month15,,Missed visit - subject unavailable,Missing visit date,
+Study 21,SERBIA,Site 1625,Subject 29034,,,,Month27,,Subject continuing,10 OCT 2025,26
+Study 21,SERBIA,Site 1627,Subject 29229,,,,Month27,,Subject continuing,2 SEP 2025,64
+Study 21,SERBIA,Site 1627,Subject 29229,,,,Month27,,Subject continuing,2 SEP 2025,64
+Study 21,SERBIA,Site 1627,Subject 29229,,,,Month27,,Subject continuing,2 SEP 2025,64
+Study 21,SERBIA,Site 1627,Subject 29250,,,,Month27,,Subject continuing,1 OCT 2025,35
+Study 21,SERBIA,Site 1640,Subject 29670,,,,Month27,,Subject discontinued from study at this visit,Missing visit date,
+Study 21,SERBIA,Site 1640,Subject 29670,,,,Month27,,Subject discontinued from study at this visit,Missing visit date,
+Study 21,SERBIA,Site 1640,Subject 29693,,,,Month27,,Subject discontinued from study at this visit,Missing visit date,
+Study 21,SERBIA,Site 1640,Subject 29693,,,,Month27,,Subject discontinued from study at this visit,Missing visit date,

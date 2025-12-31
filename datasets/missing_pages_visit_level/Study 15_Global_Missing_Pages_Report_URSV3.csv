@@ -1,0 +1,183 @@
+﻿Study Name,SiteGroupName(CountryName),SiteNumber,SubjectName,Overall Subject Status,Visit Level Subject Status,form_subject_status,visit_name,FolderName,FormName,Visit date,No. #Days Page Missing
+Study 15,USA,Site 2,Subject 2,Screening,,,,Screening,Form 10,14 OCT 2025,31
+Study 15,USA,Site 2,Subject 2,Screening,,,,Screening,Form 15,14 OCT 2025,31
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Baseline,Form 4,Missing visit date,
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Baseline,Form 15,Missing visit date,
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Baseline,Form 15,Missing visit date,
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 4,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 8,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 9,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 10,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 11,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 12,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 13,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 14,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 15,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Day 1,Form 16,13 NOV 2025,1
+Study 15,USA,Site 2,Subject 3,On Trial,,,,Day 2,Form 15,Missing visit date,
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Screening,Form 4,16 OCT 2025,29
+Study 15,USA,Site 2,Subject 3,On Trial,Subject continuing,,,Screening,Form 27,16 OCT 2025,29
+Study 15,USA,Site 2,Subject 4,Screening,,,,Screening,Form 10,16 OCT 2025,29
+Study 15,USA,Site 2,Subject 4,Screening,,,,Screening,Form 15,16 OCT 2025,29
+Study 15,USA,Site 2,Subject 5,Screening,,,,Screening,Form 10,16 OCT 2025,29
+Study 15,USA,Site 2,Subject 5,Screening,,,,Screening,Form 15,16 OCT 2025,29
+Study 15,USA,Site 2,Subject 99,Screening,,,,Screening,Form 10,16 OCT 2025,29
+Study 15,USA,Site 2,Subject 99,Screening,,,,Screening,Form 15,16 OCT 2025,29
+Study 15,USA,Site 2,Subject 100,Screening,,,,Screening,Form 10,22 OCT 2025,23
+Study 15,USA,Site 2,Subject 100,Screening,,,,Screening,Form 15,22 OCT 2025,23
+Study 15,USA,Site 2,Subject 3399,Screening,Subject continuing,,,Baseline,Form 4,12 NOV 2025,2
+Study 15,USA,Site 2,Subject 3399,Screening,Subject continuing,,,Baseline,Form 15,12 NOV 2025,2
+Study 15,USA,Site 2,Subject 3399,Screening,,,,Day 1,Form 15,Missing visit date,
+Study 15,USA,Site 2,Subject 3399,Screening,Subject continuing,,,Screening,Form 4,24 OCT 2025,21
+Study 15,USA,Site 2,Subject 3400,Completed,Subject continuing,,,Baseline,Form 4,12 NOV 2025,2
+Study 15,USA,Site 2,Subject 3400,Completed,Subject continuing,,,Baseline,Form 15,12 NOV 2025,2
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 4,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 8,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 9,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 10,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 11,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 12,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 13,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 14,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 15,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject discontinued from study at this visit,,,Day 1,Form 16,Missing visit date,
+Study 15,USA,Site 2,Subject 3400,Completed,Subject continuing,,,Screening,Form 4,24 OCT 2025,21
+Study 15,USA,Site 2,Subject 3400,Completed,Subject continuing,,,Screening,Form 27,24 OCT 2025,21
+Study 15,USA,Site 2,Subject 3403,Screening,,,,Screening,Form 10,27 OCT 2025,18
+Study 15,USA,Site 2,Subject 3403,Screening,,,,Screening,Form 15,27 OCT 2025,18
+Study 15,USA,Site 2,Subject 3405,Screening,,,,Screening,Form 10,29 OCT 2025,16
+Study 15,USA,Site 2,Subject 3405,Screening,,,,Screening,Form 15,29 OCT 2025,16
+Study 15,USA,Site 2,Subject 3409,Screening,,,,Screening,Form 10,03 NOV 2025,11
+Study 15,USA,Site 2,Subject 3409,Screening,,,,Screening,Form 15,03 NOV 2025,11
+Study 15,USA,Site 2,Subject 3410,Screening,,,,Screening,Form 10,03 NOV 2025,11
+Study 15,USA,Site 2,Subject 3410,Screening,,,,Screening,Form 15,03 NOV 2025,11
+Study 15,USA,Site 2,Subject 3411,Screening,,,,Screening,Form 10,03 NOV 2025,11
+Study 15,USA,Site 2,Subject 3411,Screening,,,,Screening,Form 15,03 NOV 2025,11
+Study 15,USA,Site 2,Subject 4023,Screening,,,,Screening,Form 10,07 NOV 2025,7
+Study 15,USA,Site 2,Subject 4023,Screening,,,,Screening,Form 15,07 NOV 2025,7
+Study 15,USA,Site 2,Subject 4024,Screening,,,,Screening,Form 10,07 NOV 2025,7
+Study 15,USA,Site 2,Subject 4024,Screening,,,,Screening,Form 15,07 NOV 2025,7
+Study 15,USA,Site 3,Subject 8,Screening,,,,Baseline,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 104,On Trial,Subject continuing,,,Day 1,Form 4,11 NOV 2025,3
+Study 15,USA,Site 3,Subject 104,On Trial,Subject continuing,,,Day 1,Form 12,11 NOV 2025,3
+Study 15,USA,Site 3,Subject 104,On Trial,Subject continuing,,,Day 2,Form 4,12 NOV 2025,2
+Study 15,USA,Site 3,Subject 104,On Trial,Subject continuing,,,Day 2,Form 9,12 NOV 2025,2
+Study 15,USA,Site 3,Subject 104,On Trial,Subject continuing,,,Day 2,Form 12,12 NOV 2025,2
+Study 15,USA,Site 3,Subject 104,On Trial,Subject continuing,,,Day 3,Form 9,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 104,On Trial,Subject continuing,,,Day 3,Form 12,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 104,On Trial,,,,Day 4,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 776,On Trial,Subject continuing,,,Day 1,Form 4,11 NOV 2025,3
+Study 15,USA,Site 3,Subject 776,On Trial,Subject continuing,,,Day 1,Form 12,11 NOV 2025,3
+Study 15,USA,Site 3,Subject 776,On Trial,Subject continuing,,,Day 2,Form 4,12 NOV 2025,2
+Study 15,USA,Site 3,Subject 776,On Trial,Subject continuing,,,Day 2,Form 9,12 NOV 2025,2
+Study 15,USA,Site 3,Subject 776,On Trial,Subject continuing,,,Day 2,Form 12,12 NOV 2025,2
+Study 15,USA,Site 3,Subject 776,On Trial,Subject continuing,,,Day 3,Form 4,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 776,On Trial,Subject continuing,,,Day 3,Form 9,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 776,On Trial,Subject continuing,,,Day 3,Form 12,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 776,On Trial,,,,Day 4,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 777,Screening,,,,Screening,Form 10,14 OCT 2025,31
+Study 15,USA,Site 3,Subject 777,Screening,,,,Screening,Form 15,14 OCT 2025,31
+Study 15,USA,Site 3,Subject 781,Screening,,,,Baseline,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 781,Screening,,,,Baseline,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 781,Screening,,,,Baseline,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 781,Screening,Subject continuing,,,Screening,Form 4,14 OCT 2025,31
+Study 15,USA,Site 3,Subject 781,Screening,Subject continuing,,,Screening,Form 27,14 OCT 2025,31
+Study 15,USA,Site 3,Subject 4028,On Trial,Subject continuing,,,Day 1,Form 4,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4028,On Trial,Subject continuing,,,Day 1,Form 9,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4028,On Trial,Subject continuing,,,Day 1,Form 11,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4028,On Trial,Subject continuing,,,Day 1,Form 12,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4028,On Trial,Subject continuing,,,Day 1,Form 16,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4028,On Trial,,,,Day 2,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4033,Screening,,,,Screening,Form 10,16 OCT 2025,29
+Study 15,USA,Site 3,Subject 4033,Screening,,,,Screening,Form 15,16 OCT 2025,29
+Study 15,USA,Site 3,Subject 4034,On Trial,Subject continuing,,,Day 1,Form 4,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4034,On Trial,Subject continuing,,,Day 1,Form 9,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4034,On Trial,Subject continuing,,,Day 1,Form 11,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4034,On Trial,Subject continuing,,,Day 1,Form 12,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4034,On Trial,Subject continuing,,,Day 1,Form 16,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4034,On Trial,,,,Day 2,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4035,On Trial,Subject continuing,,,Day 1,Form 4,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4035,On Trial,Subject continuing,,,Day 1,Form 9,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4035,On Trial,Subject continuing,,,Day 1,Form 11,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4035,On Trial,Subject continuing,,,Day 1,Form 12,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4035,On Trial,Subject continuing,,,Day 1,Form 16,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4035,On Trial,,,,Day 2,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4038,On Trial,Subject continuing,,,Day 1,Form 4,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4038,On Trial,Subject continuing,,,Day 1,Form 9,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4038,On Trial,Subject continuing,,,Day 1,Form 11,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4038,On Trial,Subject continuing,,,Day 1,Form 12,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4038,On Trial,Subject continuing,,,Day 1,Form 16,13 NOV 2025,1
+Study 15,USA,Site 3,Subject 4038,On Trial,,,,Day 2,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4038,On Trial,Subject continuing,,,Screening,Form 4,17 OCT 2025,28
+Study 15,USA,Site 3,Subject 4046,Screening,,,,Screening,Form 10,21 OCT 2025,24
+Study 15,USA,Site 3,Subject 4046,Screening,,,,Screening,Form 15,21 OCT 2025,24
+Study 15,USA,Site 3,Subject 4047,Screening,,,,Screening,Form 15,21 OCT 2025,24
+Study 15,USA,Site 3,Subject 4053,Screening,,,,Screening,Form 10,22 OCT 2025,23
+Study 15,USA,Site 3,Subject 4053,Screening,,,,Screening,Form 15,22 OCT 2025,23
+Study 15,USA,Site 3,Subject 4055,Screen Failure,Subject discontinued from study at this visit,,,Screening,Form 10,22 OCT 2025,23
+Study 15,USA,Site 3,Subject 4057,Screening,,,,Screening,Form 10,22 OCT 2025,23
+Study 15,USA,Site 3,Subject 4057,Screening,,,,Screening,Form 15,22 OCT 2025,23
+Study 15,USA,Site 3,Subject 4058,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4058,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4058,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4058,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4058,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4059,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4059,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4059,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4059,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4059,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4060,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4060,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4060,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4060,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4060,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4061,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4061,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4061,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4061,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4061,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4063,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4063,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4063,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4063,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4063,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4064,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4064,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4064,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4064,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4064,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4065,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4065,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4065,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4065,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4065,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4066,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4066,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4066,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4066,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4066,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4067,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4067,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4067,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4067,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4067,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4068,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4068,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4068,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4068,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4068,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4069,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4069,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4069,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4069,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4069,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4070,Screening,,,,Screening,Form 9,Missing visit date,
+Study 15,USA,Site 3,Subject 4070,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4070,Screening,,,,Screening,Form 10,Missing visit date,
+Study 15,USA,Site 3,Subject 4070,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4070,Screening,,,,Screening,Form 15,Missing visit date,
+Study 15,USA,Site 3,Subject 4071,Screening,,,,Screening,Form 15,07 NOV 2025,7
+Study 15,USA,Site 3,Subject 4072,Screening,,,,Screening,Form 15,07 NOV 2025,7
+Study 15,USA,Site 3,Subject 4073,Screening,,,,Screening,Form 15,07 NOV 2025,7
+,,,,,,,,,,,
